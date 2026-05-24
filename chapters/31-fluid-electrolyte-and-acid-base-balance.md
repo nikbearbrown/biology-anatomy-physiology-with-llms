@@ -223,29 +223,3 @@ Who was Lawrence J. Henderson, and how does the Henderson–Hasselbalch equation
 - Ask it to compare Henderson's chemical view of homeostasis with Walter Cannon's later behavioral framing.
 
 What changes? What gets better? What gets worse?
-
-## Prompts
-
-Use these prompts with Claude to generate interactive D3 v7 versions of the
-figures in this chapter. Each produces a standalone HTML file you can open
-in a browser and modify freely.
-
-**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
-your Claude project context before using these prompts. They define the stack,
-naming conventions, color system, and typography the figures use.
-
----
-
-### Figure 31.1 — Body fluid compartment diagram 
-
-Create a standalone D3 v7 HTML file for Figure Body fluid compartment diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: body fluid compartment diagram — human body outline with three nested zones labeled: (1) intracellular fluid ~28 L (largest, inside cell membranes); (2) interstitial fluid ~11 L (between cells, outside capillaries); (3) plasma ~3 L (inside blood vessels); annotate total body water ~42 L and the percentage each represents (ICF ~67%, IF ~26%, plasma ~7%); arrows showing osmotic movement of water between compartments in response to solute concentration changes; student should see the three-compartment model and understand that plasma is the smallest compartment but the one most directly accessible to clinical measurement. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color varia
-
-> Reference implementation: `d3/31-fluid-electrolyte-and-acid-base-balance-fig-01.html`
-
----
-
-### Figure 31.2 — Renal bicarbonate reabsorption mechanism 
-
-Create a standalone D3 v7 HTML file for Figure Renal bicarbonate reabsorption mechanism . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: renal bicarbonate reabsorption mechanism — cross-section of a proximal tubule cell; left side faces tubular lumen with filtered HCO₃⁻; right side faces blood; show: (1) H⁺ secreted from cell into lumen; (2) H⁺ + HCO₃⁻ → H₂CO₃ in lumen; (3) carbonic anhydrase on luminal membrane converts H₂CO₃ → CO₂ + H₂O; (4) CO₂ diffuses into tubule cell; (5) intracellular carbonic anhydrase converts CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻; (6) HCO₃⁻ exits basolateral membrane into blood; (7) H⁺ secreted again; label the net result: one HCO₃⁻ returned to blood per H⁺ secreted; student should see this as a cycle that regenerates bicarbonate from CO₂ without truly reabsorbing the original filtered molecule. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where pos
-
-> Reference implementation: `d3/31-fluid-electrolyte-and-acid-base-balance-fig-02.html`
