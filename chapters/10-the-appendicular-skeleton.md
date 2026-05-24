@@ -21,7 +21,8 @@ Your leg needs to support your body weight, repeatedly, for decades. Every step 
 
 The skeleton's answer is not subtle. The shoulder joint is a ball resting in a shallow dish. The hip joint is a ball jammed into a deep cup. Measure the difference: the shoulder allows roughly 180 degrees of forward elevation and nearly as much in other planes. The hip, constrained by its deep socket and heavy ligaments, allows far less. Motion traded for stability, stability traded for motion — and the trade is written directly in the anatomy.
 
-<!-- → [DIAGRAM: side-by-side comparison of glenohumeral joint and hip joint — same scale, showing the shallow glenoid cavity vs. the deep acetabulum, the ball-to-socket depth ratio labeled for each; caption: "the depth of the socket is the single most visible expression of the mobility-stability trade-off — shallow means mobile, deep means stable"] -->
+![the depth of the socket is the single most visible expression of the mobility-stability trade-off — shallow means mobile, deep means stable](images/10-the-appendicular-skeleton-fig-01.png)
+*Figure 10.1 — Comparison of glenohumeral joint and hip joint *
 
 ---
 
@@ -35,7 +36,8 @@ The clavicle's shape is not decorative. It is an S-shaped horizontal strut that 
 
 This is why the clavicle is the most commonly broken bone in the body. When force travels up that chain and exceeds what the clavicle can handle, the clavicle snaps. It fails rather than the sternum or the shoulder joint. In this mechanical sense, the clavicle is a fuse — a thin, replaceable component positioned to fail in a survivable way before the critical structures behind it do.
 
-<!-- → [DIAGRAM: force transmission chain from palm to sternum — hand → radius/ulna → humerus → scapula → clavicle → sternum, with each segment labeled and the clavicle highlighted as the narrowest cross-section; caption: "force must pass through the clavicle's narrowest point — this is why it breaks first, and why that is mechanically preferable to the sternum breaking instead"] -->
+![force must pass through the clavicle's narrowest point — this is why it breaks first, and why that is mechanically preferable to the sternum breaking instead](images/10-the-appendicular-skeleton-fig-02.png)
+*Figure 10.2 — Force transmission chain from palm to sternum *
 
 The scapula gives the glenohumeral joint its socket. The glenoid cavity — the cup — is shallow. A tennis ball balanced on a saucer is a reasonable image. The ball of the humerus sits there, and three layers of structure work to keep it in place: a ring of cartilage (the labrum) that deepens the socket slightly, the joint capsule, and the rotator cuff muscles. The rotator cuff — supraspinatus, infraspinatus, teres minor, subscapularis — wraps around the joint and pulls the humeral head into the socket while the larger, more powerful shoulder muscles generate motion. The rotator cuff is not about force. It is about stability in the absence of bony constraint. When it fails — a torn supraspinatus, say — the humeral head migrates upward and the shoulder loses its anchor. Movement becomes painful or impossible. The price of the shallow socket is that soft tissue has to do the job that bone does elsewhere.
 
@@ -45,7 +47,8 @@ The forearm has two bones. The radius, on the thumb side, and the ulna, on the l
 
 The hand is where the design fully commits to mobility. Twenty-seven bones in each hand. Eight carpal bones forming the wrist joint — multiple small bones allowing smooth motion in all directions while absorbing force. Five metacarpals forming the palm. Fourteen phalanges in five fingers. The opposable thumb, made possible by a saddle joint at the base of the first metacarpal, is what allows precision grip: a surgeon's suture, a watchmaker's adjustment, a child's first pencil marks. No other joint in the body has this exact geometry. It was selected for because it works.
 
-<!-- → [DIAGRAM: dorsal view of the hand skeleton — labeled bones including carpals (named individually), metacarpals, and phalanges; callout on the first carpometacarpal joint (thumb saddle joint) showing the saddle geometry; caption: "27 bones in the hand — more than in any other region of the appendicular skeleton — because manipulative precision requires degrees of freedom, and degrees of freedom require articulations"] -->
+![27 bones in the hand — more than in any other region of the appendicular skeleton — because manipulative precision requires degrees of freedom, and degrees of freedom require articulations](images/10-the-appendicular-skeleton-fig-03.png)
+*Figure 10.3 — Dorsal view of the hand skeleton *
 
 ---
 
@@ -61,13 +64,15 @@ The female pelvis carries a second constraint. The human infant's head is dispro
 
 The result is a compromise, and you can read it directly in the anatomy. The female pelvis has a wider subpubic angle — the angle between the two pubic bones at the front. In males, the angle is typically less than 70 degrees, a narrow V. In females, it is greater than 80 degrees, sometimes much greater. The female pelvic inlet is oval or rounded; the male pelvic inlet is heart-shaped and narrower. The ischial tuberosities in females are farther apart, widening the pelvic outlet. The sacrum in females is shorter, wider, and less curved, occupying less of the pelvic cavity.
 
-<!-- → [DIAGRAM: anterior view of male vs. female pelvis side by side, same scale — label the subpubic angle on each (< 70° male, > 80° female), the shape of the pelvic inlet, and the distance between ischial tuberosities; caption: "each difference is readable as a solution to a specific constraint — the wider female pelvis is not a variation, it is an answer to the problem of passing a large infant head through a weight-bearing ring"] -->
+![each difference is readable as a solution to a specific constraint — the wider female pelvis is not a variation, it is an answer to the problem of passing a large infant head through a weight-bearing ring](images/10-the-appendicular-skeleton-fig-04.png)
+*Figure 10.4 — Anterior view of male vs*
 
 These are not differences in quality. They are differences in the problem being solved. A forensic anthropologist can determine the sex of an individual from a pelvis alone, with high accuracy, not because one design is male and one female, but because the two problems — pure weight transfer versus weight transfer plus obstetric clearance — have different optimal solutions. The female pelvis solves both. It is, necessarily, a compromise between them. The male pelvis solves only one, and it solves it more completely.
 
 The biomechanical consequence is visible in the clinic. The wider female pelvis produces a larger Q-angle — the angle between the line of the quadriceps muscle and the patellar tendon. A large Q-angle places lateral stress on the knee. Females have higher rates of certain knee injuries, including ACL tears, partly for this reason. This is not a design flaw. It is the expected consequence of a trade-off: the same anatomical features that make childbirth possible impose a different load pattern on the knee. Evolution does not optimize for any single dimension. It finds the arrangement that is least bad across all the constraints simultaneously.
 
-<!-- → [DIAGRAM: anterior view of the lower limb showing Q-angle measurement — draw the line from anterior superior iliac spine through the center of the patella (quadriceps line) and the line from the patella to the tibial tuberosity (patellar tendon line); show a wider Q-angle on a female pelvis vs. narrower on a male pelvis; caption: "the Q-angle is a downstream consequence of pelvic width — the wider the pelvis, the more the femur must angle inward to reach the knee, and the greater the lateral stress on the patellofemoral joint"] -->
+![the Q-angle is a downstream consequence of pelvic width — the wider the pelvis, the more the femur must angle inward to reach the knee, and the greater the lateral stress on the patellofemoral joint](images/10-the-appendicular-skeleton-fig-05.png)
+*Figure 10.5 — Anterior view of the lower limb showing Q-angle*
 
 ---
 
@@ -79,7 +84,8 @@ The femoral head articulates with the acetabulum through a rounded surface much 
 
 Below the neck, the greater trochanter projects laterally from the femoral shaft. This is a large bony protrusion, and it is positioned there deliberately. The hip abductor muscles — gluteus medius, gluteus minimus — attach here. By projecting the attachment point away from the femoral shaft, the greater trochanter creates a longer lever arm for these muscles. More leverage means more force for the same muscle contraction. During walking, the hip abductors fire during single-leg stance to keep the pelvis from dropping to the side. If they were attached directly to the shaft without the trochanteric leverage, they would need to be proportionally stronger — that is, larger, heavier, more metabolically expensive — to do the same job. The greater trochanter is a mechanical efficiency.
 
-<!-- → [DIAGRAM: anterior view of the proximal femur — label the femoral head, neck, greater trochanter, lesser trochanter, and the neck-shaft angle; on a separate callout, draw the lever arm from the hip joint center to the greater trochanter attachment point, showing why the lateral projection increases mechanical advantage for the abductors; caption: "the greater trochanter is not merely a landmark — it is a moment arm, deliberately projecting the muscle attachment point away from the axis of rotation to multiply abductor force"] -->
+![the greater trochanter is not merely a landmark — it is a moment arm, deliberately projecting the muscle attachment point away from the axis of rotation to multiply abductor force](images/10-the-appendicular-skeleton-fig-06.png)
+*Figure 10.6 — Anterior view of the proximal femur *
 
 The femoral shaft is not straight. It has a slight anterior curve, and the femur angles inward from hip to knee — the result of your wide pelvis meeting your narrow knees. This angulation places the knee closer to the body's center line than the hip, which is mechanically advantageous for balance during walking. But it also means the femur transmits force at an angle, creating bending stresses in the shaft. The anterior curvature counteracts this partly: a curved beam resists bending better than a straight one at the same weight. The linea aspera — the rough ridge running along the posterior femoral shaft — marks where muscles attach along the length of the bone. Attachment distributed along the length of the bone, rather than concentrated at one point, spreads the loads and reduces stress concentration.
 
@@ -87,7 +93,8 @@ The tibia and fibula form the leg. Here the trade-off is between the two bones t
 
 The fibula, on the lateral side, is thin. It does not articulate with the femur. It does not bear the body's weight. Its proximal end connects to the tibia through the proximal tibiofibular joint, and its distal end forms the lateral malleolus — the bony bump on the outside of your ankle. The fibula's job is to provide attachment for muscles in the lower leg and to help form the ankle joint. For weight-bearing, it is largely irrelevant. The contrast between tibia and fibula is the same trade-off expressed within a single limb segment: the weight-bearing bone is thick; the non-weight-bearing bone is thin.
 
-<!-- → [DIAGRAM: anterior view of tibia and fibula side by side at the same scale — show the relative cross-sectional thickness at mid-shaft for each bone; label the tibial tuberosity, medial malleolus, lateral malleolus, and the interosseous membrane connecting them; caption: "the tibia and fibula solve different problems in the same segment — thickness tracks load, and the load is carried almost entirely by the tibia"] -->
+![the tibia and fibula solve different problems in the same segment — thickness tracks load, and the load is carried almost entirely by the tibia](images/10-the-appendicular-skeleton-fig-07.png)
+*Figure 10.7 — Anterior view of tibia and fibula side by*
 
 ---
 
@@ -101,7 +108,8 @@ Twenty-six bones in each foot. Seven tarsal bones forming the ankle and back of 
 
 The toes are short and less mobile than fingers. The foot has not committed to the mobility strategy of the hand. The big toe has limited independent motion compared to the thumb. What the foot has instead is rigidity at push-off: the plantar fascia — a thick band of connective tissue running along the sole — tightens as the toes are extended, locking the arch and converting the foot from a flexible shock absorber into a rigid lever for propulsion. This mechanism, the windlass mechanism, transforms the foot in real time from one function to another. During initial contact and loading, the foot is compliant and absorbs force. During push-off, it is rigid and transmits force. The same structure, in sequence, does both.
 
-<!-- → [DIAGRAM: medial view of the foot showing the windlass mechanism in two phases — phase 1 (heel strike, toes neutral): arch slightly elevated, plantar fascia slack; phase 2 (push-off, toes extended): arch elevated and locked, plantar fascia taut; show the calcaneus, metatarsal heads, and plantar fascia as the bowstring of the arch; caption: "the windlass mechanism is the foot converting itself — compliant during loading, rigid during propulsion — using toe extension to tension the plantar fascia and lock the arch"] -->
+![the windlass mechanism is the foot converting itself — compliant during loading, rigid during propulsion — using toe extension to tension the plantar fascia and lock the arch](images/10-the-appendicular-skeleton-fig-08.png)
+*Figure 10.8 — Medial view of the foot showing the windlass*
 
 ---
 
@@ -117,7 +125,8 @@ And the pelvis carries a third constraint that neither the shoulder nor the arm 
 
 None of this is error. All of it is answer. The skeleton is not a general-purpose structure waiting to be used. It is a collection of specific solutions to specific problems, built by selection over millions of years. To understand why any bone is shaped the way it is, ask what it has to do — and then ask what it had to give up in order to do it.
 
-<!-- → [INFOGRAPHIC: summary comparison table rendered visually — two columns (upper limb, lower limb) with rows for: girdle attachment (single joint vs. rigid ring), socket depth (shallow vs. deep), bone mass (light vs. heavy), primary function (reach/manipulation vs. weight-bearing/propulsion), key trade-off (mobility costs stability vs. stability costs mobility); at the bottom, a third column for the pelvis showing the added obstetric constraint — lets students use the whole chapter as a visual argument rather than a list] -->
+![Summary comparison table rendered visually ](images/10-the-appendicular-skeleton-fig-09.png)
+*Figure 10.9 — Summary comparison table rendered visually *
 
 ---
 
@@ -164,3 +173,106 @@ None of this is error. All of it is answer. The skeleton is not a general-purpos
 4. **Synthesis:** The Q-angle of the knee is larger in females than in males. Trace the chain of causation from the obstetric demands on the female pelvis, through the anatomy of the pelvis and femur, to the mechanics of the knee — explaining at each step why the previous link in the chain produces the next.
 
 5. **Teaching test:** Without using the words "mobility," "stability," "upper," or "lower," explain to someone who has never studied anatomy why the shoulder and hip joints look different. You may use analogies. If you find you cannot explain it without those words, identify which concept each word is standing in for and explain that concept directly.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Bernhard Siegfried Albinus** was an 18th-century Dutch anatomist whose 1747 atlas *Tables of the Skeleton and Muscles of the Human Body* set the visual standard for anatomical illustration for two centuries. He posed skeletons against ornate backgrounds — including a famous one with a rhinoceros.
+
+**Run this:**
+
+```
+Who was Bernhard Siegfried Albinus, and how does his 1747 atlas of skeleton and muscle anatomy connect to the appendicular skeleton structures we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Bernhard Siegfried Albinus"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Albinus's illustrated approach to anatomy with modern 3D models and digital atlases — what does each gain and lose?
+- Add a constraint: "Answer as Albinus's preface to the 1747 atlas, defending his decision to pose the skeletons in landscape scenes."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 10.1 — Comparison of glenohumeral joint and hip joint 
+
+Create a standalone D3 v7 HTML file for Figure Comparison of glenohumeral joint and hip joint . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: side-by-side comparison of glenohumeral joint and hip joint — same scale, showing the shallow glenoid cavity vs. the deep acetabulum, the ball-to-socket depth ratio labeled for each; caption: "the depth of the socket is the single most visible expression of the mobility-stability trade-off — shallow means mobile, deep means stable". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-01.html`
+
+---
+
+### Figure 10.2 — Force transmission chain from palm to sternum 
+
+Create a standalone D3 v7 HTML file for Figure Force transmission chain from palm to sternum . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: force transmission chain from palm to sternum — hand → radius/ulna → humerus → scapula → clavicle → sternum, with each segment labeled and the clavicle highlighted as the narrowest cross-section; caption: "force must pass through the clavicle's narrowest point — this is why it breaks first, and why that is mechanically preferable to the sternum breaking instead". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-02.html`
+
+---
+
+### Figure 10.3 — Dorsal view of the hand skeleton 
+
+Create a standalone D3 v7 HTML file for Figure Dorsal view of the hand skeleton . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: dorsal view of the hand skeleton — labeled bones including carpals (named individually), metacarpals, and phalanges; callout on the first carpometacarpal joint (thumb saddle joint) showing the saddle geometry; caption: "27 bones in the hand — more than in any other region of the appendicular skeleton — because manipulative precision requires degrees of freedom, and degrees of freedom require articulations". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-03.html`
+
+---
+
+### Figure 10.4 — Anterior view of male vs
+
+Create a standalone D3 v7 HTML file for Figure Anterior view of male vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: anterior view of male vs. female pelvis side by side, same scale — label the subpubic angle on each (< 70° male, > 80° female), the shape of the pelvic inlet, and the distance between ischial tuberosities; caption: "each difference is readable as a solution to a specific constraint — the wider female pelvis is not a variation, it is an answer to the problem of passing a large infant head through a weight-bearing ring". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-04.html`
+
+---
+
+### Figure 10.5 — Anterior view of the lower limb showing Q-angle
+
+Create a standalone D3 v7 HTML file for Figure Anterior view of the lower limb showing Q-angle. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: anterior view of the lower limb showing Q-angle measurement — draw the line from anterior superior iliac spine through the center of the patella (quadriceps line) and the line from the patella to the tibial tuberosity (patellar tendon line); show a wider Q-angle on a female pelvis vs. narrower on a male pelvis; caption: "the Q-angle is a downstream consequence of pelvic width — the wider the pelvis, the more the femur must angle inward to reach the knee, and the greater the lateral stress on the patellofemoral joint". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-05.html`
+
+---
+
+### Figure 10.6 — Anterior view of the proximal femur 
+
+Create a standalone D3 v7 HTML file for Figure Anterior view of the proximal femur . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: anterior view of the proximal femur — label the femoral head, neck, greater trochanter, lesser trochanter, and the neck-shaft angle; on a separate callout, draw the lever arm from the hip joint center to the greater trochanter attachment point, showing why the lateral projection increases mechanical advantage for the abductors; caption: "the greater trochanter is not merely a landmark — it is a moment arm, deliberately projecting the muscle attachment point away from the axis of rotation to multiply abductor force". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-06.html`
+
+---
+
+### Figure 10.7 — Anterior view of tibia and fibula side by
+
+Create a standalone D3 v7 HTML file for Figure Anterior view of tibia and fibula side by. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: anterior view of tibia and fibula side by side at the same scale — show the relative cross-sectional thickness at mid-shaft for each bone; label the tibial tuberosity, medial malleolus, lateral malleolus, and the interosseous membrane connecting them; caption: "the tibia and fibula solve different problems in the same segment — thickness tracks load, and the load is carried almost entirely by the tibia". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-07.html`
+
+---
+
+### Figure 10.8 — Medial view of the foot showing the windlass
+
+Create a standalone D3 v7 HTML file for Figure Medial view of the foot showing the windlass. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: medial view of the foot showing the windlass mechanism in two phases — phase 1 (heel strike, toes neutral): arch slightly elevated, plantar fascia slack; phase 2 (push-off, toes extended): arch elevated and locked, plantar fascia taut; show the calcaneus, metatarsal heads, and plantar fascia as the bowstring of the arch; caption: "the windlass mechanism is the foot converting itself — compliant during loading, rigid during propulsion — using toe extension to tension the plantar fascia and lock the arch". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-08.html`
+
+---
+
+### Figure 10.9 — Summary comparison table rendered visually 
+
+Create a standalone D3 v7 HTML file for Figure Summary comparison table rendered visually . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: summary comparison table rendered visually — two columns (upper limb, lower limb) with rows for: girdle attachment (single joint vs. rigid ring), socket depth (shallow vs. deep), bone mass (light vs. heavy), primary function (reach/manipulation vs. weight-bearing/propulsion), key trade-off (mobility costs stability vs. stability costs mobility); at the bottom, a third column for the pelvis showing the added obstetric constraint — lets students use the whole chapter as a visual argument rather than a list. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/10-the-appendicular-skeleton-fig-09.html`

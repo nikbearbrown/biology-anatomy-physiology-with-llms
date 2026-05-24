@@ -391,3 +391,40 @@ I do not fully understand why the menstrual cycle is exactly 28 days in the popu
 **By Nik Bear Brown**
 *Chapter 33, Anatomy and Physiology textbook series*
 *Feynman-style pedagogy: clarity over jargon, mechanism over naming, puzzles over assertion*
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Two timelines for gametogenesis.** Ask a language model to compare oogenesis and spermatogenesis. Spermatogenesis: continuous from puberty, takes ~74 days, produces 4 viable sperm per primary spermatocyte. Oogenesis: arrested in prophase I before birth, resumes one egg per cycle starting at puberty, asymmetric divisions producing 1 viable egg + 3 polar bodies. Then ask: why does this asymmetry exist? The answer is the resource investment — the egg keeps the cytoplasm needed to support early embryogenesis; the sperm contributes only DNA and a centriole. Then ask: how does this difference relate to the maternal-age effect in chromosomal abnormalities?
+
+**Exercise 2 — The 28-day cycle as feedback architecture.** Ask a language model to walk through the menstrual cycle in terms of hormonal control: hypothalamic GnRH pulses → pituitary FSH/LH → ovarian estrogen/progesterone → endometrial response. Explain the switch from negative feedback (most of the cycle) to positive feedback (the LH surge triggering ovulation). Why does the system use positive feedback briefly when most regulation uses negative feedback? Positive feedback is unstable and produces a sharp, irreversible event — exactly what is needed to coordinate ovulation timing precisely.
+
+**Exercise 3 — Parallel anatomy from the same embryonic origin.** Ask a language model to identify homologous structures between male and female reproductive systems: gonads (testes/ovaries), genital tubercle (penis/clitoris), labioscrotal swellings (scrotum/labia majora). Why do these structures share embryonic origins despite their different adult functions? Walk through how the SRY gene on the Y chromosome triggers testis development in males; without SRY, the default pathway produces female anatomy. Then ask: what does the existence of intersex conditions reveal about the developmental flexibility of this system?
+
+**Exercise 4 — Why pregnancy maintenance is a hormonal achievement.** Ask a language model to explain why the corpus luteum produces progesterone for the first ~10 weeks of pregnancy, then the placenta takes over. Why does the body need this hormonal handoff rather than persistent corpus luteum function? The answer is that the corpus luteum has a finite lifespan; the placenta is purpose-built for sustained hormone production. Then ask: how does the placenta's progesterone production relate to the suppression of immune rejection of the fetus (which is genetically half foreign)?
+
+**Exercise 5 — Menopause as the only programmed reproductive end in mammals.** Ask a language model to consider why human females undergo menopause (cessation of ovarian function around age 50-52) while most mammals continue to be reproductively active until very late in life or until death. Walk through the leading hypotheses: depletion of the finite oocyte reserve (a passive end), the grandmother hypothesis (selection for post-reproductive lifespan to support grandchildren), and the maternal-mortality hypothesis (avoiding late-life pregnancies that have higher complication rates). Which hypothesis best fits the comparative data across mammals?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Min Chueh Chang** was a Chinese-American reproductive biologist at the Worcester Foundation who, in 1959, performed the first successful in vitro fertilization in mammals — and earlier co-developed the oral contraceptive pill that reshaped reproductive medicine.
+
+**Run this:**
+
+```
+Who was Min Chueh Chang, and how does his work on in vitro fertilization and oral contraception connect to the reproductive system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Min Chueh Chang"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through one cycle of IVF, mapping each step onto the natural reproductive anatomy you learned in this chapter.
+- Ask it to compare Chang's 1959 mammalian IVF result with the 1978 Edwards–Steptoe human birth — what had to change between species?
+
+What changes? What gets better? What gets worse?

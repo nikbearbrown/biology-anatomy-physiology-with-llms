@@ -13,7 +13,8 @@ Three billion base pairs in your DNA — each one an atom covalently bonded to a
 
 Here is the first thing to understand. An atom has a nucleus — protons and neutrons packed together — and electrons orbiting around it in shells. The first shell holds two electrons. The second and third shells each hold eight. Electrons fill from the inside out.
 
-<!-- → [DIAGRAM: electron shell diagrams of helium and carbon side by side — helium with 2 electrons filling the first shell, carbon with 2 in the first and 4 in the second; label the valence shell on each; caption: "helium's valence shell is full — it does nothing; carbon's has four empty spots — it bonds with almost everything"] -->
+![helium's valence shell is full — it does nothing; carbon's has four empty spots — it bonds with almost everything](images/03-the-chemical-level-of-organization-fig-01.png)
+*Figure 3.1 — Electron shell diagrams of helium and carbon side*
 
 Now here is the key idea: a full outermost shell is stable. An incomplete outermost shell is reactive. This is not a rule someone decreed. It is physics. A full valence shell is lower in energy. Electrons naturally fall toward lower-energy arrangements. An atom with an incomplete outer shell will interact with other atoms until that shell is filled — not because it "wants to," but because that is the lower-energy state and nature moves toward lower energy.
 
@@ -33,7 +34,9 @@ When atoms bond, they do it in a few different ways. Three matter most to us.
 
 **Hydrogen bonds** are not bonds in the same sense. They are attractions between molecules that already exist — specifically, between a hydrogen atom that is slightly positive and an electronegative atom (oxygen or nitrogen) on a nearby molecule that is slightly negative. Each individual hydrogen bond is about 5% as strong as a covalent bond. They break and reform constantly. Yet they are everywhere in biology, and in aggregate they are decisive. They hold the two strands of DNA together. They hold the shape of proteins. And they give water its remarkable properties.
 
-<!-- → [TABLE: three-bond comparison — columns: bond type, mechanism, approximate strength (kcal/mol), reversible under biological conditions?, key biological example; rows: covalent, ionic, hydrogen — student should see the strength-reversibility trade-off at a glance] -->
+| bond type | mechanism | approximate strength (kcal | mol) | reversible under biological conditions? |
+| --- | --- | --- | --- | --- |
+| covalent, ionic, hydrogen | student should see the strength-reversibility trade-off at a glance | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 The hierarchy matters: covalent bonds give molecules their structure and cannot easily be undone under biological conditions. Ionic bonds and hydrogen bonds are reversible. Life needs both. The permanent architecture of a protein is covalent. The reversible binding of a hormone to its receptor — which must attach, transmit a signal, and then release so the receptor can be used again — depends on weaker, reversible forces.
 
@@ -45,7 +48,8 @@ Now we can understand water, which is not simple at all.
 
 The oxygen atom in a water molecule pulls electrons toward itself harder than the hydrogen atoms do. (Oxygen has eight protons; hydrogen has one. More protons pull harder.) So the electrons in the covalent bonds spend more time near oxygen than near hydrogen. Oxygen becomes slightly negative. Each hydrogen becomes slightly positive. The molecule is *polar*: it has a negative end and two positive ends.
 
-<!-- → [DIAGRAM: single water molecule with δ- on oxygen and δ+ on each hydrogen, bond angle (~104.5°) labeled; adjacent water molecule showing a dashed hydrogen bond forming between them; caption: "the bent geometry is what makes water polar — a linear water molecule would have its charges cancel out"] -->
+![the bent geometry is what makes water polar — a linear water molecule would have its charges cancel out](images/03-the-chemical-level-of-organization-fig-02.png)
+*Figure 3.2 — Single water molecule with δ- on oxygen and*
 
 Because water is polar, water molecules attract each other. A slightly positive hydrogen on one water molecule is drawn to the slightly negative oxygen on another. That is a hydrogen bond. In liquid water, billions of these bonds are forming and breaking every microsecond. They are weak individually. Together they make water behave unlike almost any other liquid.
 
@@ -53,7 +57,8 @@ Consider what they explain. Water has a very high boiling point for a molecule i
 
 Ice floats. This is strange. Most liquids, when they cool, become denser — their molecules slow down and pack more tightly. Water does this too, down to about 4°C. But below that, water molecules arrange themselves into a crystalline lattice with hydrogen bonds holding them at fixed angles. That lattice is less dense than liquid water. Ice floats. If it sank, bodies of water would freeze from the bottom up. Nothing that lives in water in a cold climate would have survived the last ice age.
 
-<!-- → [DIAGRAM: liquid water vs. ice lattice side by side — liquid shows molecules close and disordered; ice shows the open hexagonal lattice with hydrogen bonds at fixed angles, molecules farther apart; caption: "the lattice occupies more space than the disordered liquid — counterintuitive, but the consequence of fixed-angle hydrogen bonding"] -->
+![the lattice occupies more space than the disordered liquid — counterintuitive, but the consequence of fixed-angle hydrogen bonding](images/03-the-chemical-level-of-organization-fig-03.png)
+*Figure 3.3 — Liquid water vs*
 
 Water is also the reason almost everything in biology happens in solution. When an ionic compound like sodium chloride enters water, the polar water molecules orient around each ion — the negative oxygen near Na⁺, the positive hydrogens near Cl⁻. The attraction to water is stronger than the attraction holding the crystal together. The ions separate and drift. They are now surrounded by shells of water molecules, which we call hydration shells. In this form, they can move, react, and carry signals. The chemistry of life is, almost entirely, chemistry in water.
 
@@ -61,7 +66,8 @@ Substances that dissolve readily in water are *hydrophilic* — polar or charged
 
 The structure of every cell membrane follows from this: phospholipids are molecules with a polar, hydrophilic phosphate head and two nonpolar, hydrophobic fatty acid tails. In water, they spontaneously arrange into a bilayer — heads facing outward toward water, tails hiding inside away from it. No assembly instructions required. The physics of water does the work.
 
-<!-- → [DIAGRAM: phospholipid bilayer cross-section — show one phospholipid molecule with labeled polar head and nonpolar tails, then the assembled bilayer with water on both sides and tails sequestered in the interior; caption: "self-assembly requires no energy — the bilayer is simply the arrangement that minimizes hydrophobic exposure"] -->
+![self-assembly requires no energy — the bilayer is simply the arrangement that minimizes hydrophobic exposure](images/03-the-chemical-level-of-organization-fig-04.png)
+*Figure 3.4 — Phospholipid bilayer cross-section *
 
 ---
 
@@ -71,11 +77,14 @@ Carbon makes four covalent bonds. It bonds readily with hydrogen, oxygen, nitrog
 
 Attached to carbon skeletons are *functional groups* — small clusters of atoms that give each molecule its personality. A hydroxyl group (-OH) is polar and forms hydrogen bonds; it makes a molecule water-soluble. A carboxyl group (-COOH) can donate a proton and acts as an acid. An amino group (-NH₂) can accept a proton and acts as a base. A phosphate group carries negative charges and is critical for energy storage. The functional groups attached to a carbon skeleton determine what that molecule does, who it reacts with, and how it behaves in water.
 
-<!-- → [TABLE: functional groups reference — columns: name, structural formula, polar or nonpolar, acid/base/neutral, biological role; rows: hydroxyl, carboxyl, amino, phosphate — a reference card the student will return to in every subsequent chapter] -->
+| name | structural formula | polar or nonpolar | acid | base |
+| --- | --- | --- | --- | --- |
+| hydroxyl, carboxyl, amino, phosphate | a reference card the student will return to in every subsequent chapter | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 All the large molecules of life — the *macromolecules* — are built on the same principle: monomers link into polymers. One monomer contributes a hydrogen from a hydroxyl group; the adjacent monomer contributes the hydroxyl itself. The two combine, lose a water molecule, and the monomers are bonded. This is *dehydration synthesis*. Reverse it — add water back across the bond — and you get *hydrolysis*: the polymer breaks apart into monomers again. Your digestive system is almost entirely hydrolysis. You eat starch (polymer of glucose), your enzymes add water across the bonds, and you recover glucose (monomer) to fuel your cells.
 
-<!-- → [DIAGRAM: dehydration synthesis reaction — two glucose monomers with -H and -OH highlighted, arrow showing their combination into H₂O and the new covalent bond between the monomers; reverse arrow labeled hydrolysis; caption: "the same reaction runs your digestive system in reverse"] -->
+![the same reaction runs your digestive system in reverse](images/03-the-chemical-level-of-organization-fig-05.png)
+*Figure 3.5 — Dehydration synthesis reaction *
 
 Four classes of macromolecule do most of biology's work.
 
@@ -91,21 +100,25 @@ But sequence is not structure. What matters is how the chain folds.
 
 Short-range hydrogen bonds between nearby amino acids in the chain create *secondary structure*: alpha-helices (the chain winds into a spiral, with hydrogen bonds running along the axis of the helix) and beta-sheets (the chain folds back on itself in a zigzag, with hydrogen bonds between parallel strands). At larger scale, the full three-dimensional shape of the protein — its *tertiary structure* — is determined by all the interactions between all the amino acid side chains: hydrogen bonds, ionic bonds, and especially the hydrophobic effect (nonpolar side chains cluster in the interior, away from water). Some proteins consist of multiple folded chains held together — this is *quaternary structure*. Hemoglobin is a quaternary protein: four subunits, each capable of carrying one oxygen molecule, coordinating to load oxygen in the lungs and release it in tissues that need it.
 
-<!-- → [DIAGRAM: four levels of protein structure — primary (linear amino acid sequence with one-letter codes), secondary (alpha-helix and beta-sheet with hydrogen bonds indicated), tertiary (ribbon diagram of a folded protein with hydrophobic core shaded), quaternary (hemoglobin's four colored subunits); caption: "each level of structure emerges from the same chemical forces introduced earlier in this chapter"] -->
+![each level of structure emerges from the same chemical forces introduced earlier in this chapter](images/03-the-chemical-level-of-organization-fig-06.png)
+*Figure 3.6 — Four levels of protein structure *
 
 The shape of a protein is its function. An enzyme's active site is a pocket precisely shaped to bind a specific substrate. When the substrate binds, the enzyme lowers the activation energy — the energy that must be invested to break existing bonds and form new ones. Without enzymes, your metabolic reactions would proceed at rates too slow to sustain life. With enzymes, reactions that might take years at body temperature happen in milliseconds. Change two amino acids in the hemoglobin gene — replace glutamic acid with valine at position six of the beta chain — and the protein's surface gains a hydrophobic patch. Under low-oxygen conditions, hemoglobin molecules stick together through these patches. The cells deform. The result is sickle cell disease. One amino acid, out of 574.
 
-<!-- → [IMAGE: side-by-side micrographs of normal biconcave red blood cells and sickled cells — caption: "one amino acid substitution out of 574 changes the surface chemistry enough to cause polymerization under low-oxygen conditions and cell deformation visible at this scale"] -->
+![one amino acid substitution out of 574 changes the surface chemistry enough to cause polymerization under low-oxygen conditions and cell deformation visible at this scale](images/03-the-chemical-level-of-organization-fig-07.png)
+*Figure 3.7 — Micrographs of normal biconcave red blood cells and*
 
 **Nucleic acids** are polymers of nucleotides. Each nucleotide is three things bonded together: a phosphate group, a five-carbon sugar, and a nitrogenous base. In DNA, the sugar is deoxyribose and the bases are adenine (A), guanine (G), cytosine (C), and thymine (T). In RNA, the sugar is ribose and thymine is replaced by uracil (U).
 
 DNA forms a double helix: two strands of nucleotides wound around each other, held together by hydrogen bonds between the bases. The base pairing is specific: A bonds with T (two hydrogen bonds), G bonds with C (three hydrogen bonds). This specificity is the whole point. When the cell needs to copy its DNA, the strands unwind and each acts as a template. Where there was an A, a new T is placed; where there was a G, a new C. The information in the sequence is preserved through replication. When the cell needs to build a protein, the relevant stretch of DNA is transcribed to a single-stranded messenger RNA, which carries the base sequence to the ribosome. The ribosome reads the sequence three bases at a time; each triplet codes for one amino acid. Transfer RNA molecules, each carrying one amino acid, deliver their cargo to the ribosome in the order specified by the mRNA. The protein chain grows. The machinery is elegant, ancient (billions of years of evolution have not fundamentally changed it), and error-prone only at very low rates — around one mistake per billion bases copied.
 
-<!-- → [DIAGRAM: DNA double helix with one A-T and one G-C base pair enlarged in an inset — dashed lines for hydrogen bonds, count labeled (2 for A-T, 3 for G-C); caption: "three hydrogen bonds make G-C pairs harder to separate than A-T pairs — this is why G-C content affects the temperature required to denature a given DNA strand"] -->
+![three hydrogen bonds make G-C pairs harder to separate than A-T pairs — this is why G-C content affects the temperature required to denature a given DNA strand](images/03-the-chemical-level-of-organization-fig-08.png)
+*Figure 3.8 — DNA double helix with one A-T and one*
 
 ATP (adenosine triphosphate) is a nucleotide with three phosphate groups in a chain. The bond between the second and third phosphate is high-energy: when it is broken, about 7.3 kilocalories per mole of energy is released. Cells capture this energy and use it for mechanical work (muscle contraction), transport work (pumping ions across membranes), and synthetic work (building proteins and other molecules). When ATP is used, it becomes ADP (adenosine diphosphate). To regenerate ATP, the cell must add a phosphate group back — which requires energy, which comes from breaking down glucose or fat. The cell is continuously cycling between ATP and ADP, using and regenerating its energy currency. Aerobic respiration of one glucose molecule regenerates 32 ATP. Anaerobic respiration — glycolysis without oxygen — regenerates only 2. This is why your muscles burn in anaerobic exercise, and why you cannot sustain maximal effort for more than a few seconds without oxygen delivery catching up.
 
-<!-- → [DIAGRAM: ATP/ADP cycle as a simple closed loop — ATP → ADP + Pᵢ (arrow labeled "energy released → cellular work: mechanical, transport, synthetic") and ADP + Pᵢ → ATP (arrow labeled "energy input from glucose/fat oxidation"); aerobic yield (32 ATP) and anaerobic yield (2 ATP) noted; simple enough to redraw from memory] -->
+![ATP/ADP cycle as a simple closed loop ](images/03-the-chemical-level-of-organization-fig-09.png)
+*Figure 3.9 — ATP/ADP cycle as a simple closed loop *
 
 ---
 
@@ -123,7 +136,8 @@ Every chapter that follows is an elaboration of this foundation. The cell membra
 
 Chemistry is not the backstory of biology. Chemistry *is* biology, one level down.
 
-<!-- → [INFOGRAPHIC: vertical "levels of organization" ladder — atom → molecule → macromolecule → organelle → cell → tissue → organ → organism — with this chapter's bracket spanning atom through macromolecule; each upward arrow labeled "same rules, larger scale"; helps student see where Chapter 3 sits in the book's arc and where the next chapters will pick up] -->
+![Vertical "levels of organization" ladder ](images/03-the-chemical-level-of-organization-fig-10.png)
+*Figure 3.10 — Vertical "levels of organization" ladder *
 
 ---
 
@@ -170,3 +184,114 @@ Chemistry is not the backstory of biology. Chemistry *is* biology, one level dow
 4. **Synthesis:** Sickle cell trait (one normal allele, one sickle cell allele) provides resistance to malaria in regions where *Plasmodium falciparum* is endemic. Use what you know about protein structure, red blood cell function, and the lifecycle of the malaria parasite to construct a hypothesis for why heterozygotes might have a survival advantage. Identify what you know with confidence and what you would need to look up.
 
 5. **Teaching test:** Explain the difference between a covalent bond and a hydrogen bond to someone who has never taken a chemistry course. Do not use the words "electrons," "polarity," or "electronegativity." If you find this impossible without those terms, explain why those concepts are load-bearing and cannot be replaced with simpler language.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Marie Maynard Daly** was the first Black woman to earn a PhD in chemistry in the United States, in 1947 — and her biochemistry work on cholesterol, hypertension, and the chemistry of artery walls helped build the framework that connects atoms to organs.
+
+**Run this:**
+
+```
+Who was Marie Maynard Daly, and how does her biochemistry research on cholesterol and arterial health connect to the chemical organization of the human body we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Marie Maynard Daly"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace Daly's cholesterol research from the molecule up to the artery wall, the way this chapter scaffolds chemistry into physiology.
+- Add a constraint: "Answer as Daly's 1948 dissertation defense, in her voice."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 3.1 — Electron shell diagrams of helium and carbon side
+
+Create a standalone D3 v7 HTML file for Figure Electron shell diagrams of helium and carbon side. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: electron shell diagrams of helium and carbon side by side — helium with 2 electrons filling the first shell, carbon with 2 in the first and 4 in the second; label the valence shell on each; caption: "helium's valence shell is full — it does nothing; carbon's has four empty spots — it bonds with almost everything". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-01.html`
+
+---
+
+### Figure 3.2 — Single water molecule with δ- on oxygen and
+
+Create a standalone D3 v7 HTML file for Figure Single water molecule with δ- on oxygen and. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: single water molecule with δ- on oxygen and δ+ on each hydrogen, bond angle (~104.5°) labeled; adjacent water molecule showing a dashed hydrogen bond forming between them; caption: "the bent geometry is what makes water polar — a linear water molecule would have its charges cancel out". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-02.html`
+
+---
+
+### Figure 3.3 — Liquid water vs
+
+Create a standalone D3 v7 HTML file for Figure Liquid water vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: liquid water vs. ice lattice side by side — liquid shows molecules close and disordered; ice shows the open hexagonal lattice with hydrogen bonds at fixed angles, molecules farther apart; caption: "the lattice occupies more space than the disordered liquid — counterintuitive, but the consequence of fixed-angle hydrogen bonding". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-03.html`
+
+---
+
+### Figure 3.4 — Phospholipid bilayer cross-section 
+
+Create a standalone D3 v7 HTML file for Figure Phospholipid bilayer cross-section . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: phospholipid bilayer cross-section — show one phospholipid molecule with labeled polar head and nonpolar tails, then the assembled bilayer with water on both sides and tails sequestered in the interior; caption: "self-assembly requires no energy — the bilayer is simply the arrangement that minimizes hydrophobic exposure". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-04.html`
+
+---
+
+### Figure 3.5 — Dehydration synthesis reaction 
+
+Create a standalone D3 v7 HTML file for Figure Dehydration synthesis reaction . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: dehydration synthesis reaction — two glucose monomers with -H and -OH highlighted, arrow showing their combination into H₂O and the new covalent bond between the monomers; reverse arrow labeled hydrolysis; caption: "the same reaction runs your digestive system in reverse". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-05.html`
+
+---
+
+### Figure 3.6 — Four levels of protein structure 
+
+Create a standalone D3 v7 HTML file for Figure Four levels of protein structure . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: four levels of protein structure — primary (linear amino acid sequence with one-letter codes), secondary (alpha-helix and beta-sheet with hydrogen bonds indicated), tertiary (ribbon diagram of a folded protein with hydrophobic core shaded), quaternary (hemoglobin's four colored subunits); caption: "each level of structure emerges from the same chemical forces introduced earlier in this chapter". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-06.html`
+
+---
+
+### Figure 3.7 — Micrographs of normal biconcave red blood cells and
+
+Create a standalone D3 v7 HTML file for Figure Micrographs of normal biconcave red blood cells and. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: side-by-side micrographs of normal biconcave red blood cells and sickled cells — caption: "one amino acid substitution out of 574 changes the surface chemistry enough to cause polymerization under low-oxygen conditions and cell deformation visible at this scale". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-07.html`
+
+---
+
+### Figure 3.8 — DNA double helix with one A-T and one
+
+Create a standalone D3 v7 HTML file for Figure DNA double helix with one A-T and one. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: DNA double helix with one A-T and one G-C base pair enlarged in an inset — dashed lines for hydrogen bonds, count labeled (2 for A-T, 3 for G-C); caption: "three hydrogen bonds make G-C pairs harder to separate than A-T pairs — this is why G-C content affects the temperature required to denature a given DNA strand". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-08.html`
+
+---
+
+### Figure 3.9 — ATP/ADP cycle as a simple closed loop 
+
+Create a standalone D3 v7 HTML file for Figure ATP/ADP cycle as a simple closed loop . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: ATP/ADP cycle as a simple closed loop — ATP → ADP + Pᵢ (arrow labeled "energy released → cellular work: mechanical, transport, synthetic") and ADP + Pᵢ → ATP (arrow labeled "energy input from glucose/fat oxidation"); aerobic yield (32 ATP) and anaerobic yield (2 ATP) noted; simple enough to redraw from memory. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-09.html`
+
+---
+
+### Figure 3.10 — Vertical "levels of organization" ladder 
+
+Create a standalone D3 v7 HTML file for Figure Vertical "levels of organization" ladder . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: vertical "levels of organization" ladder — atom → molecule → macromolecule → organelle → cell → tissue → organ → organism — with this chapter's bracket spanning atom through macromolecule; each upward arrow labeled "same rules, larger scale"; helps student see where Chapter 3 sits in the book's arc and where the next chapters will pick up. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/03-the-chemical-level-of-organization-fig-10.html`

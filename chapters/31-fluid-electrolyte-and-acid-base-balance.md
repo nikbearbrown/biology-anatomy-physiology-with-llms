@@ -23,7 +23,8 @@ About 28 liters — two-thirds of the total — is inside cells. This is the int
 
 The remaining 14 liters is outside cells. About three liters is plasma — the liquid portion of blood — and eleven liters is interstitial fluid, which bathes the cells and serves as the exchange medium between capillaries and tissues. Nutrients and oxygen leave the capillaries, dissolve in the interstitial fluid, and diffuse to cells. Waste and CO₂ move the other way.
 
-<!-- → [IMAGE: body fluid compartment diagram — human body outline with three nested zones labeled: (1) intracellular fluid ~28 L (largest, inside cell membranes); (2) interstitial fluid ~11 L (between cells, outside capillaries); (3) plasma ~3 L (inside blood vessels); annotate total body water ~42 L and the percentage each represents (ICF ~67%, IF ~26%, plasma ~7%); arrows showing osmotic movement of water between compartments in response to solute concentration changes; student should see the three-compartment model and understand that plasma is the smallest compartment but the one most directly accessible to clinical measurement] -->
+![Body fluid compartment diagram ](images/31-fluid-electrolyte-and-acid-base-balance-fig-01.png)
+*Figure 31.1 — Body fluid compartment diagram *
 
 What keeps the water in its correct compartments is osmosis: water moves across membranes from where solute concentration is lower (more water, relatively speaking) to where it is higher. The cell membranes are permeable to water but not to most dissolved molecules, so if the ion concentrations outside a cell rise, water moves out of the cell until the concentrations equalize. If they fall, water moves in.
 
@@ -43,7 +44,15 @@ Fail to produce enough plasma proteins — as happens in severe liver disease, w
 
 The dissolved ions in body fluids are not uniformly important. Six of them are so critical that clinical medicine tracks them constantly: sodium, potassium, chloride, bicarbonate, calcium, and phosphate. Each has a normal range narrow enough that deviations of 20 to 30 percent produce life-threatening symptoms.
 
-<!-- → [TABLE: six critical ions reference — columns: ion, normal plasma range (mmol/L), primary location (ICF vs. ECF), consequence of too low (hypo-), consequence of too high (hyper-), regulating hormone or mechanism; rows: Na⁺ (136–146, ECF, hyponatremia → cell swelling/seizures, hypernatremia → cell shrinkage/seizures, aldosterone/ADH), K⁺ (3.5–5.0, ICF, hypokalemia → arrhythmia/muscle weakness, hyperkalemia → ventricular fibrillation, aldosterone), Cl⁻ (98–107, ECF, hypochloremia → alkalosis, hyperchloremia → acidosis, follows Na⁺), HCO₃⁻ (22–29, ECF, metabolic acidosis, metabolic alkalosis, renal reabsorption), Ca²⁺ (2.15–2.55, bone/ECF, tetany/seizures, weakness/arrhythmia, PTH/vitamin D), PO₄³⁻ (0.81–1.45, ICF/bone, impaired ATP production, ectopic calcification, PTH/renal excretion); student should use this as a reference for interpreting lab values and understanding which direction each disturbance shifts the clinical picture] -->
+| ion | normal plasma range (mmol | L) | primary location (ICF vs |
+| --- | --- | --- | --- |
+| Na⁺ (136–146, ECF, hyponatremia → cell swelling | seizures, hypernatremia → cell shrinkage | seizures, aldosterone | ADH |
+| K⁺ (3.5–5.0, ICF, hypokalemia → arrhythmia | muscle weakness, hyperkalemia → ventricular fibrillation, aldosterone | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Cl⁻ (98–107, ECF, hypochloremia → alkalosis, hyperchloremia → acidosis, follows Na⁺ | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| HCO₃⁻ (22–29, ECF, metabolic acidosis, metabolic alkalosis, renal reabsorption | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Ca²⁺ (2.15–2.55, bone | ECF, tetany | seizures, weakness | arrhythmia, PTH |
+| PO₄³⁻ (0.81–1.45, ICF | bone, impaired ATP production, ectopic calcification, PTH | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| student should use this as a reference for interpreting lab values and understanding which direction each disturbance shifts the clinical picture | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Sodium is the principal cation outside cells. Its normal concentration in plasma is 136 to 146 millimoles per liter — a range of ten millimoles. When sodium falls below about 120 (hyponatremia), cells absorb water by osmosis and swell. Neurons swell. The first symptoms are confusion and headache. As sodium continues to fall, seizures develop, then coma. The brain is confined inside the skull; it cannot swell safely. In severe hyponatremia, the brain presses against the cranium and brainstem herniation kills the patient. When sodium rises too high (hypernatremia), cells lose water and shrink. Neurons shrink. The symptoms are similar — confusion, seizures — but the mechanism is reversed, and the treatment (cautiously adding water back) is the opposite.
 
@@ -97,7 +106,8 @@ When the blood becomes too alkaline — as happens in hyperventilation — CO₂
 
 **Renal compensation** works in hours to days, but it is the most powerful and flexible of the three systems. The kidneys do two things. They excrete H⁺ ions directly into the urine, buffered by phosphate and ammonia so the urine pH does not fall catastrophically. And they regulate how much bicarbonate is retained in the blood.
 
-<!-- → [IMAGE: renal bicarbonate reabsorption mechanism — cross-section of a proximal tubule cell; left side faces tubular lumen with filtered HCO₃⁻; right side faces blood; show: (1) H⁺ secreted from cell into lumen; (2) H⁺ + HCO₃⁻ → H₂CO₃ in lumen; (3) carbonic anhydrase on luminal membrane converts H₂CO₃ → CO₂ + H₂O; (4) CO₂ diffuses into tubule cell; (5) intracellular carbonic anhydrase converts CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻; (6) HCO₃⁻ exits basolateral membrane into blood; (7) H⁺ secreted again; label the net result: one HCO₃⁻ returned to blood per H⁺ secreted; student should see this as a cycle that regenerates bicarbonate from CO₂ without truly reabsorbing the original filtered molecule] -->
+![Renal bicarbonate reabsorption mechanism ](images/31-fluid-electrolyte-and-acid-base-balance-fig-02.png)
+*Figure 31.2 — Renal bicarbonate reabsorption mechanism *
 
 Here is how bicarbonate reabsorption works. Bicarbonate is filtered at the glomerulus into the tubular fluid. But the tubule cells cannot directly reabsorb bicarbonate ions. Instead, they secrete H⁺ into the filtrate. The H⁺ combines with filtered bicarbonate to form carbonic acid. Carbonic anhydrase — an enzyme on the luminal surface of the tubule — rapidly converts the carbonic acid to CO₂ and water. The CO₂ diffuses into the tubule cell. Inside the cell, the reaction reverses: carbonic anhydrase converts CO₂ back to carbonic acid, which immediately dissociates into bicarbonate and H⁺. The bicarbonate exits through the basolateral membrane into the blood. The H⁺ is secreted again into the filtrate. The net result: one bicarbonate is added back to the blood for each H⁺ secreted.
 
@@ -109,7 +119,13 @@ This is energy-intensive and relatively slow, but it allows the kidneys to adjus
 
 Clinical medicine recognizes four classical acid-base disturbances, distinguished by which component failed and which direction.
 
-<!-- → [TABLE: four acid-base disturbances — columns: disturbance, primary problem, blood pH, PCO₂, HCO₃⁻, respiratory compensation (if metabolic) or renal compensation (if respiratory), common causes; rows: metabolic acidosis (excess acid/bicarbonate loss, low pH, low PCO₂ [compensation], low HCO₃⁻ [primary], hyperventilation, DKA/diarrhea/renal failure), metabolic alkalosis (acid loss/base gain, high pH, high PCO₂ [compensation], high HCO₃⁻ [primary], hypoventilation, vomiting/diuretics), respiratory acidosis (CO₂ retention, low pH, high PCO₂ [primary], high HCO₃⁻ [renal compensation], increased renal bicarbonate retention, emphysema/pneumonia), respiratory alkalosis (CO₂ loss, high pH, low PCO₂ [primary], low HCO₃⁻ [renal compensation], increased renal bicarbonate excretion, hyperventilation/altitude/fever); student should be able to identify primary vs compensatory changes and predict which disturbance a set of blood gas values represents] -->
+| disturbance | primary problem | blood pH | PCO₂ | HCO₃⁻ |
+| --- | --- | --- | --- | --- |
+| metabolic acidosis (excess acid | bicarbonate loss, low pH, low PCO₂ [compensation], low HCO₃⁻ [primary], hyperventilation, DKA | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| metabolic alkalosis (acid loss | base gain, high pH, high PCO₂ [compensation], high HCO₃⁻ [primary], hypoventilation, vomiting | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| respiratory acidosis (CO₂ retention, low pH, high PCO₂ [primary], high HCO₃⁻ [renal compensation], increased renal bicarbonate retention, emphysema | pneumonia | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| respiratory alkalosis (CO₂ loss, high pH, low PCO₂ [primary], low HCO₃⁻ [renal compensation], increased renal bicarbonate excretion, hyperventilation | altitude | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| student should be able to identify primary vs compensatory changes and predict which disturbance a set of blood gas values represents | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Metabolic acidosis is the most common. The body accumulates acid faster than it can be buffered and excreted. Bicarbonate is consumed. Blood pH drops below 7.35. The lungs compensate by hyperventilating — blowing off CO₂ to reduce the carbonic acid load. The diagnostic signature: low pH, low bicarbonate, low PCO₂. The low PCO₂ tells you the respiratory system is trying to compensate. The causes range from diabetic ketoacidosis (excess ketone body production) to kidney failure (H⁺ cannot be excreted) to severe diarrhea (bicarbonate is lost with the stool).
 
@@ -170,3 +186,66 @@ Behind that simple act, 42 liters of water were in their correct compartments. S
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Where the water lives.** Ask a language model to explain the distribution of body water: about 60% of body mass is water, divided into intracellular fluid (ICF, ~2/3) and extracellular fluid (ECF, ~1/3 — split between interstitial and plasma). Why is this distribution maintained? Walk through how cell membranes create the barrier and Na⁺/K⁺ ATPase establishes the ionic asymmetry that determines where water flows osmotically. Then ask: in dehydration, which compartment loses water first, and why? Plasma loses first because it's smallest and most directly accessible to the kidney; severe dehydration eventually pulls water from cells.
+
+**Exercise 2 — Six ions and the limits of variation.** Ask a language model to explain why sodium, potassium, calcium, magnesium, chloride, and bicarbonate have particular concentration ranges that the body defends. Specifically: Na⁺ at ~140 mEq/L, K⁺ at ~4 mEq/L (a 35-fold difference) — why this asymmetry? Walk through how Na⁺ is mostly extracellular (the basis of action potentials) and K⁺ is mostly intracellular (the basis of resting potential). Then ask: small changes in serum K⁺ (from 4 to 6 mEq/L) can be lethal by inducing cardiac arrhythmias. Why is the system so unforgiving for K⁺ specifically?
+
+**Exercise 3 — The pH problem and the bicarbonate buffer.** Ask a language model to explain why the bicarbonate buffer system (CO₂ + H₂O ⇌ HCO₃⁻ + H⁺) is uniquely well-suited to physiological pH regulation. Walk through the open-system property: both the acid (H⁺) and the conjugate base (HCO₃⁻) can be independently adjusted — H⁺ by renal handling, HCO₃⁻ by both renal handling and CO₂ ventilation. Then ask: why does this open architecture make the bicarbonate buffer more powerful than a closed buffer of comparable concentration?
+
+**Exercise 4 — Four ways the system fails.** Ask a language model to walk through respiratory acidosis (CO₂ retention from inadequate ventilation), respiratory alkalosis (CO₂ loss from hyperventilation), metabolic acidosis (excess acid production or HCO₃⁻ loss), and metabolic alkalosis (acid loss or HCO₃⁻ gain). For each, give a clinical example and identify how the body compensates. Then ask: in mixed acid-base disturbances (combination of respiratory and metabolic), how does the clinician separate the components using arterial blood gas measurements (pH, pCO₂, HCO₃⁻)?
+
+**Exercise 5 — Why the systems must work together.** Ask a language model to explain how fluid, electrolyte, and acid-base balance are interconnected. Specifically: dehydration concentrates ions and shifts pH; potassium imbalance affects cardiac function; pH affects calcium binding (acidosis releases calcium from albumin, increasing free calcium); aldosterone affects sodium retention but also potassium and acid excretion. Then ask: why is this interconnection clinically important — what kinds of medical errors arise from treating one imbalance without considering the others?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Lawrence J. Henderson** derived the equation that bears his name in 1908 — relating pH, bicarbonate, and dissolved CO₂ in blood — and built the conceptual framework that explains how the body holds pH steady within a narrow range despite constant biochemical stress.
+
+**Run this:**
+
+```
+Who was Lawrence J. Henderson, and how does the Henderson–Hasselbalch equation connect to the acid–base balance we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Lawrence Joseph Henderson"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply the Henderson–Hasselbalch equation to one specific acid–base disturbance (diabetic ketoacidosis, hyperventilation, vomiting) — and trace what each variable does.
+- Ask it to compare Henderson's chemical view of homeostasis with Walter Cannon's later behavioral framing.
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 31.1 — Body fluid compartment diagram 
+
+Create a standalone D3 v7 HTML file for Figure Body fluid compartment diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: body fluid compartment diagram — human body outline with three nested zones labeled: (1) intracellular fluid ~28 L (largest, inside cell membranes); (2) interstitial fluid ~11 L (between cells, outside capillaries); (3) plasma ~3 L (inside blood vessels); annotate total body water ~42 L and the percentage each represents (ICF ~67%, IF ~26%, plasma ~7%); arrows showing osmotic movement of water between compartments in response to solute concentration changes; student should see the three-compartment model and understand that plasma is the smallest compartment but the one most directly accessible to clinical measurement. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color varia
+
+> Reference implementation: `d3/31-fluid-electrolyte-and-acid-base-balance-fig-01.html`
+
+---
+
+### Figure 31.2 — Renal bicarbonate reabsorption mechanism 
+
+Create a standalone D3 v7 HTML file for Figure Renal bicarbonate reabsorption mechanism . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: renal bicarbonate reabsorption mechanism — cross-section of a proximal tubule cell; left side faces tubular lumen with filtered HCO₃⁻; right side faces blood; show: (1) H⁺ secreted from cell into lumen; (2) H⁺ + HCO₃⁻ → H₂CO₃ in lumen; (3) carbonic anhydrase on luminal membrane converts H₂CO₃ → CO₂ + H₂O; (4) CO₂ diffuses into tubule cell; (5) intracellular carbonic anhydrase converts CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻; (6) HCO₃⁻ exits basolateral membrane into blood; (7) H⁺ secreted again; label the net result: one HCO₃⁻ returned to blood per H⁺ secreted; student should see this as a cycle that regenerates bicarbonate from CO₂ without truly reabsorbing the original filtered molecule. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where pos
+
+> Reference implementation: `d3/31-fluid-electrolyte-and-acid-base-balance-fig-02.html`

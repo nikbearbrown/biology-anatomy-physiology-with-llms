@@ -21,7 +21,8 @@ You are made of atoms. Atoms bond together to make molecules. Certain molecules,
 
 That is the chain: atom → molecule → cell → tissue → organ → organ system → organism.
 
-<!-- → [INFOGRAPHIC: The six-level organizational chain rendered as a vertical stack or nested diagram — atom at the bottom, organism at the top, with one concrete example at each level (e.g., carbon atom / glucose / red blood cell / blood tissue / heart / cardiovascular system / human). Arrows between levels; a callout noting "each level has properties the one below it lacks." Student should see that the levels are nested, not sequential.] -->
+![The six-level organizational chain rendered as a vertical](images/02-an-introduction-to-the-human-body-fig-01.png)
+*Figure 2.1 — The six-level organizational chain rendered as a vertical*
 
 Six levels. Each level builds from the one below. Each level has properties that the level below it does not have. A glucose molecule is not alive. A cell full of glucose molecules is alive. This is not magic — it is organization. The cell is not just a pile of glucose and water; it is glucose, water, proteins, lipids, and ions arranged in a very particular way, bounded by a membrane that controls what gets in and what gets out, containing structures (we call them organelles) that each perform specific work. The arrangement is what matters.
 
@@ -29,7 +30,8 @@ Let me push on this, because it is the hardest thing for beginners to genuinely 
 
 But consider this: sickle cell disease. A person with this disease has red blood cells shaped like crescents instead of discs. Those misshapen cells clog blood vessels, causing attacks of severe pain, damaging organs, shortening life. What causes the wrong shape? A single amino acid substitution in the hemoglobin protein. Not a different organ. Not a different tissue. One amino acid — one unit out of hundreds in a protein — in the wrong position, and the consequences propagate all the way up through every level of organization. The protein folds wrong. The cell deforms. The tissue clogs. The organ fails. The organism suffers.
 
-<!-- → [IMAGE: Side-by-side micrograph of normal (biconcave disc) vs. sickle-shaped red blood cells — caption should note that the shape difference originates from a single amino acid substitution in hemoglobin, illustrating how a chemical-level change propagates upward through every organizational level.] -->
+![Micrograph of normal (biconcave disc) vs](images/02-an-introduction-to-the-human-body-fig-02.png)
+*Figure 2.2 — Micrograph of normal (biconcave disc) vs*
 
 Small does not mean unimportant. The machinery is hierarchical, but it is connected at every level.
 
@@ -43,7 +45,8 @@ A cell can take in nutrients and extract energy from them. It can repair itself 
 
 The cell is bounded by a membrane. This membrane is not a wall; it is a selective gateway. Some molecules pass through freely. Others require a protein in the membrane to carry them. Still others are actively pumped against a concentration gradient, which requires energy. The cell spends a significant fraction of its energy budget just maintaining the difference between inside and outside. That difference — between the chemistry inside the cell and the chemistry of the fluid outside it — is what makes the cell a cell rather than just a blob of molecules dissolving into the surroundings.
 
-<!-- → [INFOGRAPHIC: Cross-section diagram of a generalized animal cell — membrane labeled as "selective gateway," major organelles labeled (mitochondrion, ribosome, nucleus) with one-line function captions for each. Should visually convey that the cell is a bounded, organized interior, not a bag of fluid.] -->
+![Cross-section diagram of a generalized animal cell ](images/02-an-introduction-to-the-human-body-fig-03.png)
+*Figure 2.3 — Cross-section diagram of a generalized animal cell *
 
 Inside the cell are organelles. The mitochondrion breaks down glucose and releases energy in a form the cell can use (a molecule called ATP). The ribosome reads instructions from DNA and assembles proteins — sequences of amino acids folded into three-dimensional shapes. The nucleus houses the DNA, protected, copied and consulted but rarely modified. Each organelle is itself a collection of molecules arranged in a particular way, doing a particular job.
 
@@ -65,7 +68,8 @@ There is always a sensor — some part of the body that monitors a variable. The
 
 This is the "negative" part. The response is negative in the sense of opposition: if you go up, the response pushes you down. If you go down, the response pushes you up.
 
-<!-- → [DIAGRAM: The three-component negative feedback loop as a labeled cycle — Sensor → Control Center → Effector → (change in variable) → back to Sensor. Annotate with the cold-exposure example: skin temperature sensors → hypothalamus → blood vessel constriction + shivering → temperature rises → sensors detect recovery → response damps. Student should see the loop structure, not just a list of steps.] -->
+![The three-component negative feedback loop as a labeled](images/02-an-introduction-to-the-human-body-fig-04.png)
+*Figure 2.4 — The three-component negative feedback loop as a labeled*
 
 Let me make this concrete. You step outside on a cold day. The temperature of your skin drops. Sensors in your skin report the cold to your brain. Your brain — specifically the hypothalamus, a region that acts as a thermostat — compares the incoming data to its target temperature. The signal says: too cold. The hypothalamus activates several effectors. Blood vessels near the skin surface constrict, shunting warm blood away from the surface and toward your core. Muscles in your skin contract rapidly in short bursts — you shiver. The motion of shivering generates heat. Your metabolic rate increases, generating more heat. Your temperature begins to climb back toward 37°C. As it approaches the target, the hypothalamus reduces the intensity of the response. The shivering slows. The blood vessels relax slightly.
 
@@ -75,7 +79,8 @@ There is something elegant about this design, and also something revealing. The 
 
 The system breaks down at extremes. If you are outside in cold weather long enough, the effectors cannot compensate fast enough and your core temperature begins to fall. If it falls to 35°C, you become confused. At 32°C, you stop shivering — the muscle machinery that generates heat can no longer function properly. At 28°C, the heart begins to beat irregularly. The negative feedback loop is not broken exactly; it is simply overwhelmed by a disturbance larger than it was built to handle.
 
-<!-- → [CHART: Line chart of core body temperature (y-axis, 28°C–41°C) with labeled threshold bands — hypothermia stages on the low end, hyperthermia/heat stroke on the high end, normal oscillation range (36.5–37.5°C) highlighted in the center. Student should see that homeostasis is not a single point but a band, and that failure is graded, not binary.] -->
+![Line chart of core body temperature (y-axis, 28°C–41°C)](images/02-an-introduction-to-the-human-body-fig-05.png)
+*Figure 2.5 — Line chart of core body temperature (y-axis, 28°C–41°C)*
 
 ---
 
@@ -85,7 +90,8 @@ Suppose I tell you that a patient has a tumor in their left chest. That sentence
 
 Anatomists solved this problem centuries ago by building a standardized coordinate system for the human body. It starts with a reference position: anatomical position. A person standing upright, feet parallel, upper limbs extended to the sides with palms facing forward. This is the reference frame. No matter how the body is actually positioned — lying down, curled up, inverted — we describe it as if it were in anatomical position. This removes the ambiguity that comes from describing something relative to its current orientation.
 
-<!-- → [IMAGE: Clean illustration of the human body in anatomical position — standing, palms forward — with the three anatomical planes (sagittal, frontal, transverse) shown as translucent cutting planes through the figure. Caption should note that this is the universal reference frame from which all directional terms are defined.] -->
+![Clean illustration of the human body in anatomical](images/02-an-introduction-to-the-human-body-fig-06.png)
+*Figure 2.6 — Clean illustration of the human body in anatomical*
 
 From anatomical position, ten terms define direction.
 
@@ -99,7 +105,9 @@ From anatomical position, ten terms define direction.
 
 **Superficial** means closer to the body surface. **Deep** means farther from the surface. Skin is superficial to muscle. Bone is deep to muscle.
 
-<!-- → [TABLE: Two-column reference table of the ten directional terms — Term | Definition + Example. Pairs listed as opposites: Anterior/Posterior, Superior/Inferior, Medial/Lateral, Proximal/Distal, Superficial/Deep. Student will use this as a lookup reference while working the LLM exercises.] -->
+| Item | Meaning |
+| --- | --- |
+| of the ten directional terms | Term / Definition + Example. Pairs listed as opposites: Anterior |
 
 These terms are not absolute. Nothing in the body is simply "medial." The nose is medial relative to the ears. The heart is medial relative to the lungs. Directionality is always a relationship between two structures. This is why the terms are called directional terms, not location labels.
 
@@ -119,7 +127,8 @@ And if you needed to tell a doctor exactly where you felt the heat leaving your 
 
 Organization tells you what is built. Homeostasis tells you how it runs. Language tells you how to talk about it.
 
-<!-- → [INFOGRAPHIC: A single worked scenario — "you step outside in the cold" — traced simultaneously down the six organizational levels AND through the three-component feedback loop, with anatomical terms labeling the body regions involved. Shows all three frameworks operating in parallel on the same event. This is the synthesis visual for the chapter.] -->
+![A single worked scenario ](images/02-an-introduction-to-the-human-body-fig-07.png)
+*Figure 2.7 — A single worked scenario *
 
 ---
 
@@ -136,3 +145,90 @@ The following exercises are designed to be worked through with a language model.
 **Exercise 4 — Breaking homeostasis.** Ask a language model to walk you through what happens physiologically during heat stroke: what homeostatic mechanisms activate first, in what order, at what thresholds, and why they eventually fail. Then ask: at what point in this sequence does the failure become irreversible without intervention? This exercise trains you to think of homeostasis not as a binary (working or broken) but as a system with graded responses and failure modes.
 
 **Exercise 5 — Building upward from a molecule.** Pick any molecule you have heard of — insulin, dopamine, cortisol, ATP — and ask a language model to start at the chemical level and describe the full path upward: how the molecule is made, what cells make it, what tissue those cells belong to, what organ contains that tissue, what system that organ is part of, and what the organism-level effect of that molecule is. Then ask: what is the negative feedback loop that controls the production of this molecule? Who is the sensor, and who is the effector?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Marie François Xavier Bichat** founded histology in Paris in the 1790s — classifying the body into 21 distinct kinds of tissue and arguing that disease lives in tissues, not whole organs. He died at 30 after a fall in his own hospital.
+
+**Run this:**
+
+```
+Who was Marie François Xavier Bichat, and how does his classification of human tissues connect to the anatomical organization of the body we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Xavier Bichat"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to map Bichat's 21 tissue categories onto the four-tissue scheme used in modern textbooks — what got merged, what got split?
+- Add a constraint: "Answer as Bichat's 1801 introductory lecture at the Hôtel-Dieu, in his voice."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 2.1 — The six-level organizational chain rendered as a vertical
+
+Create a standalone D3 v7 HTML file for Figure The six-level organizational chain rendered as a vertical. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The six-level organizational chain rendered as a vertical stack or nested diagram — atom at the bottom, organism at the top, with one concrete example at each level (e.g., carbon atom / glucose / red blood cell / blood tissue / heart / cardiovascular system / human). Arrows between levels; a callout noting "each level has properties the one below it lacks." Student should see that the levels are nested, not sequential.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-an-introduction-to-the-human-body-fig-01.html`
+
+---
+
+### Figure 2.2 — Micrograph of normal (biconcave disc) vs
+
+Create a standalone D3 v7 HTML file for Figure Micrograph of normal (biconcave disc) vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Side-by-side micrograph of normal (biconcave disc) vs. sickle-shaped red blood cells — caption should note that the shape difference originates from a single amino acid substitution in hemoglobin, illustrating how a chemical-level change propagates upward through every organizational level.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-an-introduction-to-the-human-body-fig-02.html`
+
+---
+
+### Figure 2.3 — Cross-section diagram of a generalized animal cell 
+
+Create a standalone D3 v7 HTML file for Figure Cross-section diagram of a generalized animal cell . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Cross-section diagram of a generalized animal cell — membrane labeled as "selective gateway," major organelles labeled (mitochondrion, ribosome, nucleus) with one-line function captions for each. Should visually convey that the cell is a bounded, organized interior, not a bag of fluid.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-an-introduction-to-the-human-body-fig-03.html`
+
+---
+
+### Figure 2.4 — The three-component negative feedback loop as a labeled
+
+Create a standalone D3 v7 HTML file for Figure The three-component negative feedback loop as a labeled. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The three-component negative feedback loop as a labeled cycle — Sensor → Control Center → Effector → (change in variable) → back to Sensor. Annotate with the cold-exposure example: skin temperature sensors → hypothalamus → blood vessel constriction + shivering → temperature rises → sensors detect recovery → response damps. Student should see the loop structure, not just a list of steps.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-an-introduction-to-the-human-body-fig-04.html`
+
+---
+
+### Figure 2.5 — Line chart of core body temperature (y-axis, 28°C–41°C)
+
+Create a standalone D3 v7 HTML file for Figure Line chart of core body temperature (y-axis, 28°C–41°C). Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Line chart of core body temperature (y-axis, 28°C–41°C) with labeled threshold bands — hypothermia stages on the low end, hyperthermia/heat stroke on the high end, normal oscillation range (36.5–37.5°C) highlighted in the center. Student should see that homeostasis is not a single point but a band, and that failure is graded, not binary.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-an-introduction-to-the-human-body-fig-05.html`
+
+---
+
+### Figure 2.6 — Clean illustration of the human body in anatomical
+
+Create a standalone D3 v7 HTML file for Figure Clean illustration of the human body in anatomical. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Clean illustration of the human body in anatomical position — standing, palms forward — with the three anatomical planes (sagittal, frontal, transverse) shown as translucent cutting planes through the figure. Caption should note that this is the universal reference frame from which all directional terms are defined.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-an-introduction-to-the-human-body-fig-06.html`
+
+---
+
+### Figure 2.7 — A single worked scenario 
+
+Create a standalone D3 v7 HTML file for Figure A single worked scenario . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A single worked scenario — "you step outside in the cold" — traced simultaneously down the six organizational levels AND through the three-component feedback loop, with anatomical terms labeling the body regions involved. Shows all three frameworks operating in parallel on the same event. This is the synthesis visual for the chapter.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/02-an-introduction-to-the-human-body-fig-07.html`

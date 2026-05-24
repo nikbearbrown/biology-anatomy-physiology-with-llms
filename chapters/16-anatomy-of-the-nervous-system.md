@@ -19,7 +19,8 @@ The names encode position. The forward-most bulge is the **prosencephalon** — 
 
 But the three-part brain doesn't stay as three. By week six, the foremost and rearmost vesicles each subdivide. The prosencephalon splits into the **telencephalon** (the end-brain, from *telos* meaning "end") and the **diencephalon** (the through-brain, from *dia* meaning "through"). The rhombencephalon splits into the **metencephalon** (the after-brain) and the **myelencephalon** (the marrow-brain, since it will become the medulla). The mesencephalon does not subdivide. You now have five secondary vesicles, and this five-part blueprint is the one that matters. Every structure in the adult brain maps to one of these five.
 
-<!-- → [INFOGRAPHIC: Two-panel developmental timeline — left panel showing the neural tube at day 25 with three primary vesicles labeled and color-coded (prosencephalon/forebrain in one color, mesencephalon/midbrain in another, rhombencephalon/hindbrain in a third); right panel showing the five secondary vesicles at week 6 with the prosencephalon split into telencephalon and diencephalon, rhombencephalon split into metencephalon and myelencephalon. Arrows mapping each secondary vesicle to its adult derivative (cerebrum, diencephalon, midbrain, pons+cerebellum, medulla). Student should see the adult brain as a predictable consequence of this branching, not a list to memorize.] -->
+![Developmental timeline ](images/16-anatomy-of-the-nervous-system-fig-01.png)
+*Figure 16.1 — Developmental timeline *
 
 Here is the map:
 
@@ -39,7 +40,8 @@ While the anterior neural tube was forming vesicles, the posterior neural tube w
 
 From the beginning, the tube had a dorsal side and a ventral side. The dorsal side, called the alar plate in the embryo, becomes sensory structures. The ventral side, called the basal plate, becomes motor structures. This dorsal-sensory, ventral-motor split is established in the embryo and it governs the spinal cord for life. Cut a cross-section of spinal cord and you see an H-shaped region of gray matter — neuronal cell bodies — surrounded by white matter — myelinated axons. The posterior arms of the H are the dorsal horns: sensory. The anterior arms are the ventral horns: motor. At the thoracic and upper lumbar levels there is also a small lateral horn: autonomic.
 
-<!-- → [DIAGRAM: Spinal cord cross-section showing the H-shaped gray matter with all three horns labeled (dorsal/sensory, ventral/motor, lateral/autonomic), surrounded by white matter columns (posterior, anterior, lateral). A dorsal root with its ganglion entering the dorsal horn, and a ventral root exiting the ventral horn. Color-coding distinguishing sensory (dorsal) from motor (ventral) pathways. Caption noting that this dorsal-sensory/ventral-motor organization directly reflects the embryonic alar plate/basal plate split.] -->
+![Spinal cord cross-section showing the H-shaped gray matter](images/16-anatomy-of-the-nervous-system-fig-02.png)
+*Figure 16.2 — Spinal cord cross-section showing the H-shaped gray matter*
 
 The spinal cord doesn't extend the full length of the spine. It ends around the first or second lumbar vertebra. Below that, the nerve roots continue downward as a structure called the cauda equina — the horse's tail — before exiting through the lower vertebral foramina. This is why a lumbar puncture, a procedure to sample cerebrospinal fluid, can be done safely below L2: there is no cord there to injure, just free-floating nerve roots that move out of the way of the needle.
 
@@ -53,7 +55,8 @@ The **cerebrum** is by far the largest part, about eighty percent of brain mass.
 
 The major folds are consistent enough across individuals that anatomists use them as landmarks, dividing each hemisphere into lobes. The frontal lobe, anterior to the central sulcus, handles motor planning and, in its most anterior prefrontal regions, the kind of executive function that makes you capable of long-term plans and social reasoning. The parietal lobe, posterior to the central sulcus, processes touch, pain, proprioception — where your body is in space. The temporal lobe, inferior and lateral, handles auditory processing and, deep within it, memory consolidation in the hippocampus. The occipital lobe, at the very back, processes vision.
 
-<!-- → [IMAGE: Lateral view of the left cerebral hemisphere with the four lobes color-coded and labeled — frontal, parietal, temporal, occipital. Central sulcus and lateral sulcus marked as landmark boundaries. Primary motor cortex (precentral gyrus) and primary somatosensory cortex (postcentral gyrus) indicated with callouts. Caption: "The lobes are anatomical regions defined by consistent fold landmarks, not hard functional boundaries."] -->
+![The lobes are anatomical regions defined by consistent fold landmarks, not hard functional boundaries.](images/16-anatomy-of-the-nervous-system-fig-03.png)
+*Figure 16.3 — Lateral view of the left cerebral hemisphere with*
 
 Deep within the cerebrum, below the cortex, are the basal nuclei — clusters of cell bodies that modulate cortical motor commands. They do not initiate movement; they gate it. They receive input from the motor cortex and return output to the thalamus, which feeds back to the cortex. They run a "go" pathway that facilitates movement and a "stop" pathway that inhibits it. Parkinson's disease is what happens when the dopaminergic neurons that modulate the basal nuclei die: the stop pathway becomes chronically overactive, and movement becomes effortful and slow. Not paralysis — the motor cortex and spinal cord are intact — but the gate is stuck half-closed.
 
@@ -67,7 +70,8 @@ The brain stem is where the evolutionary history of the vertebrate brain is most
 
 The **cerebellum** is the most neuron-dense structure in the brain, containing perhaps half of all brain neurons despite being only about ten percent of brain mass, because its neurons are extraordinarily small and packed. Its function is comparison. The motor cortex sends a copy of its movement command to the cerebellum. The cerebellum simultaneously receives sensory feedback — from muscle spindles, joints, the vestibular system — about what the body is actually doing. It compares the intended movement with the actual movement, detects discrepancy, and sends a correction signal back through the thalamus to the motor cortex. The cerebellum does not initiate movement and it does not contain the final motor command. It is a real-time error-correction system.
 
-<!-- → [DIAGRAM: The cerebellar comparator loop — arrows showing: (1) motor cortex sends movement command to spinal cord AND sends a copy to cerebellum; (2) body executes movement and sensory feedback (proprioception, vestibular) goes to cerebellum; (3) cerebellum compares intended vs. actual, generates correction signal; (4) correction signal travels via thalamus back to motor cortex. Caption: "The cerebellum is not in the command chain — it is parallel to it, running real-time error correction."] -->
+![The cerebellum is not in the command chain — it is parallel to it, running real-time error correction.](images/16-anatomy-of-the-nervous-system-fig-04.png)
+*Figure 16.4 — The cerebellar comparator loop *
 
 Cerebellar damage doesn't cause paralysis. It causes ataxia — a failure of coordination. The movements are present, they are even forceful, but they are inaccurate. Reach for a glass and your hand overshoots. Try to walk a straight line and you stagger. Alcohol intoxication impairs the cerebellum, which is why a field sobriety test checks for coordination rather than strength. The muscle is working. The comparator is not.
 
@@ -79,7 +83,9 @@ The brain and spinal cord are connected to the body through two systems of nerve
 
 **Cranial nerves** attach to the brain. There are twelve pairs, numbered I through XII, emerging from the brain stem and passing through openings in the skull. They handle everything from smell (CN I, the olfactory nerve, which is unusual in projecting directly to the cortex without a thalamic relay) to vision (CN II, the optic nerve, projecting to the thalamus and midbrain) to the motor commands for the face, jaw, eyes, and tongue (CN III, IV, V, VI, VII, XI, XII) to hearing and balance (CN VIII) to autonomic control of the thoracic and abdominal organs (CN X, the vagus nerve).
 
-<!-- → [TABLE: The twelve cranial nerves — columns: Number (Roman numeral), Name, Type (sensory/motor/mixed), Primary function(s), Clinical test or consequence of damage. Rows sorted I–XII. Student will use this as a reference; the table should be scannable by function column so a student working a clinical scenario can find the relevant nerve quickly.] -->
+| Number (Roman numeral) | Name | Type (sensory | motor | mixed) |
+| --- | --- | --- | --- | --- |
+| should be scannable by function column so a student working a clinical scenario can find the relevant nerve quickly. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 The vagus is worth dwelling on because it defies the "cranial nerves control the head" intuition. The vagus nerve exits the skull and descends into the thorax and abdomen, supplying parasympathetic control to the heart, lungs, stomach, and small intestine. It carries sensory information from those organs back to the brain. It is the main pathway by which your digestive system communicates its state upward to your brain — which is part of why gut feelings are physiologically real. Vagal stimulation slows the heart rate. Surgical severing of the vagus (vagotomy, once performed to reduce stomach acid secretion) reduces gastric motility. One nerve, running from the skull to below the diaphragm, coordinating the parasympathetic state of most of the body's organ systems.
 
@@ -89,7 +95,8 @@ Spinal nerves do not run directly to muscles. Most of them first pass through a 
 
 There is a clinical key built into the sensory organization of the spinal nerves: dermatomes. Each spinal nerve supplies sensory innervation to a specific band of skin. C4 supplies the shoulder. T4 supplies the chest at the level of the nipples. L1 supplies the groin. S1 supplies the heel. If a patient has sensory loss or pain in a particular pattern, the dermatome map tells you which nerve root is being compressed or damaged. This is how a clinician examining a patient with radiating leg pain knows whether to suspect L4, L5, or S1 — the distribution of the pain is the signature of the nerve.
 
-<!-- → [IMAGE: Anterior and posterior dermatome maps of the human body — each dermatome band color-coded and labeled with its spinal nerve level (C2–S5). A clinical annotation showing that a band of pain or sensory loss corresponds directly to the affected nerve root. Student should see the dermatome map as a diagnostic tool, not just an anatomical catalogue.] -->
+![Anterior and posterior dermatome maps of the human](images/16-anatomy-of-the-nervous-system-fig-05.png)
+*Figure 16.5 — Anterior and posterior dermatome maps of the human*
 
 ---
 
@@ -99,7 +106,8 @@ The central nervous system — brain and spinal cord — is not just encased in 
 
 The outermost meningeal layer is the dura mater — literally "hard mother," a thick, tough sheet that lines the inside of the skull and the vertebral canal. Below it is the arachnoid mater — a thin, web-like layer — and below that, pressed against the brain and cord surface, is the pia mater, "gentle mother," which follows every fold and groove. Between the arachnoid and pia is the subarachnoid space, and this space is filled with cerebrospinal fluid.
 
-<!-- → [DIAGRAM: Cross-section of the skull and meninges showing the three layers — dura mater, arachnoid mater, pia mater — with the subarachnoid space between arachnoid and pia clearly labeled and shown to contain CSF. Bone above, brain surface below. A second panel showing the ventricle system in isolation: two lateral ventricles, third ventricle, cerebral aqueduct, fourth ventricle, with arrows showing the direction of CSF flow from choroid plexus through ventricles and out into the subarachnoid space. Student should see CSF as a continuous hydraulic system, not a static lake.] -->
+![Cross-section of the skull and meninges showing the](images/16-anatomy-of-the-nervous-system-fig-06.png)
+*Figure 16.6 — Cross-section of the skull and meninges showing the*
 
 Cerebrospinal fluid (CSF) is produced by specialized epithelial cells — the choroid plexus — lining the walls of the brain's internal chambers, the **ventricles**. The ventricle system is the remnant of the original hollow lumen of the neural tube. The tube was hollow; the brain expanded around that hollow; the hollow persists as a connected system of chambers. There are four ventricles: two lateral ventricles deep within the cerebral hemispheres, a third ventricle in the diencephalon, and a fourth ventricle in the brain stem. CSF produced in the choroid plexus flows through the ventricle system, exits through openings in the fourth ventricle, and circulates through the subarachnoid space surrounding the brain and cord. It is eventually absorbed back into the venous blood.
 
@@ -109,7 +117,8 @@ If CSF drainage is blocked — by a tumor, by inflammation, by a developmental a
 
 The blood supply to the brain arrives through two systems. The internal carotid arteries, entering through the base of the skull, supply the anterior and middle portions of the cerebrum. The vertebral arteries, traveling through the transverse foramina of the cervical vertebrae, supply the brain stem, cerebellum, and posterior cerebrum. The two systems join at the base of the brain in the **circle of Willis** — a ring of interconnected vessels that provides collateral circulation. If one carotid is occluded, blood can, in principle, reach the affected territory from the vertebral circulation via the circle. The circle of Willis is an elegant redundancy, though the connections are often incomplete and the protection it affords is partial.
 
-<!-- → [DIAGRAM: Inferior view of the brain showing the circle of Willis — internal carotid arteries entering anteriorly, vertebral arteries joining to form the basilar artery posteriorly, anterior and posterior communicating arteries completing the ring. Major branches labeled (anterior cerebral, middle cerebral, posterior cerebral arteries). A callout showing which brain regions each artery supplies. Student should see the circle as an anastomotic ring connecting two independent supply systems, and understand why an incomplete ring fails to provide collateral flow.] -->
+![Inferior view of the brain showing the circle](images/16-anatomy-of-the-nervous-system-fig-07.png)
+*Figure 16.7 — Inferior view of the brain showing the circle*
 
 ---
 
@@ -138,3 +147,90 @@ The following exercises are designed to be worked through with a language model.
 **Exercise 4 — Why the vagus nerve is so long.** Ask a language model to explain why the vagus nerve (CN X) is so anomalous — a cranial nerve that descends to the abdominal organs — in terms of the embryological origin of its targets. The stomach and intestines develop from the gut tube (endoderm). The vagus nerve develops from neural crest cells near the rhombencephalon. How did a nerve from the hindbrain come to innervate structures in the abdomen? Then ask: what would the consequences be of severing the vagus nerve at the level of the neck, and which functions would be most immediately affected?
 
 **Exercise 5 — The circle of Willis as redundancy.** Ask a language model to explain why the circle of Willis exists — what evolutionary pressure would have selected for a ring of anastomotic vessels at the base of the brain. Then ask it to describe two clinical scenarios where the circle of Willis provides protection against stroke, and one scenario where it fails to provide that protection. What determines whether the collateral circulation is adequate?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Korbinian Brodmann** divided the cerebral cortex into 52 distinct areas based on microscopic differences in cellular architecture — Brodmann areas, still the standard reference map a century later. He worked alone, mostly, and died at 49.
+
+**Run this:**
+
+```
+Who was Korbinian Brodmann, and how does his cytoarchitectural map of the cerebral cortex connect to the anatomy of the nervous system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Korbinian Brodmann"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through how Brodmann distinguished one area from another under the microscope — what did he actually see?
+- Ask it to compare the original 1909 Brodmann map with modern functional MRI parcellations — what holds up, what doesn't?
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 16.1 — Developmental timeline 
+
+Create a standalone D3 v7 HTML file for Figure Developmental timeline . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-panel developmental timeline — left panel showing the neural tube at day 25 with three primary vesicles labeled and color-coded (prosencephalon/forebrain in one color, mesencephalon/midbrain in another, rhombencephalon/hindbrain in a third); right panel showing the five secondary vesicles at week 6 with the prosencephalon split into telencephalon and diencephalon, rhombencephalon split into metencephalon and myelencephalon. Arrows mapping each secondary vesicle to its adult derivative (cerebrum, diencephalon, midbrain, pons+cerebellum, medulla). Student should see the adult brain as a predictable consequence of this branching, not a list to memorize.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. U
+
+> Reference implementation: `d3/16-anatomy-of-the-nervous-system-fig-01.html`
+
+---
+
+### Figure 16.2 — Spinal cord cross-section showing the H-shaped gray matter
+
+Create a standalone D3 v7 HTML file for Figure Spinal cord cross-section showing the H-shaped gray matter. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Spinal cord cross-section showing the H-shaped gray matter with all three horns labeled (dorsal/sensory, ventral/motor, lateral/autonomic), surrounded by white matter columns (posterior, anterior, lateral). A dorsal root with its ganglion entering the dorsal horn, and a ventral root exiting the ventral horn. Color-coding distinguishing sensory (dorsal) from motor (ventral) pathways. Caption noting that this dorsal-sensory/ventral-motor organization directly reflects the embryonic alar plate/basal plate split.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/16-anatomy-of-the-nervous-system-fig-02.html`
+
+---
+
+### Figure 16.3 — Lateral view of the left cerebral hemisphere with
+
+Create a standalone D3 v7 HTML file for Figure Lateral view of the left cerebral hemisphere with. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Lateral view of the left cerebral hemisphere with the four lobes color-coded and labeled — frontal, parietal, temporal, occipital. Central sulcus and lateral sulcus marked as landmark boundaries. Primary motor cortex (precentral gyrus) and primary somatosensory cortex (postcentral gyrus) indicated with callouts. Caption: "The lobes are anatomical regions defined by consistent fold landmarks, not hard functional boundaries.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/16-anatomy-of-the-nervous-system-fig-03.html`
+
+---
+
+### Figure 16.4 — The cerebellar comparator loop 
+
+Create a standalone D3 v7 HTML file for Figure The cerebellar comparator loop . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The cerebellar comparator loop — arrows showing: (1) motor cortex sends movement command to spinal cord AND sends a copy to cerebellum; (2) body executes movement and sensory feedback (proprioception, vestibular) goes to cerebellum; (3) cerebellum compares intended vs. actual, generates correction signal; (4) correction signal travels via thalamus back to motor cortex. Caption: "The cerebellum is not in the command chain — it is parallel to it, running real-time error correction.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/16-anatomy-of-the-nervous-system-fig-04.html`
+
+---
+
+### Figure 16.5 — Anterior and posterior dermatome maps of the human
+
+Create a standalone D3 v7 HTML file for Figure Anterior and posterior dermatome maps of the human. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Anterior and posterior dermatome maps of the human body — each dermatome band color-coded and labeled with its spinal nerve level (C2–S5). A clinical annotation showing that a band of pain or sensory loss corresponds directly to the affected nerve root. Student should see the dermatome map as a diagnostic tool, not just an anatomical catalogue.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/16-anatomy-of-the-nervous-system-fig-05.html`
+
+---
+
+### Figure 16.6 — Cross-section of the skull and meninges showing the
+
+Create a standalone D3 v7 HTML file for Figure Cross-section of the skull and meninges showing the. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Cross-section of the skull and meninges showing the three layers — dura mater, arachnoid mater, pia mater — with the subarachnoid space between arachnoid and pia clearly labeled and shown to contain CSF. Bone above, brain surface below. A second panel showing the ventricle system in isolation: two lateral ventricles, third ventricle, cerebral aqueduct, fourth ventricle, with arrows showing the direction of CSF flow from choroid plexus through ventricles and out into the subarachnoid space. Student should see CSF as a continuous hydraulic system, not a static lake.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono fo
+
+> Reference implementation: `d3/16-anatomy-of-the-nervous-system-fig-06.html`
+
+---
+
+### Figure 16.7 — Inferior view of the brain showing the circle
+
+Create a standalone D3 v7 HTML file for Figure Inferior view of the brain showing the circle. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Inferior view of the brain showing the circle of Willis — internal carotid arteries entering anteriorly, vertebral arteries joining to form the basilar artery posteriorly, anterior and posterior communicating arteries completing the ring. Major branches labeled (anterior cerebral, middle cerebral, posterior cerebral arteries). A callout showing which brain regions each artery supplies. Student should see the circle as an anastomotic ring connecting two independent supply systems, and understand why an incomplete ring fails to provide collateral flow.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/16-anatomy-of-the-nervous-system-fig-07.html`

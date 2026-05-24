@@ -19,7 +19,8 @@ The division that says wait is the parasympathetic nervous system. Its neurons e
 
 The easiest way to see these two systems in action is the pupil.
 
-<!-- → [IMAGE: iris diagram showing two muscle layers — inner circular fibers (sphincter pupillae, parasympathetic) and outer radial fibers (dilator pupillae, sympathetic); two panels: left panel shows parasympathetic activation with circular fibers contracted and pupil constricted; right panel shows sympathetic activation with radial fibers contracted and pupil dilated; label the pathway for each: parasympathetic via Edinger-Westphal nucleus → oculomotor nerve → ciliary ganglion → ACh → muscarinic receptor; sympathetic via superior cervical ganglion → NE → adrenergic receptor; student should see same organ, opposite muscles, opposite neurotransmitters] -->
+![Iris diagram showing two muscle layers ](images/18-the-autonomic-nervous-system-fig-01.png)
+*Figure 18.1 — Iris diagram showing two muscle layers *
 
 When you walk from a dim room into bright sunlight, the retina detects the increase in light. The signal travels to the hypothalamus. The hypothalamus activates the parasympathetic pathway through the Edinger-Westphal nucleus — a small cluster of neurons in the brainstem that sends preganglionic fibers out along the oculomotor nerve to a ganglion near the eye. Short postganglionic fibers from that ganglion reach the circular muscle fibers of the iris — the ones arranged in rings. Those fibers contract. The pupil shrinks.
 
@@ -43,7 +44,8 @@ Your somatic motor system — the system that controls your skeletal muscles —
 
 The autonomic system uses two neurons in series. The first neuron, the preganglionic neuron, has its cell body in the spinal cord or brainstem. Its axon does not go directly to the heart or the intestine. Instead, it travels to a ganglion — a cluster of other neurons located outside the central nervous system — and synapses there. That synapse is the relay point. The second neuron, the postganglionic neuron, then extends from the ganglion to the actual target organ.
 
-<!-- → [IMAGE: comparison diagram of somatic vs. autonomic motor pathways — left: somatic pathway showing single motor neuron from spinal cord directly to skeletal muscle; center: sympathetic pathway showing short preganglionic fiber from thoracic spinal cord to sympathetic chain ganglion, long postganglionic fiber to target organ; right: parasympathetic pathway showing long preganglionic fiber from brainstem/sacral cord to terminal ganglion near/inside organ, short postganglionic fiber to target; label neurotransmitters at each synapse (ACh at preganglionic-to-ganglion for both, ACh at para postganglionic-to-target, NE at symp postganglionic-to-target); student should see the structural logic of why sympathetic diverges and parasympathetic converges] -->
+![Comparison diagram of somatic vs](images/18-the-autonomic-nervous-system-fig-02.png)
+*Figure 18.2 — Comparison diagram of somatic vs*
 
 Why the extra step? The architecture serves the divergence-versus-precision trade-off described above. For the sympathetic system, the ganglia form a chain alongside the vertebral column — 23 pairs of them running from the neck to the pelvis. A single preganglionic fiber from the thoracic spinal cord can synapse on multiple ganglionic neurons at multiple levels of the chain, and each of those ganglionic neurons sends its postganglionic fiber to a different target. One preganglionic neuron can thus influence the heart, the lung, the blood vessels, and the sweat glands all at once — the divergence built into the chain's architecture.
 
@@ -59,7 +61,12 @@ Parasympathetic postganglionic fibers release acetylcholine again. But the recep
 
 Sympathetic postganglionic fibers release norepinephrine. It binds to adrenergic receptors — alpha and beta subtypes with different downstream effects. Alpha-adrenergic receptors on blood vessel walls cause vasoconstriction. Beta-adrenergic receptors on the heart cause rate acceleration and stronger contractions. A beta-blocker drug — one that occupies beta receptors without activating them — would slow the heart and reduce its contractile force, but would have little effect on blood vessel tone because blood vessels use mainly alpha receptors.
 
-<!-- → [TABLE: autonomic neurotransmitter map — rows: (1) sympathetic preganglionic → ganglion, (2) parasympathetic preganglionic → ganglion, (3) sympathetic postganglionic → target organ, (4) parasympathetic postganglionic → target organ, (5) adrenal medulla (special case); columns: neurotransmitter released, receptor type on receiving cell, receptor class (ionotropic/metabotropic), speed of effect, example effect; student should see that the first synapse is identical across both divisions, and the difference emerges entirely at the second synapse] -->
+| neurotransmitter released | receptor type on receiving cell | receptor class (ionotropic | metabotropic) | speed of effect |
+| --- | --- | --- | --- | --- |
+| 1) sympathetic preganglionic → ganglion, (2) parasympathetic preganglionic → ganglion, (3) sympathetic postganglionic → target organ, (4) parasympathetic postganglionic → target organ, (5) adrenal medulla (special case | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| columns: neurotransmitter released, receptor type on receiving cell, receptor class (ionotropic | metabotropic | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| speed of effect, example effect | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| student should see that the first synapse is identical across both divisions, and the difference emerges entirely at the second synapse | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 There is an exception worth knowing. The adrenal medulla — the inner portion of the adrenal gland sitting on top of each kidney — is innervated by sympathetic preganglionic fibers directly, skipping the postganglionic step entirely. When those preganglionic fibers fire, the adrenal medulla does not release norepinephrine at a local synapse. It dumps epinephrine and norepinephrine directly into the bloodstream. Now the sympathetic signal is hormonal. It travels to every organ simultaneously, lasts for minutes rather than seconds, and amplifies the sympathetic response body-wide. The local synapse is fast and precise; the hormonal release is slower and global. The body uses both, in sequence, when the threat is serious enough.
 
@@ -73,7 +80,8 @@ The hypothalamus sits at the base of the brain, above the brainstem, below the t
 
 The hypothalamus does not directly control the heart. It sends its instructions down fiber tracts — the dorsal longitudinal fasciculus and the medial forebrain bundle — to the brainstem and spinal cord, where the preganglionic neurons are. Those neurons then activate the two-neuron chains described above.
 
-<!-- → [INFOGRAPHIC: autonomic control hierarchy — top to bottom: (1) cerebral cortex/prefrontal cortex labeled "conscious assessment"; (2) amygdala labeled "emotional threat detection"; (3) hypothalamus labeled "integration: body state + emotional state → set sympathetic vs parasympathetic tone"; (4) medulla (solitary nucleus, vagal nuclei, vasomotor center) labeled "real-time cardiovascular reflex"; (5) preganglionic neurons in spinal cord / brainstem; (6) ganglia (sympathetic chain or terminal ganglia); (7) target organs (heart, blood vessels, gut, pupil); arrows showing descending commands and ascending sensory feedback from baroreceptors; student should see the hierarchy as a cascade from conscious brain through emotional brain to automatic brainstem to peripheral two-neuron chain] -->
+![Autonomic control hierarchy ](images/18-the-autonomic-nervous-system-fig-03.png)
+*Figure 18.3 — Autonomic control hierarchy *
 
 The medulla, at the very base of the brainstem, is where cardiovascular regulation actually happens in real time. The solitary nucleus receives pressure information from baroreceptors — stretch sensors embedded in the walls of the carotid artery and aorta. When blood pressure rises, these sensors fire. The signal reaches the solitary nucleus. The solitary nucleus activates the vagal nuclei, slowing the heart; it simultaneously suppresses sympathetic output to the heart and blood vessels. Blood pressure drops back toward normal.
 
@@ -152,3 +160,74 @@ Just not all the way, and not without effort.
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Sympathetic vs. parasympathetic on a single organ.** Ask a language model to walk through what happens to the heart, lungs, gut, and blood vessels when (a) the sympathetic system fires, and (b) the parasympathetic system fires. For each organ, note whether the systems oppose, complement, or are mutually exclusive. Then ask: why does the autonomic nervous system use this two-team architecture rather than one team that varies its activity from low to high? The answer is that the fast switching between dramatically different functional states (rest-and-digest vs. fight-or-flight) requires both brakes and accelerators — gradual modulation could not produce the rapid global response needed.
+
+**Exercise 2 — The two-neuron chain and pharmacological targets.** Ask a language model to compare the synaptic chemistry of sympathetic and parasympathetic systems: parasympathetic uses acetylcholine throughout (preganglionic to postganglionic, then postganglionic to target). Sympathetic uses ACh preganglionic but typically norepinephrine postganglionic. Why does this difference in chemistry matter for drug design? Then push: which drugs (beta-blockers, atropine, etc.) selectively target which step in which system? The answer reveals why drugs can produce highly specific effects despite acting on a global control system.
+
+**Exercise 3 — When the autonomic system gets the situation wrong.** Ask a language model to explain orthostatic hypotension — the drop in blood pressure that some people experience when standing up. Walk through the normal autonomic response: standing causes blood to pool in legs; baroreceptors detect the BP drop; sympathetic activation constricts vessels and accelerates heart; BP is restored within seconds. Then ask: what fails in patients with autonomic neuropathy (often diabetics)? The compensation is delayed or absent, BP stays low, the patient becomes lightheaded or syncopal. What does this clinical pattern reveal about the speed of normal autonomic regulation?
+
+**Exercise 4 — The enteric nervous system as quasi-autonomous.** Ask a language model to describe the enteric nervous system — approximately 500 million neurons in the gut wall, more than in the spinal cord. The ENS controls peristalsis, secretion, and local blood flow without input from the brain. Then ask: why is the gut wired this way rather than receiving fine-grained instructions from above? The answer is that gut activity must respond to local conditions (food bolus location, chemical composition, distension) on timescales too fast for central processing. The brain provides modulatory input but does not control execution.
+
+**Exercise 5 — Vagal tone and the resting state.** Ask a language model to explain why the heart's intrinsic rate (without any neural input) is approximately 100-105 bpm, but the resting heart rate of a healthy adult is about 60-80 bpm. The difference is vagal tone — continuous parasympathetic input that brakes the heart. Then ask: what does heart rate variability (HRV) — the beat-to-beat variation in heart rate — measure, and why is high HRV associated with cardiovascular health? The answer is that HRV reflects the responsiveness of vagal tone to respiratory and other modulating inputs; low HRV indicates a system stuck in sympathetic dominance, often associated with chronic stress and disease.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Otto Loewi** proved that nerves communicate chemically — not just electrically — in 1921, after the experimental design came to him in a dream. He won the 1936 Nobel Prize for the discovery of neurotransmitters.
+
+**Run this:**
+
+```
+Who was Otto Loewi, and how does his discovery of chemical neurotransmission connect to the autonomic nervous system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Otto Loewi"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Loewi's 1921 frog-heart experiment in plain language — what did each container contain, and what did the second heart do?
+- Add a constraint: "Answer as Loewi's diary entry the night he woke up with the experiment in his head."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 18.1 — Iris diagram showing two muscle layers 
+
+Create a standalone D3 v7 HTML file for Figure Iris diagram showing two muscle layers . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: iris diagram showing two muscle layers — inner circular fibers (sphincter pupillae, parasympathetic) and outer radial fibers (dilator pupillae, sympathetic); two panels: left panel shows parasympathetic activation with circular fibers contracted and pupil constricted; right panel shows sympathetic activation with radial fibers contracted and pupil dilated; label the pathway for each: parasympathetic via Edinger-Westphal nucleus → oculomotor nerve → ciliary ganglion → ACh → muscarinic receptor; sympathetic via superior cervical ganglion → NE → adrenergic receptor; student should see same organ, opposite muscles, opposite neurotransmitters. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Us
+
+> Reference implementation: `d3/18-the-autonomic-nervous-system-fig-01.html`
+
+---
+
+### Figure 18.2 — Comparison diagram of somatic vs
+
+Create a standalone D3 v7 HTML file for Figure Comparison diagram of somatic vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: comparison diagram of somatic vs. autonomic motor pathways — left: somatic pathway showing single motor neuron from spinal cord directly to skeletal muscle; center: sympathetic pathway showing short preganglionic fiber from thoracic spinal cord to sympathetic chain ganglion, long postganglionic fiber to target organ; right: parasympathetic pathway showing long preganglionic fiber from brainstem/sacral cord to terminal ganglion near/inside organ, short postganglionic fiber to target; label neurotransmitters at each synapse (ACh at preganglionic-to-ganglion for both, ACh at para postganglionic-to-target, NE at symp postganglionic-to-target); student should see the structural logic of why sympathetic diverges and parasympathetic converges. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero bas
+
+> Reference implementation: `d3/18-the-autonomic-nervous-system-fig-02.html`
+
+---
+
+### Figure 18.3 — Autonomic control hierarchy 
+
+Create a standalone D3 v7 HTML file for Figure Autonomic control hierarchy . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: autonomic control hierarchy — top to bottom: (1) cerebral cortex/prefrontal cortex labeled "conscious assessment"; (2) amygdala labeled "emotional threat detection"; (3) hypothalamus labeled "integration: body state + emotional state → set sympathetic vs parasympathetic tone"; (4) medulla (solitary nucleus, vagal nuclei, vasomotor center) labeled "real-time cardiovascular reflex"; (5) preganglionic neurons in spinal cord / brainstem; (6) ganglia (sympathetic chain or terminal ganglia); (7) target organs (heart, blood vessels, gut, pupil); arrows showing descending commands and ascending sensory feedback from baroreceptors; student should see the hierarchy as a cascade from conscious brain through emotional brain to automatic brainstem to peripheral two-neuron chain. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in
+
+> Reference implementation: `d3/18-the-autonomic-nervous-system-fig-03.html`

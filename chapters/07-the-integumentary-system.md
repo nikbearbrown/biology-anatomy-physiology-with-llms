@@ -29,7 +29,8 @@ Start at the bottom. At the base of the epidermis, resting on a mesh of collagen
 
 Three other cell types live among the basal cells. *Melanocytes* make melanin — the pigment that gives skin its color — and transfer it to the surrounding basal cells via small vesicles. *Merkel cells* are touch receptors connected directly to sensory nerves. *Langerhans cells* are immune scouts — modified white blood cells stationed here to detect bacteria or other foreign material that has penetrated this far.
 
-<!-- → [DIAGRAM: cross-section of the stratum basale showing a basal cell mid-division, with one daughter cell remaining and one pushed upward; melanocyte transferring melanosomes to adjacent cells; Langerhans cell with dendritic projections; Merkel cell connected to a sensory nerve ending — caption: "four cell types, four jobs, all in a single row"] -->
+![four cell types, four jobs, all in a single row](images/07-the-integumentary-system-fig-01.png)
+*Figure 7.1 — Cross-section of the stratum basale showing a basal*
 
 As basal cells are pushed upward into the *stratum spinosum*, they begin synthesizing keratin — a fibrous structural protein that will eventually fill them almost completely. The cells here are connected to each other by interlocking structures called desmosomes, which hold the layer together under mechanical stress. The stratum spinosum is eight to ten cells deep, the thickest living layer. It is where most of the keratin manufacturing happens.
 
@@ -39,7 +40,8 @@ In thick skin only — found on the palms and soles, where mechanical stress is 
 
 At the surface is the *stratum corneum* — fifteen to thirty dead, flattened cells deep, sometimes more. These cells are filled with keratin and their membranes are thickened and reinforced by the keratohyalin from below. Between the cells is a lipid mortar: the waxy substance secreted by the lamellar granules, now filling the spaces between dead cells like mortar between bricks. This lipid mortar is the waterproofing. It is what prevents your cells from losing water to the air or gaining it from the rain. The stratum corneum is both the protein and the lipid together — neither alone is sufficient. Remove the lipid and you lose the waterproofing; dissolve the keratin and you lose the mechanical barrier.
 
-<!-- → [DIAGRAM: full epidermis cross-section from stratum basale to stratum corneum — label each layer, indicate which cells are living vs. dead, show lamellar granule secretion releasing lipid mortar into the intercellular space at the granulosum-to-corneum transition; caption: "the stratum corneum is bricks (dead keratinocytes) and mortar (lipid) — remove either and the barrier fails"] -->
+![the stratum corneum is bricks (dead keratinocytes) and mortar (lipid) — remove either and the barrier fails](images/07-the-integumentary-system-fig-02.png)
+*Figure 7.2 — Full epidermis cross-section from stratum basale to stratum*
 
 And the entire stratum corneum is shed about every four weeks. Every dead cell at the surface is replaced by a cell pushed up from below. The epidermis manufactures its own outer layer on a continuous basis, replacing it completely on a schedule your body keeps without you having to think about it.
 
@@ -53,13 +55,15 @@ The melanin in your skin is not decoration. It is a UV filter. Melanin absorbs u
 
 But melanin also absorbs visible light, and this creates a second cost. The epidermis manufactures vitamin D when UV light hits a molecule called 7-dehydrocholesterol in the skin. More melanin means less UV reaching that molecule, which means less vitamin D synthesized. At latitudes with less sunlight — northern Europe, for instance — people with very dark skin can be chronically deficient in vitamin D unless they supplement or eat vitamin D-rich foods. The lighter skin common in populations from high-latitude ancestral environments is not a defect. It is an adaptation: reduce melanin, allow more UV through, make more vitamin D. The cost is greater susceptibility to UV-induced skin cancer. The benefit is adequate vitamin D in low-sunlight environments.
 
-<!-- → [INFOGRAPHIC: world map or latitude gradient showing the inverse relationship between UV index and skin melanin levels in ancestral populations — one axis UV intensity, one axis melanin content; callout boxes for the two consequences being traded off: skin cancer risk vs. vitamin D synthesis — student should see that no single melanin level is "optimal" for every environment] -->
+![World map or latitude gradient showing the inverse](images/07-the-integumentary-system-fig-03.png)
+*Figure 7.3 — World map or latitude gradient showing the inverse*
 
 This is how evolution reasons about trade-offs. It does not find the perfect answer. It finds the answer that is least bad given the specific conditions — and when conditions change, the old answer may become the wrong one. A dark-skinned person whose ancestral population lived near the equator, now living in a northern city and working indoors, may need to think about vitamin D supplementation. The skin's calibration was set for a different environment.
 
 Melanoma, the deadliest skin cancer, arises not from basal cells but from melanocytes — the melanin-producing cells in the stratum basale. Melanocytes are long-lived. They do not divide as rapidly as basal cells, but they are continuously exposed to UV radiation. Over decades, damage accumulates. A melanocyte that acquires the right combination of mutations can begin to divide uncontrollably, spread through the layers of the skin, and eventually metastasize to other organs. A mole that was stable for years can become lethal. This is what UV radiation does when the protection fails. The melanin is the first line of defense. When the first line fails, the consequences can be severe.
 
-<!-- → [IMAGE: clinical photographs of the ABCDE criteria for melanoma — Asymmetry, Border irregularity, Color variation, Diameter > 6mm, Evolution — side by side with a normal mole for comparison; caption: "melanoma is recognizable if you know what to look for; the ABCDE rule encodes the visual signatures of uncontrolled cell division"] -->
+![melanoma is recognizable if you know what to look for; the ABCDE rule encodes the visual signatures of uncontrolled cell division](images/07-the-integumentary-system-fig-04.png)
+*Figure 7.4 — Clinical photographs of the ABCDE criteria for melanoma*
 
 ---
 
@@ -71,7 +75,8 @@ The dermis has two layers. The upper, thinner layer is the *papillary dermis*, l
 
 The lower, thicker layer is the *reticular dermis*, densely woven with collagen fibers. This layer has more blood vessels, more nerves, and Pacinian corpuscles — touch receptors that respond to vibration and deep pressure. Temperature and pain receptors are distributed throughout both layers.
 
-<!-- → [DIAGRAM: dermis cross-section showing papillary and reticular layers with labeled structures — Meissner corpuscle in papillary layer, Pacinian corpuscle in reticular layer, free nerve endings, dermal blood vessels, fibroblasts, collagen fiber bundles — caption: "the dermis is not supporting tissue in a passive sense; it is the sensory, vascular, and structural layer that makes the epidermis above it functional"] -->
+![the dermis is not supporting tissue in a passive sense; it is the sensory, vascular, and structural layer that makes the epidermis above it functional](images/07-the-integumentary-system-fig-05.png)
+*Figure 7.5 — Dermis cross-section showing papillary and reticular layers with*
 
 Collagen is what gives the dermis its mechanical character. Collagen fibers are strong in tension — they resist pulling forces — and when intact and well-organized, they give skin its suppleness and its ability to bounce back after deformation. When collagen is damaged — by UV radiation, by inflammation, by aging — skin loses elasticity. It wrinkles. It sags. This is why the visible effects of sun damage on skin are not just about pigmentation changes; they are about structural degradation of the collagen matrix in the dermis.
 
@@ -81,7 +86,10 @@ Sweat adds another mechanism. Eccrine sweat glands are found over almost the ent
 
 The dermis is also where the sensory reporting happens. The Merkel cells in the epidermis detect sustained pressure. The Meissner corpuscles in the papillary dermis detect light touch and texture. The Pacinian corpuscles in the reticular dermis detect vibration. Free nerve endings throughout the dermis detect temperature (separate receptors for warm and cool) and pain. Each type responds to a different physical stimulus and sends a different signal. The brain assembles those reports into your continuous sensory experience of the world — the draft from the window, the texture of the armrest, the warmth of a hand.
 
-<!-- → [TABLE: sensory receptor summary — columns: receptor name, location, stimulus detected, example sensation; rows: Merkel cell, Meissner corpuscle, Pacinian corpuscle, free nerve endings (temperature), free nerve endings (pain) — the table students will return to when they encounter these receptors again in the nervous system chapter] -->
+| receptor name | location | stimulus detected | example sensation |
+| --- | --- | --- | --- |
+| Merkel cell, Meissner corpuscle, Pacinian corpuscle, free nerve endings (temperature | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. |
+| free nerve endings (pain) | the table students will return to when they encounter these receptors again in the nervous system chapter | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. |
 
 ---
 
@@ -91,7 +99,8 @@ Hair, nails, sweat glands, and sebaceous glands originate as ingrowths of the ep
 
 Hair grows from a structure called the hair follicle — a tube that penetrates deep into the dermis. At the base of the follicle is the hair matrix, a population of rapidly dividing cells fed by a rich supply of capillaries. As those cells divide, they are pushed upward through the follicle. They keratinize as they go. By the time they emerge at the surface, they are dead, densely keratinized cells — essentially the same material as the stratum corneum, just organized into a fiber. The hair you see and cut is dead tissue. The living part is entirely below the surface.
 
-<!-- → [DIAGRAM: longitudinal cross-section of a hair follicle — label the hair shaft, hair root, hair matrix, hair papilla, hair bulb, arrector pili muscle, sebaceous gland, and sensory nerve endings (hair root plexus); indicate the direction of cell movement (upward); caption: "every visible part of a hair is dead; the shaft is pushed upward from the matrix at the base, where the only living cells are"] -->
+![every visible part of a hair is dead; the shaft is pushed upward from the matrix at the base, where the only living cells are](images/07-the-integumentary-system-fig-06.png)
+*Figure 7.6 — Longitudinal cross-section of a hair follicle *
 
 Hair color comes from melanin transferred to the matrix cells as they form. The type of melanin matters: eumelanin produces brown and black; pheomelanin produces red and yellow. Blond hair has little of either. Gray and white hair has almost none — as a person ages, melanocyte activity in the hair follicle declines, and new hair grows without pigment.
 
@@ -111,7 +120,8 @@ Stand back and look at the system as a whole, and a single organizing logic emer
 
 The stratum corneum is the waterproofing: dead cells packed with keratin, sealed with lipid mortar, shedding continuously to remove the bacteria and debris that accumulate on the surface. The dermis is the engineering: collagen for mechanical strength, blood vessels for heat regulation and nutrient delivery, sensory receptors for environmental awareness. The immune cells at both levels are the standing guard: Langerhans cells in the epidermis, macrophages and phagocytes in the dermis.
 
-<!-- → [INFOGRAPHIC: full skin cross-section from stratum corneum to hypodermis — annotated with functional callouts rather than just anatomical labels; e.g., "waterproofing" pointing to lipid mortar, "rapid renewal" pointing to stratum basale, "temperature regulation" pointing to dermal blood vessels and eccrine gland, "sensory reporting" pointing to the receptor array in the dermis — organizes the whole chapter's content into one visual the student can use to self-quiz] -->
+![Full skin cross-section from stratum corneum to hypodermis](images/07-the-integumentary-system-fig-07.png)
+*Figure 7.7 — Full skin cross-section from stratum corneum to hypodermis*
 
 The epidermis's four-week replacement cycle means the skin is never static. The surface you see today is not the surface you had a month ago. New cells are continuously being pushed from the stratum basale outward, keratinizing, dying, and shedding. Minor injuries close quickly because the factory is always running. But the same cycle that allows rapid healing creates the vulnerability to cancer: the cells dividing most rapidly are the cells most likely to acquire and propagate mutations.
 
@@ -164,3 +174,90 @@ The skin is resilient because it is layered, each layer with different propertie
 4. **Synthesis:** The stratum corneum is continuously shed and replaced. Propose a hypothesis for why this shedding serves a defensive function beyond simply removing dead tissue. How would you test it?
 
 5. **Teaching test:** Explain why a tattoo is permanent but a suntan is not, using only what you know about the structure and behavior of the epidermis and dermis. Do not look anything up. If your explanation requires you to use terms you cannot define from memory, identify those terms and explain what you would need to know to complete the answer.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Frederic E. Mohs** developed Mohs micrographic surgery in the 1930s — a technique that maps a skin tumor margin-by-margin under a microscope while the patient waits, removing only what's diseased. It remains the highest cure-rate procedure for many skin cancers.
+
+**Run this:**
+
+```
+Who was Frederic E. Mohs, and how does his micrographic surgery technique connect to the structure of the integumentary system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Frederic E. Mohs"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace one round of Mohs surgery from skin layer to skin layer — using the integumentary anatomy from this chapter as the map.
+- Ask it to compare Mohs surgery's margin-by-margin approach with standard wide-excision surgery — what's the trade-off?
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 7.1 — Cross-section of the stratum basale showing a basal
+
+Create a standalone D3 v7 HTML file for Figure Cross-section of the stratum basale showing a basal. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section of the stratum basale showing a basal cell mid-division, with one daughter cell remaining and one pushed upward; melanocyte transferring melanosomes to adjacent cells; Langerhans cell with dendritic projections; Merkel cell connected to a sensory nerve ending — caption: "four cell types, four jobs, all in a single row". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/07-the-integumentary-system-fig-01.html`
+
+---
+
+### Figure 7.2 — Full epidermis cross-section from stratum basale to stratum
+
+Create a standalone D3 v7 HTML file for Figure Full epidermis cross-section from stratum basale to stratum. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: full epidermis cross-section from stratum basale to stratum corneum — label each layer, indicate which cells are living vs. dead, show lamellar granule secretion releasing lipid mortar into the intercellular space at the granulosum-to-corneum transition; caption: "the stratum corneum is bricks (dead keratinocytes) and mortar (lipid) — remove either and the barrier fails". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/07-the-integumentary-system-fig-02.html`
+
+---
+
+### Figure 7.3 — World map or latitude gradient showing the inverse
+
+Create a standalone D3 v7 HTML file for Figure World map or latitude gradient showing the inverse. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: world map or latitude gradient showing the inverse relationship between UV index and skin melanin levels in ancestral populations — one axis UV intensity, one axis melanin content; callout boxes for the two consequences being traded off: skin cancer risk vs. vitamin D synthesis — student should see that no single melanin level is "optimal" for every environment. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/07-the-integumentary-system-fig-03.html`
+
+---
+
+### Figure 7.4 — Clinical photographs of the ABCDE criteria for melanoma
+
+Create a standalone D3 v7 HTML file for Figure Clinical photographs of the ABCDE criteria for melanoma. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: clinical photographs of the ABCDE criteria for melanoma — Asymmetry, Border irregularity, Color variation, Diameter > 6mm, Evolution — side by side with a normal mole for comparison; caption: "melanoma is recognizable if you know what to look for; the ABCDE rule encodes the visual signatures of uncontrolled cell division". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/07-the-integumentary-system-fig-04.html`
+
+---
+
+### Figure 7.5 — Dermis cross-section showing papillary and reticular layers with
+
+Create a standalone D3 v7 HTML file for Figure Dermis cross-section showing papillary and reticular layers with. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: dermis cross-section showing papillary and reticular layers with labeled structures — Meissner corpuscle in papillary layer, Pacinian corpuscle in reticular layer, free nerve endings, dermal blood vessels, fibroblasts, collagen fiber bundles — caption: "the dermis is not supporting tissue in a passive sense; it is the sensory, vascular, and structural layer that makes the epidermis above it functional". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/07-the-integumentary-system-fig-05.html`
+
+---
+
+### Figure 7.6 — Longitudinal cross-section of a hair follicle 
+
+Create a standalone D3 v7 HTML file for Figure Longitudinal cross-section of a hair follicle . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: longitudinal cross-section of a hair follicle — label the hair shaft, hair root, hair matrix, hair papilla, hair bulb, arrector pili muscle, sebaceous gland, and sensory nerve endings (hair root plexus); indicate the direction of cell movement (upward); caption: "every visible part of a hair is dead; the shaft is pushed upward from the matrix at the base, where the only living cells are". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/07-the-integumentary-system-fig-06.html`
+
+---
+
+### Figure 7.7 — Full skin cross-section from stratum corneum to hypodermis
+
+Create a standalone D3 v7 HTML file for Figure Full skin cross-section from stratum corneum to hypodermis. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: full skin cross-section from stratum corneum to hypodermis — annotated with functional callouts rather than just anatomical labels; e.g., "waterproofing" pointing to lipid mortar, "rapid renewal" pointing to stratum basale, "temperature regulation" pointing to dermal blood vessels and eccrine gland, "sensory reporting" pointing to the receptor array in the dermis — organizes the whole chapter's content into one visual the student can use to self-quiz. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/07-the-integumentary-system-fig-07.html`

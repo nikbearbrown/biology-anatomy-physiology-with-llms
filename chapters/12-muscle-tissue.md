@@ -21,7 +21,8 @@ A muscle fiber is packed with cylindrical structures called myofibrils. Each myo
 
 Inside each sarcomere are two types of protein filaments. Thin filaments are made of actin — a globular protein that polymerizes into long chains. Thick filaments are made of myosin — a much larger protein with a long tail and a protruding head. The thin filaments are anchored at each end of the sarcomere to a structure called the Z-disc. The thick filaments float in the center, not anchored to anything, held in place by the thin filaments around them. When the muscle contracts, the thin filaments are pulled inward toward the center. The Z-discs get closer together. The sarcomere shortens.
 
-<!-- → [DIAGRAM: A sarcomere at rest and at peak contraction shown side by side — Z-discs, thin filaments (actin), thick filaments (myosin), H-zone, and M-line labeled. Arrows showing the direction of thin filament sliding. Student should see that filament lengths do not change; only the overlap zone increases. Caption: "The sarcomere shortens because the Z-discs are pulled together, not because the filaments themselves shrink."] -->
+![The sarcomere shortens because the Z-discs are pulled together, not because the filaments themselves shrink.](images/12-muscle-tissue-fig-01.png)
+*Figure 12.1 — A sarcomere at rest and at peak contraction*
 
 What does the pulling? The myosin heads.
 
@@ -31,7 +32,8 @@ The head begins cocked — in a high-energy state, loaded like a spring. It reac
 
 Then ATP arrives. The head binds it. The shape of the head changes. The grip on actin loosens and releases. The head detaches. An enzyme in the head breaks the ATP into ADP and phosphate, and the energy of that breakdown recocks the head into the high-energy position. The head is ready to grab again.
 
-<!-- → [DIAGRAM: The cross-bridge cycle in four frames — (1) myosin head cocked, ADP+Pi bound, not yet attached to actin; (2) head attaches to exposed actin binding site; (3) power stroke fires, head pivots, ADP+Pi released, thin filament moves 10 nm; (4) ATP binds, head detaches, ATPase recocks the head. Arrows connecting frames in a loop. Student should see this as a ratchet mechanism operating asynchronously across hundreds of heads.] -->
+![The cross-bridge cycle in four frames ](images/12-muscle-tissue-fig-02.png)
+*Figure 12.2 — The cross-bridge cycle in four frames *
 
 This is rowing. The oar enters the water, pulls, exits, swings forward, enters again. A single myosin head moves its filament ten nanometers per stroke. That sounds trivial. But a thick filament contains roughly three hundred myosin heads. Hundreds of heads are completing power strokes simultaneously at any instant. And a muscle fiber contains thousands of sarcomeres in series along its length, each shortening by the same amount, each sarcomere's contribution adding to the total. The sum of many small strokes, multiplied across millions of sarcomeres, is a muscle that can shorten by fifty percent of its resting length and exert hundreds of pounds of force.
 
@@ -39,7 +41,8 @@ There is one thing that kills this machine immediately: the absence of ATP. When
 
 The efficiency of the sliding filament mechanism also depends on geometry. The force a sarcomere can generate is proportional to the number of cross-bridges that can simultaneously form — and that number depends on how much the thin and thick filaments overlap. Stretch the sarcomere too far and the filaments barely overlap: few cross-bridges, little force. Compress the sarcomere too much and the thin filaments collide with each other and buckle: again, less force. There is an optimal resting length — around two micrometers per sarcomere — where the overlap is maximal and force production is greatest. The body maintains muscles near this length at rest, which is why muscles in their natural anatomical positions are close to their strongest.
 
-<!-- → [CHART: Length-tension curve for a sarcomere — x-axis showing sarcomere length from ~1.5 to ~3.5 micrometers, y-axis showing relative force production (0–100%). The curve peaks at ~2.0–2.2 micrometers (optimal overlap), drops off on both sides. Three inset diagrams showing filament overlap at short, optimal, and stretched lengths. Student should see that force is a geometric property of overlap, not just of how hard the cell is trying.] -->
+![Length-tension curve for a sarcomere ](images/12-muscle-tissue-fig-03.png)
+*Figure 12.3 — Length-tension curve for a sarcomere *
 
 ---
 
@@ -55,7 +58,8 @@ When calcium ions flood into the cell, they bind to troponin. This binding chang
 
 When calcium is removed, troponin releases it, tropomyosin shifts back to cover the binding sites, the heads detach, and the muscle relaxes.
 
-<!-- → [DIAGRAM: Two-state model of thin filament regulation — left panel showing resting state (tropomyosin covering actin binding sites, troponin holding it in place, myosin head unable to attach); right panel showing activated state (calcium bound to troponin, tropomyosin shifted, binding sites exposed, myosin head attached and mid-power-stroke). Calcium ions shown as labeled circles. Caption: "Calcium is the gate, not the power source. Once the gate opens, cross-bridge cycling proceeds at a constant rate."] -->
+![Calcium is the gate, not the power source. Once the gate opens, cross-bridge cycling proceeds at a constant rate.](images/12-muscle-tissue-fig-04.png)
+*Figure 12.4 — Two-state model of thin filament regulation *
 
 Calcium is not the power source. It is the gate. The force comes from the cross-bridge cycling. Calcium's only job is to open the gate. This distinction matters because it means the strength of a contraction depends on how many gates are open — how many sarcomeres have calcium present — not on how hard the calcium pushes.
 
@@ -67,7 +71,8 @@ Muscle fibers solve this with T-tubules — transverse tubules that are deep inf
 
 At the end of each T-tubule are the terminal cisternae of the sarcoplasmic reticulum — a specialized internal membrane system that stores calcium like a reservoir under pressure. The T-tubule and its flanking cisternae form a structure called a triad: one tubule, two reservoirs. When the electrical signal reaches the T-tubule, voltage-sensing proteins in the T-tubule membrane detect the change and physically pull open calcium channels in the adjacent sarcoplasmic reticulum. Calcium floods into the cell interior in milliseconds. Calcium concentration rises roughly tenfold — from a resting concentration too low to trigger troponin, to a concentration that saturates it.
 
-<!-- → [DIAGRAM: Cross-section of a muscle fiber showing the T-tubule system — sarcolemma (outer membrane), T-tubule infolding, triad structure (one T-tubule flanked by two terminal cisternae of sarcoplasmic reticulum), and the voltage-sensor/calcium-channel coupling at the triad junction. An arrow showing action potential traveling from surface down the T-tubule. A second arrow showing calcium release from terminal cisternae into sarcoplasm. Student should see the T-tubule as a depth-penetrating antenna that synchronizes the entire cell.] -->
+![Cross-section of a muscle fiber showing the T-tubule](images/12-muscle-tissue-fig-05.png)
+*Figure 12.5 — Cross-section of a muscle fiber showing the T-tubule*
 
 The entire sequence — nerve fires, acetylcholine crosses the neuromuscular junction, muscle membrane depolarizes, action potential sweeps down T-tubules, calcium floods out, troponin shifts, cross-bridges form, sarcomeres shorten — takes about ten milliseconds. From intention to visible movement in a hundredth of a second.
 
@@ -99,7 +104,8 @@ There is another crucial difference in cardiac muscle: the action potential is m
 
 Your heart cannot be tetanized. This is not a limitation. It is a safety feature built into the action potential duration.
 
-<!-- → [CHART: Action potential comparison — three panels showing the voltage-time trace for skeletal muscle (~1–2 ms duration), cardiac muscle (~300 ms with plateau phase labeled), and smooth muscle (slow wave, variable duration). The cardiac refractory period shaded and labeled. Student should see why the plateau phase physically prevents re-stimulation before the contraction is complete.] -->
+![Action potential comparison ](images/12-muscle-tissue-fig-06.png)
+*Figure 12.6 — Action potential comparison *
 
 Now smooth muscle.
 
@@ -111,7 +117,9 @@ But smooth muscle has a trick the other two lack. It can form latch-bridges — 
 
 The control signals for smooth muscle are diffuse: the autonomic nervous system, circulating hormones like epinephrine, local chemical signals, and mechanical stretch itself can all trigger contraction or relaxation. Smooth muscle responds to the body's environment rather than to discrete conscious commands.
 
-<!-- → [TABLE: Three muscle types compared across six properties — rows: Skeletal, Cardiac, Smooth. Columns: Control signal, Action potential duration, Calcium source, Regulatory protein, Contraction speed, Energy strategy. Student should use this as a reference while reading the "Why This Matters" section that follows, seeing how each property connects to the muscle's job.] -->
+| Control signal | Action potential duration | Calcium source | Regulatory protein | Contraction speed |
+| --- | --- | --- | --- | --- |
+| Skeletal, Cardiac, Smooth. Columns: Control signal, Action potential duration, Calcium source, Regulatory protein, Contraction speed, Energy strategy. Student should use this as a reference while reading the "Why This Matters" section that follows, seeing how each property connects to the muscle's job. | It makes the underlying reasoning visible instead of implied. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Three muscle types. Three different jobs. Three different control architectures. But the engine — the myosin head reaching forward, grabbing actin, pivoting, releasing, reaching again — is exactly the same in all three. This is one of those things in biology that, once you see it, makes you understand something about how evolution works. It does not reinvent the machine. It builds new controls around the same machine, for each new context in which that machine is needed.
 
@@ -146,3 +154,82 @@ The following exercises are designed to be worked through with a language model.
 **Exercise 4 — Latch-bridges and energy.** Ask a language model to explain the latch-bridge mechanism in smooth muscle and why it is energetically favorable for sustained contractions. Then ask: if smooth muscle lacked latch-bridges and instead relied on the same cross-bridge cycling as skeletal muscle, what would the metabolic cost of maintaining normal vascular tone be? How would this affect cardiovascular physiology?
 
 **Exercise 5 — Failure analysis.** Choose one of these conditions and ask a language model to explain the mechanism of failure at the molecular level: malignant hyperthermia (a genetic condition in which volatile anesthetics trigger uncontrolled calcium release from the sarcoplasmic reticulum), myasthenia gravis (an autoimmune disease in which antibodies attack acetylcholine receptors at the neuromuscular junction), or Duchenne muscular dystrophy (a genetic disease in which dystrophin — a protein that anchors the contractile apparatus to the cell membrane — is absent). Then ask: at which step in the excitation-contraction coupling sequence does the failure occur, and what downstream consequences follow from that failure?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Jean Hanson** was a British biophysicist who, with Hugh Huxley, proposed the sliding-filament theory of muscle contraction in 1954 — explaining how thick and thin filaments slide past each other to shorten a muscle. She is often left out of textbook treatments that credit Andrew Huxley alone.
+
+**Run this:**
+
+```
+Who was Jean Hanson, and how does her work on the sliding-filament theory of muscle contraction connect to the muscle tissue mechanisms we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Jean Hanson"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through one cycle of actin-myosin filament sliding using Hanson's original 1954 imagery.
+- Ask it to compare the credit Jean Hanson received in 1954 with how the discovery is typically attributed in modern textbooks.
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 12.1 — A sarcomere at rest and at peak contraction
+
+Create a standalone D3 v7 HTML file for Figure A sarcomere at rest and at peak contraction. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A sarcomere at rest and at peak contraction shown side by side — Z-discs, thin filaments (actin), thick filaments (myosin), H-zone, and M-line labeled. Arrows showing the direction of thin filament sliding. Student should see that filament lengths do not change; only the overlap zone increases. Caption: "The sarcomere shortens because the Z-discs are pulled together, not because the filaments themselves shrink.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-muscle-tissue-fig-01.html`
+
+---
+
+### Figure 12.2 — The cross-bridge cycle in four frames 
+
+Create a standalone D3 v7 HTML file for Figure The cross-bridge cycle in four frames . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The cross-bridge cycle in four frames — (1) myosin head cocked, ADP+Pi bound, not yet attached to actin; (2) head attaches to exposed actin binding site; (3) power stroke fires, head pivots, ADP+Pi released, thin filament moves 10 nm; (4) ATP binds, head detaches, ATPase recocks the head. Arrows connecting frames in a loop. Student should see this as a ratchet mechanism operating asynchronously across hundreds of heads.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-muscle-tissue-fig-02.html`
+
+---
+
+### Figure 12.3 — Length-tension curve for a sarcomere 
+
+Create a standalone D3 v7 HTML file for Figure Length-tension curve for a sarcomere . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Length-tension curve for a sarcomere — x-axis showing sarcomere length from ~1.5 to ~3.5 micrometers, y-axis showing relative force production (0–100%). The curve peaks at ~2.0–2.2 micrometers (optimal overlap), drops off on both sides. Three inset diagrams showing filament overlap at short, optimal, and stretched lengths. Student should see that force is a geometric property of overlap, not just of how hard the cell is trying.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-muscle-tissue-fig-03.html`
+
+---
+
+### Figure 12.4 — Two-state model of thin filament regulation 
+
+Create a standalone D3 v7 HTML file for Figure Two-state model of thin filament regulation . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Two-state model of thin filament regulation — left panel showing resting state (tropomyosin covering actin binding sites, troponin holding it in place, myosin head unable to attach); right panel showing activated state (calcium bound to troponin, tropomyosin shifted, binding sites exposed, myosin head attached and mid-power-stroke). Calcium ions shown as labeled circles. Caption: "Calcium is the gate, not the power source. Once the gate opens, cross-bridge cycling proceeds at a constant rate.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-muscle-tissue-fig-04.html`
+
+---
+
+### Figure 12.5 — Cross-section of a muscle fiber showing the T-tubule
+
+Create a standalone D3 v7 HTML file for Figure Cross-section of a muscle fiber showing the T-tubule. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Cross-section of a muscle fiber showing the T-tubule system — sarcolemma (outer membrane), T-tubule infolding, triad structure (one T-tubule flanked by two terminal cisternae of sarcoplasmic reticulum), and the voltage-sensor/calcium-channel coupling at the triad junction. An arrow showing action potential traveling from surface down the T-tubule. A second arrow showing calcium release from terminal cisternae into sarcoplasm. Student should see the T-tubule as a depth-penetrating antenna that synchronizes the entire cell.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-muscle-tissue-fig-05.html`
+
+---
+
+### Figure 12.6 — Action potential comparison 
+
+Create a standalone D3 v7 HTML file for Figure Action potential comparison . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Action potential comparison — three panels showing the voltage-time trace for skeletal muscle (~1–2 ms duration), cardiac muscle (~300 ms with plateau phase labeled), and smooth muscle (slow wave, variable duration). The cardiac refractory period shaded and labeled. Student should see why the plateau phase physically prevents re-stimulation before the contraction is complete.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/12-muscle-tissue-fig-06.html`

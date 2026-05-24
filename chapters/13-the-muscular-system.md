@@ -19,7 +19,8 @@ The origin and the insertion are not interchangeable. The same muscle in a diffe
 
 Now add the bone between them. When a muscle pulls on a bone, the bone acts as a lever. The joint is the fulcrum. The muscle is the effort. Whatever you are moving against — gravity, an object, your own body weight — is the load. Three-part system: fulcrum, effort, load. The question is where they sit relative to each other, because that arrangement determines whether you are trading force for speed or speed for force.
 
-<!-- → [DIAGRAM: three lever class diagrams side by side — first class (fulcrum between effort and load, example: head on vertebra), second class (load between fulcrum and effort, example: calf/heel/toe), third class (effort between fulcrum and load, example: biceps/elbow/hand) — label fulcrum, effort, and load on each; caption: "the body almost always chooses third class — speed and range over force — and the anatomy makes the trade-off visible"] -->
+![the body almost always chooses third class — speed and range over force — and the anatomy makes the trade-off visible](images/13-the-muscular-system-fig-01.png)
+*Figure 13.1 — Three lever class diagrams side by side *
 
 If the fulcrum is between the effort and the load, you have a first-class lever — a seesaw. Your head balanced on your first vertebra is an example. The neck muscles pull back on the skull, the vertebra is the fulcrum, and the weight of your face is the load in front. Balanced. Neither force nor speed has a strong advantage.
 
@@ -33,7 +34,8 @@ The position of the attachment on the bone determines exactly where on this spee
 
 Carry this to the biceps and its neighbors: three muscles flex the forearm, and they are arranged at three different distances from the elbow joint. The biceps brachii attaches close to the elbow, on the radius — it moves the cup fast and precisely. The brachialis attaches even closer and adds force and stability when the load increases. The brachioradialis attaches far down the radius, near the wrist — it has the best mechanical advantage of the three and comes into play when you are lifting something heavy or fighting gravity. The body distributed the task across three attachment points because no single position optimizes for speed, stability, and force simultaneously. You need all three.
 
-<!-- → [DIAGRAM: lateral view of the forearm showing the three elbow flexors — biceps brachii (insertion on proximal radius), brachialis (insertion on ulna, even closer to joint), brachioradialis (insertion near distal radius/wrist) — mark the elbow joint as fulcrum and draw arrows showing the different lever arm lengths; caption: "three muscles, three attachment distances, three positions on the force-speed spectrum — the body covers the range because no single position does everything"] -->
+![three muscles, three attachment distances, three positions on the force-speed spectrum — the body covers the range because no single position does everything](images/13-the-muscular-system-fig-02.png)
+*Figure 13.2 — Lateral view of the forearm showing the three*
 
 ---
 
@@ -47,7 +49,8 @@ When a parallel muscle bulges in the middle and tapers at both ends to tendons, 
 
 *Pennate* muscles are different. The name comes from the Latin word for feather — penna — because the fascicles attach to a central tendon at an angle, like the barbs of a feather attaching to a quill. In a unipennate arrangement, the fascicles attach on one side of the tendon. In bipennate, they attach on both sides. In multipennate, they wrap around the tendon from multiple directions.
 
-<!-- → [DIAGRAM: side-by-side illustrations of the five fascicle arrangements — parallel (fibers run full length), fusiform (parallel but belly-shaped), circular (concentric rings), unipennate, bipennate, multipennate — label each and indicate with arrows the direction of fiber pull relative to the tendon; caption: "fascicle arrangement is the second trade-off — same volume of tissue, different force-range outcome depending on how the fibers are packed"] -->
+![fascicle arrangement is the second trade-off — same volume of tissue, different force-range outcome depending on how the fibers are packed](images/13-the-muscular-system-fig-03.png)
+*Figure 13.3 — Illustrations of the five fascicle arrangements *
 
 Here is the payoff of the angular arrangement: because the fascicles are shorter and angled, you can pack more of them into the same volume. More fibers per unit volume means more force — far more than a parallel muscle of the same size could generate. The cost is that when those short, angled fibers contract, the tendon moves a smaller distance than it would in a parallel muscle. Pennate muscles sacrifice range of motion for raw strength.
 
@@ -65,7 +68,8 @@ A muscle never fires alone. When you flex your elbow, your biceps shortens — a
 
 The *agonist* is the muscle doing the work — the prime mover. The *antagonist* is the muscle with the opposite action, now relaxing. The *synergists* assist the agonist by adding force, stabilizing the movement, or removing unwanted motion from the path of action. The *stabilizers* (sometimes called fixators) hold adjacent structures still so the agonist has something stable to pull from.
 
-<!-- → [DIAGRAM: elbow flexion showing all four roles simultaneously — biceps labeled as agonist (shortening), triceps labeled as antagonist (lengthening under reciprocal inhibition), brachialis labeled as synergist (assisting), rotator cuff muscles labeled as stabilizers (holding shoulder joint); arrows showing direction of each muscle's action; caption: "one movement, four roles — and every role is essential; remove any one and the movement becomes imprecise, unstable, or injurious"] -->
+![one movement, four roles — and every role is essential; remove any one and the movement becomes imprecise, unstable, or injurious](images/13-the-muscular-system-fig-04.png)
+*Figure 13.4 — Elbow flexion showing all four roles simultaneously *
 
 Turn your head to look left. On the right side of your neck, the sternocleidomastoid contracts — originating on your sternum and clavicle, inserting on the mastoid process behind your ear, pulling the skull in a diagonal that rotates the face to the left. It is the agonist for this motion. On the left side, the sternocleidomastoid simultaneously relaxes — reciprocal inhibition at work. Behind your neck, the semispinalis capitis on the right assists the rotation from the opposite direction, a synergist adding force and stability. Small muscles near the atlantoaxial joint at the top of the spine control the fine rotation and prevent the head from sliding forward as it turns. Your trapezius on both sides activates to stabilize the shoulder girdle, giving the neck muscles a firm base to work from. Your core braces.
 
@@ -87,7 +91,9 @@ The names of muscles encode the anatomy and often the function. *Sternocleidomas
 
 *Biceps brachii*: biceps (two heads — the short head and the long head originate in different places on the scapula), brachii (of the arm). Two origins, one insertion. The two heads let the muscle produce force from slightly different angles, giving it resilience against fatigue in different arm positions.
 
-<!-- → [TABLE: muscle name decoding examples — columns: muscle name, root words and meanings, origin, insertion, fiber arrangement, primary role; rows: sternocleidomastoid, rectus femoris, biceps brachii, gluteus maximus, deltoid — shows students how to read a name as a compressed anatomical description rather than a label to memorize] -->
+| muscle name | root words | meanings | origin | insertion |
+| --- | --- | --- | --- | --- |
+| sternocleidomastoid, rectus femoris, biceps brachii, gluteus maximus, deltoid | shows students how to read a name as a compressed anatomical description rather than a label to memorize | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 This is the insight that turns anatomy from a memorization exercise into something closer to reading. The body is organized by consistent principles — leverage, fiber architecture, group coordination — and those principles express themselves in the same way across every region. The face, the neck, the shoulder, the forearm, the hand, the trunk, the hip, the leg, the foot: every regional group is built on the same logic. A muscle is positioned where the leverage it creates matches what the body needs. Its fibers are packed in the arrangement that best serves that leverage given the force and range requirements of the movement. And it works in a team whose roles are assigned in advance so that movement is controlled rather than destructive.
 
@@ -107,7 +113,8 @@ And muscles do not act alone. The nervous system organizes them into cooperative
 
 Movement is not one muscle contracting. It is a team, following a physics it did not choose, organized by a nervous system it does not consciously direct, toward a purpose it was shaped by millions of years of selection to serve. The logic runs all the way down.
 
-<!-- → [INFOGRAPHIC: three-column summary of the chapter's three principles — column 1: "Attachments" (lever class diagrams, origin/insertion arrow, force-speed spectrum); column 2: "Fiber Arrangement" (parallel vs. pennate cross-sections, force-range trade-off); column 3: "Group Coordination" (agonist-antagonist pair with reciprocal inhibition arrow, four role labels) — the whole chapter's argument in one visual the student can use to self-quiz before an exam] -->
+![Three-column summary of the chapter's three principles ](images/13-the-muscular-system-fig-05.png)
+*Figure 13.5 — Three-column summary of the chapter's three principles *
 
 ---
 
@@ -140,3 +147,90 @@ Movement is not one muscle contracting. It is a team, following a physics it did
 **Challenge**
 
 10. Reciprocal inhibition is described as automatic — built into the spinal circuitry. Yet highly trained athletes can briefly co-contract agonist and antagonist muscles simultaneously to stiffen a joint against unpredictable forces (as in a martial artist bracing for impact). This appears to contradict reciprocal inhibition. Propose a hypothesis for how the nervous system can override its own automatic inhibition mechanism under specific circumstances, and describe what evidence would confirm or refute your hypothesis.
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Origin, insertion, and what moves.** Ask a language model to explain what happens when the biceps brachii contracts. Have it identify the origin (scapula), the insertion (radius), and which bone actually moves. Then ask: what would happen if you reversed the convention — if the forearm were fixed (as in a pull-up) and the upper body moved instead? Push the model: in real biomechanics, the "fixed" end can change with body position; muscles do not memorize which end is the origin. Why does the textbook convention exist if reality is more flexible?
+
+**Exercise 2 — Pennate vs. parallel architecture.** Ask a language model to compare two muscles with the same volume — one with parallel fiber arrangement (like the sartorius) and one with bipennate arrangement (like the rectus femoris). Have it predict which produces more force and which produces more range of motion. Then ask: why does the body use both architectures rather than one optimized design? The answer is that the design space is bounded — muscles must fit between specific bones, the joint range is fixed, and architecture is selected for the specific job each muscle does.
+
+**Exercise 3 — Antagonistic pairs and the precision of opposing forces.** Ask a language model to explain why nearly every joint movement requires at least two muscles in opposition (biceps-triceps, quadriceps-hamstrings, flexors-extensors). Then push: what would happen if a joint had only one muscle pulling it in one direction? Could gravity do the return? The answer reveals why antagonistic pairs are not redundant — they are the mechanism for controlled, decelerated motion (eccentric contraction) and for posture maintenance, neither of which a single muscle plus gravity could provide.
+
+**Exercise 4 — Naming as decoding.** Give a language model the names "extensor digitorum longus," "flexor pollicis brevis," and "tensor fasciae latae." Ask it to break down each name into its components and predict (a) which body region the muscle is in, (b) what action it produces, (c) any size or shape characteristic encoded in the name. Then ask the reverse: if you wanted to design a muscle that flexes the great toe and is short, what would you name it? This exercise shows that anatomical naming is a compression of function, location, and shape into a single Latin phrase.
+
+**Exercise 5 — Compartment syndrome and the consequences of architecture.** Ask a language model to explain compartment syndrome — a medical emergency in which pressure in a fascial compartment rises high enough to compress vessels and nerves, causing tissue death. Why is the lower leg particularly susceptible (four compartments, all bound by tough fascia and bone)? Then ask: how does the muscular architecture that allows efficient force production also create the vulnerability that compartment syndrome exploits? The fascial compartments that organize muscle groups for cooperative action also trap pressure when injury or exertion swells the muscle inside.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Albert Szent-Györgyi** discovered vitamin C, isolated actin, and worked out how muscle contraction is powered by ATP — earning the 1937 Nobel Prize. He was also a Hungarian resistance fighter, hidden by friends during World War II.
+
+**Run this:**
+
+```
+Who was Albert Szent-Györgyi, and how does his work on actin, myosin, and ATP-powered contraction connect to the muscular system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Albert Szent-Györgyi"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace ATP through one cycle of muscle contraction, using Szent-Györgyi's framing.
+- Add a constraint: "Answer as Szent-Györgyi's 1937 Nobel lecture, in his voice."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 13.1 — Three lever class diagrams side by side 
+
+Create a standalone D3 v7 HTML file for Figure Three lever class diagrams side by side . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: three lever class diagrams side by side — first class (fulcrum between effort and load, example: head on vertebra), second class (load between fulcrum and effort, example: calf/heel/toe), third class (effort between fulcrum and load, example: biceps/elbow/hand) — label fulcrum, effort, and load on each; caption: "the body almost always chooses third class — speed and range over force — and the anatomy makes the trade-off visible". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/13-the-muscular-system-fig-01.html`
+
+---
+
+### Figure 13.2 — Lateral view of the forearm showing the three
+
+Create a standalone D3 v7 HTML file for Figure Lateral view of the forearm showing the three. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: lateral view of the forearm showing the three elbow flexors — biceps brachii (insertion on proximal radius), brachialis (insertion on ulna, even closer to joint), brachioradialis (insertion near distal radius/wrist) — mark the elbow joint as fulcrum and draw arrows showing the different lever arm lengths; caption: "three muscles, three attachment distances, three positions on the force-speed spectrum — the body covers the range because no single position does everything". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/13-the-muscular-system-fig-02.html`
+
+---
+
+### Figure 13.3 — Illustrations of the five fascicle arrangements 
+
+Create a standalone D3 v7 HTML file for Figure Illustrations of the five fascicle arrangements . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: side-by-side illustrations of the five fascicle arrangements — parallel (fibers run full length), fusiform (parallel but belly-shaped), circular (concentric rings), unipennate, bipennate, multipennate — label each and indicate with arrows the direction of fiber pull relative to the tendon; caption: "fascicle arrangement is the second trade-off — same volume of tissue, different force-range outcome depending on how the fibers are packed". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/13-the-muscular-system-fig-03.html`
+
+---
+
+### Figure 13.4 — Elbow flexion showing all four roles simultaneously 
+
+Create a standalone D3 v7 HTML file for Figure Elbow flexion showing all four roles simultaneously . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: elbow flexion showing all four roles simultaneously — biceps labeled as agonist (shortening), triceps labeled as antagonist (lengthening under reciprocal inhibition), brachialis labeled as synergist (assisting), rotator cuff muscles labeled as stabilizers (holding shoulder joint); arrows showing direction of each muscle's action; caption: "one movement, four roles — and every role is essential; remove any one and the movement becomes imprecise, unstable, or injurious". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/13-the-muscular-system-fig-04.html`
+
+---
+
+### Figure 13.5 — Three-column summary of the chapter's three principles 
+
+Create a standalone D3 v7 HTML file for Figure Three-column summary of the chapter's three principles . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: three-column summary of the chapter's three principles — column 1: "Attachments" (lever class diagrams, origin/insertion arrow, force-speed spectrum); column 2: "Fiber Arrangement" (parallel vs. pennate cross-sections, force-range trade-off); column 3: "Group Coordination" (agonist-antagonist pair with reciprocal inhibition arrow, four role labels) — the whole chapter's argument in one visual the student can use to self-quiz before an exam. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/13-the-muscular-system-fig-05.html`

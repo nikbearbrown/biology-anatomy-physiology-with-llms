@@ -19,7 +19,8 @@ Water-soluble hormones are charged molecules: peptides like insulin, or amines d
 
 Lipid-soluble hormones are hydrophobic molecules: steroids built from cholesterol, like cortisol and estrogen, or thyroid hormones. They slip directly through the lipid bilayer without needing a membrane receptor at all. Once inside, they find a receptor protein floating in the cytoplasm or already bound to DNA in the nucleus. The hormone-receptor complex then travels to the nucleus and binds to specific DNA sequences, switching genes on or off. The cell begins manufacturing new proteins — new enzymes, new structural proteins, new receptors. This takes longer to start: minutes to hours rather than seconds. But once the genes are active, they keep producing those proteins for a long time. The response is slow to begin and slow to end.
 
-<!-- → [DIAGRAM: side-by-side comparison of water-soluble vs. lipid-soluble hormone signaling — left panel: water-soluble hormone binding surface receptor → G protein → cAMP → protein kinase cascade → cell response; right panel: lipid-soluble hormone crossing membrane → cytoplasmic/nuclear receptor → hormone-receptor complex binding DNA → gene transcription → new protein synthesis; label the timescale of each (seconds vs. hours); caption: "the membrane is the decision point — water-soluble hormones stay outside and signal via second messengers; lipid-soluble hormones enter and reprogram gene expression directly"] -->
+![the membrane is the decision point — water-soluble hormones stay outside and signal via second messengers; lipid-soluble hormones enter and reprogram gene expression directly](images/20-the-endocrine-system-fig-01.png)
+*Figure 20.1 — Comparison of water-soluble vs*
 
 This is the first trade-off of the endocrine system. Speed versus duration. A water-soluble hormone can trigger a response in seconds and shut it off in seconds — fine-grained, reversible control. A lipid-soluble hormone takes time to establish its effect, but that effect persists long after the hormone level has dropped.
 
@@ -41,7 +42,8 @@ But a cascade with no limit is a catastrophe. If TRH drove TSH drove thyroid hor
 
 This pattern — releasing hormone from hypothalamus, tropic hormone from pituitary, final hormone from peripheral gland, feedback inhibition to hypothalamus and pituitary — appears in three major axes, each controlling a different domain of physiology.
 
-<!-- → [DIAGRAM: three-axis summary — three parallel vertical cascade diagrams side by side: (1) HPT axis: hypothalamus → TRH → pituitary → TSH → thyroid → T3/T4 → feedback inhibition arrows back to hypothalamus and pituitary; (2) HPA axis: same structure with CRH/ACTH/cortisol; (3) HPG axis: GnRH/LH+FSH/sex hormones with note about pulsatile GnRH requirement; caption: "three axes, one pattern — cascade down, feedback up, set point emergent from both"] -->
+![three axes, one pattern — cascade down, feedback up, set point emergent from both](images/20-the-endocrine-system-fig-02.png)
+*Figure 20.2 — Three-axis summary *
 
 The hypothalamic-pituitary-thyroid axis regulates metabolic rate. Thyroid hormones are lipid-soluble and penetrate virtually every cell in the body. They increase the synthesis of metabolic enzymes, increase the sensitivity of cells to catecholamines, and drive heat production. In iodine deficiency, the thyroid cannot synthesize T3 and T4 (both require iodine atoms in their structure). Thyroid hormone levels drop. The feedback inhibition weakens. TRH and TSH rise as the hypothalamus and pituitary "try harder" to stimulate a gland that cannot respond. The thyroid swells — a goiter — as the gland proliferates attempting to capture more iodine from a sparse supply. TSH levels in the blood are therefore the most sensitive indicator of thyroid function: high TSH means the brain thinks the thyroid is not producing enough, even before thyroid hormone levels have dropped to clinical hypothyroid range. The feedback signal reveals the problem before the downstream effect does.
 
@@ -59,13 +61,15 @@ The glucose homeostasis system is the clearest example in physiology of a set po
 
 After a meal, carbohydrates are digested to glucose. Blood glucose rises. Pancreatic beta cells — clustered in small islands called islets of Langerhans scattered through the pancreas — directly detect the rise in blood glucose. They need no signal from the brain. Glucose enters the beta cell through a transporter, is metabolized, raises the ATP/ADP ratio, closes potassium channels, depolarizes the membrane, opens calcium channels, and calcium triggers insulin secretion. The cascade from glucose detection to insulin release takes less than a minute. Insulin enters the portal blood and reaches liver cells first, then muscle cells and fat cells throughout the body. Its message: take up glucose. Muscle burns it. The liver and fat cells store it — as glycogen in the liver, as triglycerides in fat tissue. As cells remove glucose from the blood, concentrations fall. As concentrations fall, beta cell activity subsides. Insulin secretion drops.
 
-<!-- → [DIAGRAM: beta cell glucose-sensing mechanism — show glucose entering through GLUT transporter → metabolism → ATP/ADP ratio rising → ATP-sensitive K+ channel closing → membrane depolarization → voltage-gated Ca2+ channel opening → calcium influx → insulin granule exocytosis; label each step; caption: "the beta cell is a glucose sensor that triggers its own response — no brain required, the cascade from detection to secretion is built into the cell's biochemistry"] -->
+![the beta cell is a glucose sensor that triggers its own response — no brain required, the cascade from detection to secretion is built into the cell's biochemistry](images/20-the-endocrine-system-fig-03.png)
+*Figure 20.3 — Beta cell glucose-sensing mechanism *
 
 Meanwhile, pancreatic alpha cells — neighbors of the beta cells in the same islets — release glucagon when blood glucose falls. Glucagon delivers the opposite message: release glucose into the blood. The liver breaks down glycogen to free glucose (glycogenolysis) and synthesizes new glucose from amino acids and glycerol (gluconeogenesis). The liver is the glucose buffer of the body. It absorbs glucose when blood levels are high and exports it when levels fall. Glucagon is the signal that opens the buffer. As blood glucose rises in response to hepatic glucose output, alpha cell activity subsides. Glucagon release falls.
 
 The set point — roughly 70 to 100 mg/dL in the fasting state — is not encoded anywhere as a target value. It is an emergent property of the balance between two systems with opposite effects, each driven directly by the same variable they regulate. When blood glucose is high, insulin dominates. When blood glucose is low, glucagon dominates. The transition between these modes happens continuously and proportionally, not as a binary switch.
 
-<!-- → [CHART: blood glucose curve over a typical day — show fasting baseline (~90 mg/dL), post-breakfast rise and fall, post-lunch, post-dinner; overlay insulin secretion curve (rises with glucose) and glucagon secretion curve (inverse to insulin); caption: "neither hormone is dominant — their ratio, driven by the same glucose signal each is responding to, determines metabolic mode at every moment"] -->
+![neither hormone is dominant — their ratio, driven by the same glucose signal each is responding to, determines metabolic mode at every moment](images/20-the-endocrine-system-fig-04.png)
+*Figure 20.4 — Blood glucose curve over a typical day *
 
 This design choice — two opposing hormones rather than one bidirectional hormone — has consequences for robustness. If insulin secretion drops partially (early type 2 diabetes), glucagon can partially compensate by maintaining some restraint. If beta cells are destroyed entirely (type 1 diabetes), glucagon is still present and functional: patients still mount a glucagon response to hypoglycemia, which is why they do not die of low blood sugar as readily as they would if both systems failed simultaneously. The redundancy is not accidental.
 
@@ -75,7 +79,8 @@ The set point is also not truly fixed. During prolonged fasting, the liver becom
 
 Type 2 diabetes is a disorder of this adaptation. As cells in muscle and liver become less responsive to insulin — insulin resistance — the pancreas compensates by secreting more insulin. Blood glucose can remain near normal for years while the beta cells are working two or three times as hard as normal. Eventually the beta cells exhaust or reduce in number, and the compensation fails. Blood glucose rises. This progression can take a decade or more. It is detectable long before it causes symptoms: elevated fasting insulin in the presence of normal glucose is the signature of compensation, years before the system breaks.
 
-<!-- → [CHART: type 2 diabetes progression timeline — x-axis: years; y-axis: two lines: fasting blood glucose (slowly rising, crossing diagnostic threshold late) and fasting insulin (rising early, plateauing, then falling as beta cells exhaust); caption: "elevated fasting insulin with normal glucose is the early signal — the pancreas compensating for insulin resistance years before glucose control fails"] -->
+![elevated fasting insulin with normal glucose is the early signal — the pancreas compensating for insulin resistance years before glucose control fails](images/20-the-endocrine-system-fig-05.png)
+*Figure 20.5 — Type 2 diabetes progression timeline *
 
 ---
 
@@ -120,3 +125,90 @@ The endocrine system is the body's answer to a spatial problem — how to coordi
 **Challenge**
 
 10. The body uses both negative feedback (estrogen usually suppresses GnRH/LH) and positive feedback (the pre-ovulatory estrogen surge triggers an LH surge) in the HPG axis. Most biological feedback systems are exclusively negative. Propose a reason why the reproductive axis specifically requires a switch to positive feedback at ovulation — what would happen if the system remained in negative feedback mode throughout the cycle — and identify what structural feature of the HPG axis permits this switch given that the same molecule (estrogen) must produce opposite effects at different times.
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Hormone class determines mechanism.** Ask a language model to compare what happens at the cellular level when a peptide hormone (insulin) vs. a steroid hormone (cortisol) reaches its target cell. Specifically: insulin binds a cell-surface receptor and triggers a signal cascade; cortisol crosses the membrane and binds an intracellular receptor that acts as a transcription factor. Then ask: why does this difference produce different timescales of action — insulin works in seconds to minutes; cortisol works over hours to days. What kinds of biological problems is each well-suited to solve?
+
+**Exercise 2 — The hypothalamic-pituitary-adrenal axis as cascade.** Ask a language model to walk through the stress response in three steps: hypothalamus → CRH → pituitary → ACTH → adrenal cortex → cortisol. Why use a three-step cascade rather than direct neural-to-adrenal communication? The answer is amplification — each step boosts the signal — and integration — each step receives input from multiple sources. Then ask: how does the negative feedback loop (cortisol acting on hypothalamus and pituitary) prevent runaway cortisol production, and what happens to that feedback in chronic stress? Receptor desensitization weakens the brake, allowing cortisol to remain elevated.
+
+**Exercise 3 — Insulin and glucagon as opposing signals.** Ask a language model to explain how the alpha and beta cells of the pancreatic islets jointly maintain blood glucose in a narrow range (70-100 mg/dL fasting). Walk through what happens when blood glucose rises (beta cells release insulin → cells take up glucose → liver synthesizes glycogen) and falls (alpha cells release glucagon → liver releases glucose from glycogen). Then ask: in type 2 diabetes, the beta cells eventually fail. Why does this failure produce hyperglycemia rather than just slower glucose response? The answer involves both decreased insulin and unopposed glucagon.
+
+**Exercise 4 — Why the same hormone has different effects in different tissues.** Ask a language model to explain why thyroid hormone (T3/T4) accelerates metabolism in essentially all tissues — it binds nuclear receptors expressed nearly everywhere — but estrogen has highly tissue-specific effects (uterus, breast, bone, brain). The answer lies in receptor distribution: estrogen receptors are concentrated in specific tissues, and the same receptor can recruit different co-activators in different tissue contexts. Then ask: how do selective estrogen receptor modulators (SERMs like tamoxifen) exploit this tissue-specificity to act as antagonists in some tissues and agonists in others?
+
+**Exercise 5 — The endocrine-immune-nervous system network.** Ask a language model to explain how chronic psychological stress can produce immune dysfunction. Trace the path: prolonged stress → sustained cortisol elevation → suppression of inflammatory cytokine production → impaired immune surveillance. Then ask: why might mild acute stress actually enhance immune function (preparing for injury) while chronic stress impairs it? The answer reveals that the system is calibrated for short bursts followed by recovery, not sustained activation. Modern chronic stressors (work, financial, social) keep the system in a mode it was not designed for.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Rosalyn Yalow** invented radioimmunoassay with Solomon Berson in the 1950s — the technique that finally let researchers measure hormone concentrations in blood with picogram precision. She won the 1977 Nobel Prize and was the second woman ever to win in physiology or medicine.
+
+**Run this:**
+
+```
+Who was Rosalyn Yalow, and how does her invention of radioimmunoassay connect to the endocrine system and hormone signaling we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Rosalyn Yalow"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through how radioimmunoassay measures insulin in a blood sample, step by step.
+- Ask it to compare radioimmunoassay with the modern ELISA technique that mostly replaced it — what changed and what didn't?
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 20.1 — Comparison of water-soluble vs
+
+Create a standalone D3 v7 HTML file for Figure Comparison of water-soluble vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: side-by-side comparison of water-soluble vs. lipid-soluble hormone signaling — left panel: water-soluble hormone binding surface receptor → G protein → cAMP → protein kinase cascade → cell response; right panel: lipid-soluble hormone crossing membrane → cytoplasmic/nuclear receptor → hormone-receptor complex binding DNA → gene transcription → new protein synthesis; label the timescale of each (seconds vs. hours); caption: "the membrane is the decision point — water-soluble hormones stay outside and signal via second messengers; lipid-soluble hormones enter and reprogram gene expression directly". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required se
+
+> Reference implementation: `d3/20-the-endocrine-system-fig-01.html`
+
+---
+
+### Figure 20.2 — Three-axis summary 
+
+Create a standalone D3 v7 HTML file for Figure Three-axis summary . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: three-axis summary — three parallel vertical cascade diagrams side by side: (1) HPT axis: hypothalamus → TRH → pituitary → TSH → thyroid → T3/T4 → feedback inhibition arrows back to hypothalamus and pituitary; (2) HPA axis: same structure with CRH/ACTH/cortisol; (3) HPG axis: GnRH/LH+FSH/sex hormones with note about pulsatile GnRH requirement; caption: "three axes, one pattern — cascade down, feedback up, set point emergent from both". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/20-the-endocrine-system-fig-02.html`
+
+---
+
+### Figure 20.3 — Beta cell glucose-sensing mechanism 
+
+Create a standalone D3 v7 HTML file for Figure Beta cell glucose-sensing mechanism . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: beta cell glucose-sensing mechanism — show glucose entering through GLUT transporter → metabolism → ATP/ADP ratio rising → ATP-sensitive K+ channel closing → membrane depolarization → voltage-gated Ca2+ channel opening → calcium influx → insulin granule exocytosis; label each step; caption: "the beta cell is a glucose sensor that triggers its own response — no brain required, the cascade from detection to secretion is built into the cell's biochemistry". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/20-the-endocrine-system-fig-03.html`
+
+---
+
+### Figure 20.4 — Blood glucose curve over a typical day 
+
+Create a standalone D3 v7 HTML file for Figure Blood glucose curve over a typical day . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: blood glucose curve over a typical day — show fasting baseline (~90 mg/dL), post-breakfast rise and fall, post-lunch, post-dinner; overlay insulin secretion curve (rises with glucose) and glucagon secretion curve (inverse to insulin); caption: "neither hormone is dominant — their ratio, driven by the same glucose signal each is responding to, determines metabolic mode at every moment". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/20-the-endocrine-system-fig-04.html`
+
+---
+
+### Figure 20.5 — Type 2 diabetes progression timeline 
+
+Create a standalone D3 v7 HTML file for Figure Type 2 diabetes progression timeline . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: type 2 diabetes progression timeline — x-axis: years; y-axis: two lines: fasting blood glucose (slowly rising, crossing diagnostic threshold late) and fasting insulin (rising early, plateauing, then falling as beta cells exhaust); caption: "elevated fasting insulin with normal glucose is the early signal — the pancreas compensating for insulin resistance years before glucose control fails". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/20-the-endocrine-system-fig-05.html`

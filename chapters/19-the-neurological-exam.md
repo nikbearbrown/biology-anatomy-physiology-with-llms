@@ -29,7 +29,9 @@ The **motor exam** tests the corticospinal tract — the pathway from the motor 
 
 The **coordination exam** tests the cerebellum, which compares motor commands with sensory feedback to keep movement smooth and accurate. The patient touches their finger to their nose, then to the examiner's finger, back and forth, with eyes open and then closed. The patient walks heel-to-toe along a line. The cerebellum does not initiate movement — the motor cortex does that. The cerebellum corrects movement in real time, like a feedback controller that is always comparing intended trajectory to actual trajectory and adjusting. When it fails, movement becomes clumsy. The arm overshoots. The gait staggers. Not because the muscle is weak, but because the error-correction system is offline.
 
-<!-- → [TABLE: The five exam sections as a localization reference — rows: Mental Status, Cranial Nerves, Sensory, Motor, Coordination. Columns: What is tested, Nervous system structure probed, Anatomical level, Key finding and what it means. Student should use this as a quick-reference map while working through each section and while interpreting clinical scenarios in the LLM exercises.] -->
+| What is tested | Nervous system structure probed | Anatomical level | Key finding | what it means |
+| --- | --- | --- | --- | --- |
+| Mental Status, Cranial Nerves, Sensory, Motor, Coordination. Columns: What is tested, Nervous system structure probed, Anatomical level, Key finding and what it means. Student should use this as a quick-reference map while working through each section and while interpreting clinical scenarios in the LLM exercises. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Together these five sections create a map. They do not always point to one location cleanly — a patient who cannot remember three words might also fail to follow commands because language itself is damaged, and both symptoms live in the cortex. But each section illuminates a different level of the nervous system, and the pattern of intact versus impaired function is the signature of a lesion.
 
@@ -47,7 +49,8 @@ This seems counterintuitive when you first encounter it. The motor weakness from
 
 Now notice what else lives near the hypoglossal nucleus in the medulla: the vagal nuclei that regulate heart rate and swallowing, the respiratory nuclei, the cardiovascular control centers. A lesion large enough to damage the hypoglossal nucleus likely damages these neighbors too. The tongue becomes a window onto the whole region. Testing one nerve tells you about the neighborhood.
 
-<!-- → [DIAGRAM: Schematic cross-section of the medulla showing the hypoglossal nucleus and its neighbors — vagal nucleus (dorsal motor nucleus of X), nucleus of the solitary tract, cardiovascular and respiratory centers, and the descending corticospinal tract. An arrow showing the tongue deviation ipsilateral to a right-sided lesion. Caption: "Damage to the hypoglossal nucleus implicates a neighborhood — almost nothing in the medulla sits alone."] -->
+![Damage to the hypoglossal nucleus implicates a neighborhood — almost nothing in the medulla sits alone.](images/19-the-neurological-exam-fig-01.png)
+*Figure 19.1 — Schematic cross-section of the medulla showing the hypoglossal*
 
 Eye movements give you a tour through a different region. Three nerves — the oculomotor (III), trochlear (IV), and abducens (VI) — control the six muscles that move each eye. These nerves must be coordinated so that both eyes move together. The abducens nucleus is in the pons; the oculomotor nucleus is in the midbrain. A white matter bundle called the medial longitudinal fasciculus, running up through the brainstem, connects these nuclei and synchronizes their activity. When you track a moving object, both eyes move smoothly in the same direction because the MLF is keeping the nuclei coordinated.
 
@@ -69,7 +72,9 @@ A patient with an upper motor neuron lesion — a stroke in the motor cortex, a 
 
 A patient with a lower motor neuron lesion — damage to the nerve root, peripheral nerve, or the motor neuron itself — has the opposite picture. The muscle is paralyzed or severely weakened. But the tone is gone. The muscles are flaccid, floppy, and atrophied. The deep tendon reflexes are absent or severely diminished.
 
-<!-- → [TABLE: Upper motor neuron vs. lower motor neuron lesion comparison — rows: UMN lesion, LMN lesion. Columns: Voluntary movement, Muscle tone, Deep tendon reflexes, Muscle atrophy, Babinski sign. Student should be able to classify any motor deficit as UMN or LMN from this table and immediately know whether the lesion is above or below the anterior horn.] -->
+| Voluntary movement | Muscle tone | Deep tendon reflexes | Muscle atrophy | Babinski sign |
+| --- | --- | --- | --- | --- |
+| UMN lesion, LMN lesion. Columns: Voluntary movement, Muscle tone, Deep tendon reflexes, Muscle atrophy, Babinski sign. Student should be able to classify any motor deficit as UMN or LMN from this table and immediately know whether the lesion is above or below the anterior horn. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 To understand why, you need to understand what the upper motor neuron is actually doing. It is not the only signal the muscle receives. The lower motor neuron maintains a background level of activity even without cortical commands — it receives input from the spinal cord's own circuits and from the stretch reflex. The upper motor neuron modulates this activity, in part by inhibiting reflex responses that would otherwise be exaggerated. When the upper motor neuron is cut, this inhibition is lost. The lower motor neuron is still alive and reflexively active. The reflex arc — sensory input from the muscle to the spinal cord, direct synapse onto the motor neuron, motor output back to the muscle — is intact. With the inhibitory descending command gone, the reflexes run unchecked. The muscle becomes hyperreflexive and spastic.
 
@@ -77,7 +82,8 @@ When the lower motor neuron is cut, the reflex arc itself is broken. The neuron 
 
 The Babinski sign reveals this distinction beautifully. Brush the outer sole of the foot from heel to toe. In a healthy adult, the toes curl downward — plantar flexion. In an infant, or in an adult with upper motor neuron damage, the big toe extends upward and the other toes fan out — the extensor response. This reversal happens because the corticospinal tract, as it matures during the first two years of life, establishes descending inhibition of the extensor reflex. When that descending control is lost — through damage anywhere along the corticospinal tract — the primitive reflex re-emerges. The foot reverts to its infantile response.
 
-<!-- → [DIAGRAM: The Babinski sign in two panels — left panel showing normal adult plantar flexion response (toes curl down) to stroking the outer sole; right panel showing the extensor/positive Babinski response (big toe extends up, toes fan) seen in infants and adults with upper motor neuron damage. A third inset showing the corticospinal tract descending from cortex through medullary pyramids to the spinal cord, with a marker indicating "UMN lesion anywhere along this path produces positive Babinski."] -->
+![The Babinski sign in two panels ](images/19-the-neurological-exam-fig-02.png)
+*Figure 19.2 — The Babinski sign in two panels *
 
 This is the power of the reflex in clinical localization. A positive Babinski sign in an adult is not just a reflex abnormality. It is evidence that the corticospinal tract is damaged somewhere between the motor cortex and the level of the spinal cord that serves the foot. Combined with the other motor signs, it answers the question: is the damage above or below the point where the corticospinal tract synapses on the lower motor neuron?
 
@@ -93,7 +99,8 @@ The sensory exam has a feature that makes it especially powerful for spinal cord
 
 Fine touch and vibration enter the dorsal horn and immediately ascend in the dorsal columns on the same side. They do not cross until they reach the medulla. Pain and temperature cross in the cord almost immediately after entry, ascending in the spinothalamic tract on the opposite side.
 
-<!-- → [DIAGRAM: Spinal cord cross-section showing the two major ascending sensory pathways — dorsal columns (ipsilateral ascent, crosses in medulla) carrying fine touch and proprioception, and spinothalamic tract (crosses immediately in cord, contralateral ascent) carrying pain and temperature. A Brown-Séquard scenario shown: right-side cord hemisection marked, with arrows showing which modalities are lost on which side of the body below the lesion. Caption: "The anatomy of the cord predicts the exam findings before the exam is performed."] -->
+![The anatomy of the cord predicts the exam findings before the exam is performed.](images/19-the-neurological-exam-fig-03.png)
+*Figure 19.3 — Spinal cord cross-section showing the two major ascending*
 
 This means that a lesion cutting one half of the spinal cord — the classic Brown-Séquard syndrome, usually from penetrating trauma — produces a distinctive pattern: on the side of the lesion, the patient loses fine touch and proprioception (dorsal column on that side is gone), but retains pain and temperature (those signals crossed to the other side and are ascending safely). On the opposite side, the patient loses pain and temperature below the level of the lesion (the spinothalamic tract from those segments is gone), but retains fine touch (ascending on the intact ipsilateral dorsal column).
 
@@ -130,3 +137,58 @@ The following exercises are designed to be worked through with a language model.
 **Exercise 4 — Brown-Séquard reasoning.** Ask a language model to explain Brown-Séquard syndrome — the pattern of deficits that results from damage to one half of the spinal cord. Then give it a specific scenario: "A patient with a knife wound to the right side of the neck at C5 has lost proprioception and vibration sense in the right arm and leg, but retains pain sensation on the right. On the left side, they have lost pain and temperature below the neck but retain proprioception." Ask the model to explain why these deficits are on opposite sides of the body, tracing each modality's pathway through the cord and the level at which it crosses.
 
 **Exercise 5 — Designing a five-minute exam.** Ask a language model to design a rapid five-minute neurological exam for an emergency department patient suspected of having a stroke. For each test in the sequence, ask the model to explain: what nervous system structure is being tested, what a positive finding would indicate, and what level of the neuraxis the deficit would implicate. Then ask: what is the minimum set of tests that would reliably distinguish a cortical stroke from a brainstem stroke from a spinal cord lesion?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Joseph Babinski** was a Polish-French neurologist who, in 1896, described the upgoing toe sign — the Babinski reflex — that still appears on every neurological exam more than a century later. He worked in Charcot's neurology service at the Salpêtrière.
+
+**Run this:**
+
+```
+Who was Joseph Babinski, and how does the Babinski sign connect to the neurological examination we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Joseph Babinski"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace what the Babinski sign actually reveals about the corticospinal tract — at the spinal-cord level — when it's present in an adult.
+- Add a constraint: "Answer as Babinski's 1896 case-report note for a patient whose great toe went up instead of down."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 19.1 — Schematic cross-section of the medulla showing the hypoglossal
+
+Create a standalone D3 v7 HTML file for Figure Schematic cross-section of the medulla showing the hypoglossal. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Schematic cross-section of the medulla showing the hypoglossal nucleus and its neighbors — vagal nucleus (dorsal motor nucleus of X), nucleus of the solitary tract, cardiovascular and respiratory centers, and the descending corticospinal tract. An arrow showing the tongue deviation ipsilateral to a right-sided lesion. Caption: "Damage to the hypoglossal nucleus implicates a neighborhood — almost nothing in the medulla sits alone.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/19-the-neurological-exam-fig-01.html`
+
+---
+
+### Figure 19.2 — The Babinski sign in two panels 
+
+Create a standalone D3 v7 HTML file for Figure The Babinski sign in two panels . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The Babinski sign in two panels — left panel showing normal adult plantar flexion response (toes curl down) to stroking the outer sole; right panel showing the extensor/positive Babinski response (big toe extends up, toes fan) seen in infants and adults with upper motor neuron damage. A third inset showing the corticospinal tract descending from cortex through medullary pyramids to the spinal cord, with a marker indicating "UMN lesion anywhere along this path produces positive Babinski.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/19-the-neurological-exam-fig-02.html`
+
+---
+
+### Figure 19.3 — Spinal cord cross-section showing the two major ascending
+
+Create a standalone D3 v7 HTML file for Figure Spinal cord cross-section showing the two major ascending. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Spinal cord cross-section showing the two major ascending sensory pathways — dorsal columns (ipsilateral ascent, crosses in medulla) carrying fine touch and proprioception, and spinothalamic tract (crosses immediately in cord, contralateral ascent) carrying pain and temperature. A Brown-Séquard scenario shown: right-side cord hemisection marked, with arrows showing which modalities are lost on which side of the body below the lesion. Caption: "The anatomy of the cord predicts the exam findings before the exam is performed.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/19-the-neurological-exam-fig-03.html`

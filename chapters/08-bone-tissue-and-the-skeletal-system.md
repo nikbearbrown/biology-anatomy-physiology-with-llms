@@ -21,13 +21,15 @@ Bone is not calcium. That is the common misconception, and it is wrong in a way 
 
 You can verify this at home, approximately. Soak a chicken bone in vinegar for a week. The acid leaches out the mineral. What remains is the collagen scaffold — bendable, almost rubbery, completely unrecognizable as bone. This is a demineralized bone. This is also, roughly, what happens in the advanced stages of rickets or osteomalacia: chronic calcium deficiency causes the body to deplete bone mineral while the collagen framework remains. The bones soften. They bend under weight. Children with rickets develop bowed legs because the femur cannot bear the load without its mineral component.
 
-<!-- → [IMAGE: cross-section diagram of a long bone (femur) — label diaphysis (shaft), epiphyses (ends), compact bone cortex, medullary cavity, periosteum, endosteum, spongy bone with trabeculae visible at the epiphysis, red marrow in trabecular spaces; student should see the hollow-tube architecture of the shaft and the lattice architecture of the ends as two different structural solutions to two different mechanical problems] -->
+![Cross-section diagram of a long bone (femur) ](images/08-bone-tissue-and-the-skeletal-system-fig-01.png)
+*Figure 8.1 — Cross-section diagram of a long bone (femur) *
 
 Now consider the architecture. A long bone — take the femur, the great bone of the thigh — is not a solid rod. It is a hollow tube. The shaft is dense compact bone, a cortex of tightly packed material arranged in cylindrical units called osteons, each a set of concentric rings around a central canal carrying blood vessels and nerves. The hollow interior, the medullary cavity, reduces mass without sacrificing the tube's ability to resist compression and bending. Engineers discovered this principle independently: hollow tubes are nearly as strong as solid rods of the same outer diameter, at a fraction of the weight.
 
 At the ends of the femur, the geometry changes. The epiphyses — the rounded heads — are filled with spongy bone, also called cancellous bone. This is not soft material. It is a three-dimensional lattice of thin struts called trabeculae, oriented along the principal lines of stress, like the internal framework of a suspension bridge. Between the struts is marrow — red marrow in youth and active bones, producing blood cells; yellow marrow, which is mostly fat, in the shafts of adult bones where blood cell production has migrated elsewhere.
 
-<!-- → [IMAGE: microscopic cross-section of compact bone — show concentric lamellae of one osteon (Haversian system) with the central Haversian canal at center carrying a blood vessel and nerve, lacunae (osteocyte pockets) between lamellae, canaliculi radiating outward from lacunae to connect neighboring osteocytes; student should see the blood supply reaching deep into the matrix and the osteocyte communication network] -->
+![Microscopic cross-section of compact bone ](images/08-bone-tissue-and-the-skeletal-system-fig-02.png)
+*Figure 8.2 — Microscopic cross-section of compact bone *
 
 The result is a structure that achieves extraordinary strength-to-weight ratios. A bird's skeleton is the extreme version: many bird bones are nearly hollow tubes, walls thin as paper, yet strong enough to withstand the stresses of flight. We are less extreme, but built on the same principle. The skeleton is not a block of mineral. It is an engineered structure, and the engineering reflects millions of years of selection for load-bearing efficiency.
 
@@ -37,7 +39,8 @@ The result is a structure that achieves extraordinary strength-to-weight ratios.
 
 Now here is where the story gets interesting, because the architecture described above is not fixed. It is dynamic. It is being remade, continuously, by four types of cells. Understanding their roles is understanding why bone behaves the way it does.
 
-<!-- → [INFOGRAPHIC: bone remodeling cycle — four panels in sequence: (1) osteoclast attached to bone surface, secreting acid and enzymes, creating a resorption pit; (2) osteoclast departed, resorption pit visible; (3) osteoblasts lining the pit, secreting collagen matrix; (4) matrix mineralized, some osteoblasts now embedded as osteocytes with canalicular processes extending outward; label each cell type and the approximate timescale of each phase (weeks for resorption, months for formation); student should see this as a cycle, not a one-time event] -->
+![Bone remodeling cycle ](images/08-bone-tissue-and-the-skeletal-system-fig-03.png)
+*Figure 8.3 — Bone remodeling cycle *
 
 **Osteogenic cells** are the stem cells of bone tissue, sitting dormant in the inner layers of the periosteum — the fibrous membrane covering the outer surface of bone — and in the endosteum lining the inner cavity. When the body signals that new bone is needed, these cells divide and differentiate into builders.
 
@@ -71,7 +74,8 @@ Second, the kidneys. PTH causes the kidney tubules to reabsorb calcium from the 
 
 Third, the intestines — but indirectly. PTH signals the kidneys to produce the active form of vitamin D, called calcitriol. Calcitriol circulates to the small intestine and induces the synthesis of calcium transport proteins that allow dietary calcium to be absorbed. This takes longer — hours to days — but amplifies the response.
 
-<!-- → [INFOGRAPHIC: calcium homeostasis feedback loop — two panels side by side; left panel: blood calcium drops → parathyroid glands detect drop → PTH released → three arrows to (1) osteoclasts activate / resorb bone, (2) kidneys reabsorb calcium from urine, (3) kidneys produce calcitriol → intestine absorbs dietary calcium → blood calcium rises → PTH suppressed; right panel: blood calcium rises → thyroid releases calcitonin → osteoclasts inhibited / osteoblasts stimulated / kidneys excrete calcium → blood calcium falls → calcitonin suppressed; student should see the two-hormone antagonism and the three-organ reach of PTH] -->
+![Calcium homeostasis feedback loop ](images/08-bone-tissue-and-the-skeletal-system-fig-04.png)
+*Figure 8.4 — Calcium homeostasis feedback loop *
 
 As blood calcium rises and binds back to the parathyroid cell receptors, PTH secretion falls. The system is a feedback loop, and a tight one.
 
@@ -97,7 +101,15 @@ Threaten any of these connections and the skeleton pays.
 
 Kidney failure impairs calcitriol production; calcium absorption falls; PTH rises; bone dissolves. Inflammatory disease — rheumatoid arthritis, inflammatory bowel disease — keeps inflammatory cytokines elevated, which activate osteoclasts; bone is lost near joints and throughout the skeleton. Anorexia reduces caloric intake below what is needed for bone remodeling and suppresses estrogen through low body fat; bone density plummets even in young women. Elite female athletes who train hard but restrict calories can lose their menstrual periods, drop their estrogen, and develop bone densities lower than sedentary women their age — despite the mechanical loading that should be building bone.
 
-<!-- → [TABLE: factors affecting bone density — rows: mechanical load, estrogen, vitamin D, dietary calcium, PTH (chronic elevation), age, inflammation; columns: effect on osteoblasts (stimulates / inhibits / neutral), effect on osteoclasts (stimulates / inhibits / neutral), net effect on bone density (increases / decreases), clinical example; student should be able to predict bone density outcomes by reading across a row and see that multiple factors compound] -->
+| effect on osteoblasts (stimulates | inhibits | neutral) | effect on osteoclasts (stimulates | inhibits |
+| --- | --- | --- | --- | --- |
+| mechanical load, estrogen, vitamin D, dietary calcium, PTH (chronic elevation | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| age, inflammation | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| columns: effect on osteoblasts (stimulates | inhibits | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| effect on osteoclasts (stimulates | inhibits | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| net effect on bone density (increases | decreases | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| clinical example | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| student should be able to predict bone density outcomes by reading across a row and see that multiple factors compound | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Each case is the same story told differently: a system that should maintain balance has been tipped. The balance is between osteoblast activity and osteoclast activity. The tipping factors are hormones, nutrition, mechanical stress, inflammation, age. Remove any one of the factors that favor building — estrogen, vitamin D, calcium, load, youth — and the scale tips toward resorption.
 
@@ -154,3 +166,66 @@ Understanding bone means understanding that the skeleton is not the passive reci
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Julius Wolff** was a 19th-century German anatomist who established that bone remodels itself in response to mechanical stress — Wolff's Law, the principle behind why astronauts lose bone mass in space and weight-bearing exercise builds it on Earth.
+
+**Run this:**
+
+```
+Who was Julius Wolff, and how does Wolff's Law of bone remodeling connect to the bone tissue and skeletal system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Julius Wolff (surgeon)"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to apply Wolff's Law to the bone changes seen in astronauts after six months on the ISS — and connect that back to the osteocytes you learned about.
+- Add a constraint: "Answer as Wolff's 1892 letter to a skeptical colleague who still believes bone shape is fixed at birth."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 8.1 — Cross-section diagram of a long bone (femur) 
+
+Create a standalone D3 v7 HTML file for Figure Cross-section diagram of a long bone (femur) . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section diagram of a long bone (femur) — label diaphysis (shaft), epiphyses (ends), compact bone cortex, medullary cavity, periosteum, endosteum, spongy bone with trabeculae visible at the epiphysis, red marrow in trabecular spaces; student should see the hollow-tube architecture of the shaft and the lattice architecture of the ends as two different structural solutions to two different mechanical problems. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/08-bone-tissue-and-the-skeletal-system-fig-01.html`
+
+---
+
+### Figure 8.2 — Microscopic cross-section of compact bone 
+
+Create a standalone D3 v7 HTML file for Figure Microscopic cross-section of compact bone . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: microscopic cross-section of compact bone — show concentric lamellae of one osteon (Haversian system) with the central Haversian canal at center carrying a blood vessel and nerve, lacunae (osteocyte pockets) between lamellae, canaliculi radiating outward from lacunae to connect neighboring osteocytes; student should see the blood supply reaching deep into the matrix and the osteocyte communication network. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/08-bone-tissue-and-the-skeletal-system-fig-02.html`
+
+---
+
+### Figure 8.3 — Bone remodeling cycle 
+
+Create a standalone D3 v7 HTML file for Figure Bone remodeling cycle . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: bone remodeling cycle — four panels in sequence: (1) osteoclast attached to bone surface, secreting acid and enzymes, creating a resorption pit; (2) osteoclast departed, resorption pit visible; (3) osteoblasts lining the pit, secreting collagen matrix; (4) matrix mineralized, some osteoblasts now embedded as osteocytes with canalicular processes extending outward; label each cell type and the approximate timescale of each phase (weeks for resorption, months for formation); student should see this as a cycle, not a one-time event. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/08-bone-tissue-and-the-skeletal-system-fig-03.html`
+
+---
+
+### Figure 8.4 — Calcium homeostasis feedback loop 
+
+Create a standalone D3 v7 HTML file for Figure Calcium homeostasis feedback loop . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: calcium homeostasis feedback loop — two panels side by side; left panel: blood calcium drops → parathyroid glands detect drop → PTH released → three arrows to (1) osteoclasts activate / resorb bone, (2) kidneys reabsorb calcium from urine, (3) kidneys produce calcitriol → intestine absorbs dietary calcium → blood calcium rises → PTH suppressed; right panel: blood calcium rises → thyroid releases calcitonin → osteoclasts inhibited / osteoblasts stimulated / kidneys excrete calcium → blood calcium falls → calcitonin suppressed; student should see the two-hormone antagonism and the three-organ reach of PTH. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the
+
+> Reference implementation: `d3/08-bone-tissue-and-the-skeletal-system-fig-04.html`

@@ -115,3 +115,69 @@ All 28 content chapters reported 14/14 Combined Test pass per their conversion a
 - Misnamed `2026-05-05-23-the-heart.md` files in chapters/, pantry/, images/, bookmaps/ can be deleted.
 - Part-divider Chs 01, 06, 14, 21, 26, 32 — populate as actual Part introductions if desired (separate write task).
 - Review the 28 bookmaps as a set — deferred-material lists tell you what A&P topics need separate study guides or future chapters.
+
+---
+
+## 2026-05-12 — Completed LLM Exercises pattern (13 chapters added)
+
+The book now has `## LLM Exercises` blocks across all 28 content chapters. The existing 15 chapters (02-12, 16, 19, 24, 25, 29) were left untouched; 13 gap chapters got new blocks in matching format.
+
+**Format matched precisely:** `## LLM Exercises` header, intro paragraph, 5 exercises in `**Exercise N — Title.**` form with conversational mechanistic prompts and verification steps. Each prompt asks the student to push the LLM toward physiological reasoning with explicit failure modes named.
+
+| Ch | Topic | Sample exercises |
+|---|---|---|
+| 13 | The Muscular System | Origin/insertion mechanics, pennate vs parallel architecture, antagonistic pairs, naming as decoding, compartment syndrome |
+| 15 | Nervous System / Nervous Tissue | All-or-nothing action potentials, energetic cost of being a neuron, myelination physics, synaptic delay, LTP molecular mechanism |
+| 17 | Somatic Nervous System | Two pathways for somatosensation (Brown-Séquard), two-point discrimination, UMN vs LMN lesions, reflex arc speed, gate control theory |
+| 18 | Autonomic Nervous System | Sympathetic/parasympathetic on single organs, two-neuron chain pharmacology, orthostatic hypotension, enteric nervous system, vagal tone & HRV |
+| 20 | Endocrine System | Hormone class determines mechanism, HPA axis cascade, insulin/glucagon opposition, tissue-specific effects (SERMs), stress-immune interaction |
+| 22 | Cardiovascular: Blood | Hematocrit trade-off (blood doping), cooperative hemoglobin binding, Bohr effect, coagulation cascade, three-jobs constraint |
+| 23 | Cardiovascular: Heart | Pacemaker hierarchy (SA fastest), pressure-volume loops, Frank-Starling self-regulation, ejection fraction interpretation, asymmetric autonomic control |
+| 27 | Respiratory System | Surface area architecture, negative-pressure breathing, oxyhemoglobin curve at altitude, CO₂ transport chemistry, V/Q matching |
+| 28 | Digestive System | Size problem requiring digestion, regional specialization, bile chemistry for fats, enteric nervous system autonomy, microbiome partnership |
+| 30 | Urinary System | Filter-then-recover engineering choice, countercurrent multiplier, RAAS as cascade, acid-base via kidneys, why dialysis is incomplete |
+| 31 | Fluid/Electrolyte/Acid-Base | Body water distribution, six-ion limits (K⁺ narrow range), bicarbonate buffer open system, four acid-base disturbances, system interconnection |
+| 33 | Reproductive System | Two timelines for gametogenesis, 28-day cycle as feedback architecture, parallel anatomy from same embryonic origin, hormonal handoff in pregnancy, menopause uniqueness |
+| 34 | Development & Inheritance | Polyspermy block urgency, gastrulation as body plan establishment, teratogen critical periods, Mendelian complications, mitochondrial inheritance |
+
+**Cross-chapter callbacks built in:** Ch 23 (heart) connects to Ch 22 (blood) and Ch 24 (vessels); Ch 30 (urinary) connects to Ch 31 (acid-base); Ch 18 (autonomic) connects to Ch 23 (cardiac control). Reflects bundle's intentional structure.
+
+**[verify] flags** used for specific numerical claims subject to source variation.
+
+---
+
+## Stray file flag — `21-the-heart.md` in book root
+
+Discovered during this pass: `21-the-heart.md` exists in the book root (not in `chapters/`). It is a 3,630-word substantive chapter with the heading "Chapter 21 — The Heart: A Pump Built from Muscle" — but Chapter 21 in the TOC is a Part IV divider with no source content. The stray file appears to be either:
+
+(a) An earlier draft of Chapter 23 (which is also fully written at 4,346 words on the same topic, with a different framing)
+(b) An unmerged duplicate that should be removed
+(c) A misplaced file that should be in `chapters/` but with a different chapter number
+
+The two files cover essentially the same content — dual-pump architecture, autorhythmicity, pacemaker cells, dual circuits in series — with different opening framings:
+- Stray Ch 21: *"Why One Pump Cannot Solve the Problem, and How Two Do."*
+- Chapters/Ch 23: *"Three systems, one fist-sized muscle, 100,000 beats a day without being asked."*
+
+**Not touched in this pass.** Bear should decide: (i) merge the best of both into the final Ch 23, (ii) delete the stray as a superseded draft, or (iii) repurpose the stray as a real Chapter 21 (which would require renaming "Fluids and Transport" to "The Heart" in the TOC, and probably also fixing the part divider structure).
+
+**No follow-ups flagged for the LLM Exercises pattern itself.** All 28 content chapters now have consistent blocks.
+
+---
+
+## 2026-05-12 — Stray 21-the-heart.md resolved
+
+Compared the stray `21-the-heart.md` (3,630 words, in book root) against `chapters/23-the-cardiovascular-system-the-heart.md` (4,346 words) in detail. Ch 23 was the more developed version overall — better framing, deeper synthesis ("The System as a Whole" section), more integrated exercises with named clinical cases.
+
+**Three things ported from stray Ch 21 into Ch 23:**
+
+1. **Worked cardiac output calculation** added to the "What Governs Stroke Volume" section. Concrete numbers (rest: 70 bpm × 70 mL = 4.9 L/min; max exercise: 180 bpm × 130 mL = 23.4 L/min, ~5× resting). Ch 23 had the qualitative "fourfold or more" claim but lacked the worked example.
+
+2. **Heart rate ceiling discussion** added in the same section. Above ~180 bpm, diastolic filling time becomes inadequate; preload drops; cardiac output can decline despite faster rate. Important physiological nuance Ch 23 was missing.
+
+3. **Exercise 11 added to the Challenge tier** — the funny current (Iₓ) drug exercise. Selectively blocks SA node sodium leak channels; predicts what pacemaker takes over and the ECG consequences. Tagged with the clinical reference (ivabradine — actually used for selective heart-rate reduction in heart failure). Strong sophisticated exercise.
+
+**Stray file deleted** (`21-the-heart.md` removed from book root after `mcp__cowork__allow_cowork_file_delete` permission grant).
+
+**Final Ch 23 word count:** 5,193 (was 4,346 — added ~850 words).
+
+**Nothing else from the stray was uniquely valuable** that wasn't already covered better in Ch 23. The "System in Context" section in stray Ch 21 (baroreceptors, hormonal layer, metabolic feedback) was already covered in Ch 23's "Autonomic System as Volume Control" section more concisely. The marathon-runner exercise in stray Ch 21 was duplicated by Ch 23's Synthesis 8 (which is more developed). The wide-QRS-after-MI exercise in stray Ch 21 (#7) covered similar conceptual ground to Ch 23's Synthesis 7 (left bundle branch block).

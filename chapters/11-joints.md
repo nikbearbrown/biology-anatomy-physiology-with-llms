@@ -19,7 +19,8 @@ That opposition is what this chapter is about. A joint is not just an anatomical
 
 The simplest place to start is not the sophisticated synovial joint of the knee or shoulder, but the skull.
 
-<!-- → [IMAGE: superior view of a human skull showing cranial sutures — label coronal, sagittal, and lambdoid sutures; zoom inset showing the irregular interlocking fibrous tissue between bone edges; student should see the suture as a joint, not just a seam, and understand why the interlocking geometry adds mechanical strength] -->
+![Superior view of a human skull showing cranial](images/11-joints-fig-01.png)
+*Figure 11.1 — Superior view of a human skull showing cranial*
 
 Hold a human skull in your hands and look at the seams between the bones — the irregular, interlocking lines running across the top and sides. These are sutures, and they are joints. They are fibrous joints, held together by collagen tissue with no intervening space. They allow essentially no movement. In an infant, the sutures are wider and more flexible — the skull needs to deform slightly as it passes through the birth canal, and the bones need room to grow. In an adult, the sutures ossify: the fibrous tissue is replaced by bone, and the skull becomes a single fused unit.
 
@@ -31,7 +32,15 @@ But the spine has 24 such joints. Five degrees at each level, summed across a co
 
 And then there are the joints that give the body most of its visible motion: the synovial joints. These are structurally different from both fibrous and cartilaginous joints. The bones are not directly connected to each other at all. Instead, they are enclosed in a capsule filled with fluid — synovial fluid — and they float against each other within that fluid space. This is the joint cavity. The freedom it allows is immediate and obvious: bones can slide, rotate, and swing through arcs with minimal friction.
 
-<!-- → [TABLE: joint structural and functional classification — rows: fibrous (suture/syndesmosis/gomphosis), cartilaginous (synchondrosis/symphysis), synovial; columns: what connects the bones, joint cavity present?, range of motion (none/limited/free), functional classification (synarthrosis/amphiarthrosis/diarthrosis), body examples; student should see the three-type structure and the correspondence between structural and functional categories] -->
+| what connects the bones | joint cavity present? | range of motion (none | limited | free) |
+| --- | --- | --- | --- | --- |
+| fibrous (suture | syndesmosis | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| cartilaginous (synchondrosis | symphysis | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| synovial | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| columns: what connects the bones, joint cavity present?, range of motion (none | limited | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| functional classification (synarthrosis | amphiarthrosis | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| body examples | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| student should see the three-type structure and the correspondence between structural and functional categories | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 Three structural types — fibrous, cartilaginous, synovial — encoding three positions on the mobility-stability spectrum. Fibrous joints give you rigidity. Cartilaginous joints give you controlled, distributed movement. Synovial joints give you freedom. The body deploys all three, depending on what the location demands.
 
@@ -41,7 +50,8 @@ Three structural types — fibrous, cartilaginous, synovial — encoding three p
 
 Because synovial joints are where most movement happens, it is worth understanding their architecture carefully. Every synovial joint — elbow, knee, hip, shoulder, knuckle — is built on the same template.
 
-<!-- → [IMAGE: cross-section diagram of a generic synovial joint — label articular capsule (outer fibrous layer), synovial membrane (inner layer), joint cavity with synovial fluid, articular cartilage on both bone surfaces, ligament external to capsule, and periosteum; inset showing articular cartilage magnified with chondrocytes embedded in matrix and no blood vessels — student should see the avascular nature of cartilage and understand why it cannot repair itself] -->
+![Cross-section diagram of a generic synovial joint ](images/11-joints-fig-02.png)
+*Figure 11.2 — Cross-section diagram of a generic synovial joint *
 
 The joint cavity is enclosed by the articular capsule, a sleeve of fibrous connective tissue that wraps around the joint like a cuff. The outer layer of this capsule is tough and inelastic — it gives the joint its basic mechanical integrity. The inner layer is the synovial membrane, a thin, delicate tissue whose job is to produce synovial fluid.
 
@@ -63,7 +73,8 @@ The shoulder's answer to its shallow socket is not structural at all, in the bon
 
 The shape of the articulating surfaces determines what movements a synovial joint can produce. This is not subtle: the geometry of the bones physically constrains the motion the same way the shape of a door hinge determines that the door can swing but cannot slide.
 
-<!-- → [INFOGRAPHIC: six synovial joint types side by side — for each: (1) hinge joint with elbow illustration showing flexion-extension only; (2) pivot joint with atlas-axis rotation; (3) condyloid joint with knuckle showing two-plane motion; (4) saddle joint with thumb base showing opposition; (5) ball-and-socket joint with hip and shoulder side by side showing multiaxial range; (6) plane joint with vertebral facets showing small gliding motion; each panel labels the joint type, the motion planes permitted, and a body example; student should see the spectrum from one plane to many as bone geometry relaxes from constraining] -->
+![Six synovial joint types side by side ](images/11-joints-fig-03.png)
+*Figure 11.3 — Six synovial joint types side by side *
 
 A **hinge joint** has a convex surface fitting into a concave one, like a door hinge. Movement is possible in one plane only: bending (flexion) and straightening (extension). The elbow is the canonical hinge. The architecture is so mechanically constrained that the ligaments do not have to work hard — the bone geometry itself limits the motion.
 
@@ -99,7 +110,8 @@ The reference point is the anatomical position: standing upright, arms at the si
 
 **Inversion** turns the sole of the foot inward, toward the midline. **Eversion** turns it outward. In an ankle sprain, the foot inverts suddenly and with force, driving the lateral ligaments — which resist inversion — beyond their limits. The anterior talofibular ligament tears first because it is the weakest of the lateral ligaments and it is maximally stressed in the plantar-flexed and inverted position.
 
-<!-- → [IMAGE: figure of the human body in anatomical position with labeled movement arrows at key joints — show flexion/extension at elbow and knee, abduction/adduction at shoulder and hip, medial/lateral rotation at hip, pronation/supination of the forearm with radius crossing ulna in pronation, dorsiflexion/plantarflexion at the ankle, inversion/eversion of the foot; student should be able to name the movement and identify which joint performs it] -->
+![Figure of the human body in anatomical position](images/11-joints-fig-04.png)
+*Figure 11.4 — Figure of the human body in anatomical position*
 
 The vocabulary is not arbitrary. It encodes the mechanical reality of each joint type. A joint that only hinges can only flex and extend. A joint that is multiaxial needs a richer vocabulary because it can move in richer ways.
 
@@ -160,3 +172,66 @@ The negotiation never stops. Every joint in your body is being maintained, stres
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **John Charnley** developed the modern total hip replacement at Wrightington Hospital in the 1960s — pairing a metal femoral component with a polyethylene socket cemented to bone. The procedure transformed arthritis treatment and became the template for almost every modern joint replacement.
+
+**Run this:**
+
+```
+Who was John Charnley, and how does his work on the total hip arthroplasty connect to the joint anatomy and biomechanics we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"John Charnley"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace each component of a Charnley hip replacement back to the natural joint anatomy you learned in this chapter.
+- Ask it to compare Charnley's polyethylene-on-metal design with modern ceramic and metal-on-metal alternatives — what's the trade-off?
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 11.1 — Superior view of a human skull showing cranial
+
+Create a standalone D3 v7 HTML file for Figure Superior view of a human skull showing cranial. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: superior view of a human skull showing cranial sutures — label coronal, sagittal, and lambdoid sutures; zoom inset showing the irregular interlocking fibrous tissue between bone edges; student should see the suture as a joint, not just a seam, and understand why the interlocking geometry adds mechanical strength. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/11-joints-fig-01.html`
+
+---
+
+### Figure 11.2 — Cross-section diagram of a generic synovial joint 
+
+Create a standalone D3 v7 HTML file for Figure Cross-section diagram of a generic synovial joint . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section diagram of a generic synovial joint — label articular capsule (outer fibrous layer), synovial membrane (inner layer), joint cavity with synovial fluid, articular cartilage on both bone surfaces, ligament external to capsule, and periosteum; inset showing articular cartilage magnified with chondrocytes embedded in matrix and no blood vessels — student should see the avascular nature of cartilage and understand why it cannot repair itself. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/11-joints-fig-02.html`
+
+---
+
+### Figure 11.3 — Six synovial joint types side by side 
+
+Create a standalone D3 v7 HTML file for Figure Six synovial joint types side by side . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: six synovial joint types side by side — for each: (1) hinge joint with elbow illustration showing flexion-extension only; (2) pivot joint with atlas-axis rotation; (3) condyloid joint with knuckle showing two-plane motion; (4) saddle joint with thumb base showing opposition; (5) ball-and-socket joint with hip and shoulder side by side showing multiaxial range; (6) plane joint with vertebral facets showing small gliding motion; each panel labels the joint type, the motion planes permitted, and a body example; student should see the spectrum from one plane to many as bone geometry relaxes from constraining. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables an
+
+> Reference implementation: `d3/11-joints-fig-03.html`
+
+---
+
+### Figure 11.4 — Figure of the human body in anatomical position
+
+Create a standalone D3 v7 HTML file for Figure Figure of the human body in anatomical position. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: figure of the human body in anatomical position with labeled movement arrows at key joints — show flexion/extension at elbow and knee, abduction/adduction at shoulder and hip, medial/lateral rotation at hip, pronation/supination of the forearm with radius crossing ulna in pronation, dorsiflexion/plantarflexion at the ankle, inversion/eversion of the foot; student should be able to name the movement and identify which joint performs it. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/11-joints-fig-04.html`

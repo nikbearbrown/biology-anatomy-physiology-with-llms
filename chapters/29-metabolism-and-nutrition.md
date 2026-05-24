@@ -114,3 +114,24 @@ The following exercises are designed to be worked through with a language model.
 **Exercise 4 — Thermoregulation in extreme environments.** Ask a language model to compare the physiological response to dry heat at 40°C versus humid heat at 35°C. For each environment, identify which heat-loss mechanisms are operative and which are impaired. Then ask: at what point does thermoregulation become futile in each environment, and what physiological events mark the transition from compensated hyperthermia to heat stroke?
 
 **Exercise 5 — Metabolic disease as mechanism failure.** Ask a language model to explain the progression from normal glucose metabolism to type 2 diabetes as a sequence of mechanism failures. Start with the normal insulin signaling pathway and identify the first step that fails in insulin resistance. Then ask: given that the pancreas compensates by producing more insulin, what eventually causes blood glucose to rise uncontrollably? At which point in the three metabolic states described in this chapter does the pathology become most dangerous, and why?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Casimir Funk** coined the word "vitamine" in 1912 — proposing that beriberi, scurvy, pellagra, and rickets were caused not by germs but by missing micronutrients in the diet. He was Polish-Jewish, worked across five countries during two world wars, and never won the Nobel Prize the discovery probably deserved.
+
+**Run this:**
+
+```
+Who was Casimir Funk, and how does his vitamin hypothesis connect to the nutrition and metabolism concepts we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Casimir Funk"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to trace one vitamin (B1, C, or D) from Funk's 1912 hypothesis to the modern understanding of its biochemical role.
+- Add a constraint: "Answer as Funk's 1912 letter to the Lancet defending his neologism 'vitamine'."
+
+What changes? What gets better? What gets worse?

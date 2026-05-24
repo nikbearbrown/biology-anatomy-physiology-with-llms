@@ -25,7 +25,8 @@ The problem is that unlike the cardiovascular system, there is no heart pumping 
 
 Your muscles do. Every contraction of a skeletal muscle squeezes nearby lymphatic vessels. Your breathing does — the pressure changes in your chest during inhalation pull lymph upward. Peristalsis of your intestines does. The one-way valves ensure that all of this incidental motion moves lymph in one direction: toward the heart. The lymphatic capillaries converge into larger vessels, which converge into two large ducts that empty into the subclavian veins in the neck — and the four liters of leaked fluid complete their circuit back into the blood.
 
-<!-- → [DIAGRAM: The lymphatic circuit — a simplified body outline showing lymphatic capillaries in peripheral tissues collecting interstitial fluid, converging into larger lymphatic vessels, passing through lymph nodes (labeled) in groin, axilla, and neck, and emptying into the subclavian veins. Arrows showing direction of flow; one-way valves indicated along the vessels. A comparison callout showing the cardiovascular circuit alongside for scale, emphasizing that the lymphatic system has no central pump. Caption: "The lymphatic circuit has no heart — the pump is you, moving."] -->
+![The lymphatic circuit has no heart — the pump is you, moving.](images/25-the-lymphatic-and-immune-system-fig-01.png)
+*Figure 25.1 — The lymphatic circuit *
 
 This design has a consequence worth sitting with. A sedentary person produces stagnant lymph. A person who exercises keeps it flowing. This is one real physiological reason movement matters: your lymph depends on it. And because the immune system depends on lymph — for reasons I am about to explain — a body that does not move is also a body whose immune surveillance is sluggish.
 
@@ -47,7 +48,8 @@ Simultaneously, complement proteins that circulate in the blood are activated. C
 
 The visible result of all this is inflammation: redness from the increased blood flow, heat from the metabolic activity, swelling from the leaked fluid, pain from cytokines stimulating pain receptors. These are not side effects. They are the point. The swelling dilutes toxins and brings a fresh supply of immune cells. The heat slows bacterial replication. The pain signals to the organism that something is wrong and that the tissue should be protected. Inflammation is a deliberate strategy to make the tissue hostile to the pathogen.
 
-<!-- → [DIAGRAM: The innate inflammatory response in four sequential frames — (1) pathogen breaches skin, resident macrophages detect and release cytokines; (2) capillaries dilate and become leaky, plasma floods tissue; (3) neutrophils migrate out of capillaries toward pathogen source; (4) neutrophils and macrophages engulf pathogens, complement cascade activated. Each frame labels the cells and molecules involved. Caption: "The innate response is a coordinated cascade, not a single event — each step triggers the next."] -->
+![The innate response is a coordinated cascade, not a single event — each step triggers the next.](images/25-the-lymphatic-and-immune-system-fig-02.png)
+*Figure 25.2 — The innate inflammatory response in four sequential frames*
 
 This entire system — phagocytes, complement, inflammation, the barriers of skin and mucus that preceded it all — is the innate immune system. It is ancient. Insects have it. Starfish have it. It predates vertebrates by hundreds of millions of years. It works without any prior exposure to the pathogen. It launches within hours. And it does not remember what it fought. Each encounter is the same as the last.
 
@@ -69,7 +71,8 @@ Your body contains roughly two trillion lymphocytes — B cells and T cells — 
 
 When an antigen arrives in the lymph node, it encounters millions of lymphocytes. The vast majority have receptors that do not fit. But occasionally, by chance, a lymphocyte with the right receptor binds the antigen. That cell is activated. It divides, and divides again, generating thousands of identical copies — all with the same receptor, all responding to the same antigen. This is clonal selection: the pathogen's own antigen selects from the library the rare cells capable of fighting it.
 
-<!-- → [DIAGRAM: Clonal selection in four steps — (1) a diverse population of naive B cells, each with a different surface receptor shown as differently shaped icons; (2) an antigen arrives and binds only to the B cell whose receptor matches; (3) the selected B cell divides, generating a clone of identical cells; (4) the clone differentiates into plasma cells (antibody factories, shown secreting Y-shaped antibodies) and memory B cells (shown with a clock icon indicating longevity). Caption: "The antigen does not create the response — it selects from a library that already exists."] -->
+![The antigen does not create the response — it selects from a library that already exists.](images/25-the-lymphatic-and-immune-system-fig-03.png)
+*Figure 25.3 — Clonal selection in four steps *
 
 The activated B cells become plasma cells — factories that secrete antibodies at thousands per second, releasing them into the bloodstream. Antibodies are Y-shaped proteins that bind the specific antigen with extraordinary precision. An antibody can distinguish between two proteins that differ by a single amino acid. It binds the antigen on the surface of the pathogen, and this binding does several useful things: it prevents the pathogen from attaching to cells (neutralization), it coats the pathogen surface so phagocytes can grip it more easily (opsonization), and it activates complement. The antibody does not itself kill the pathogen. It marks it. The killing is done by phagocytes, complement, and the other arm of the adaptive system.
 
@@ -79,7 +82,8 @@ This is the adaptive immune system. Exquisitely precise. Capable of recognizing 
 
 But here is the thing that changes everything. When the adaptive response resolves the infection, most of the cloned lymphocytes die. Not all of them. A subset — memory cells — persist. They survive for years. Decades. Possibly a lifetime. When the same pathogen appears again, memory cells recognize it immediately. The response is not days. It is hours. The antibody levels are already high before the pathogen has a chance to replicate. You do not get sick. You may not even notice the infection.
 
-<!-- → [CHART: Primary vs. secondary antibody response — x-axis showing time in days/weeks, y-axis showing relative antibody concentration. Two curves: the primary response rising slowly starting around day 7–10, peaking at moderate level around day 14–21, then declining; the secondary response (re-exposure at some later point) rising steeply within 1–3 days, reaching a much higher peak, and remaining elevated longer. Memory cell activation labeled at the start of the secondary curve. Caption: "The secondary response is faster, higher, and longer-lasting — not because the immune system is stronger, but because it already knows the answer."] -->
+![The secondary response is faster, higher, and longer-lasting — not because the immune system is stronger, but because it already knows the answer.](images/25-the-lymphatic-and-immune-system-fig-04.png)
+*Figure 25.4 — Primary vs*
 
 This is immunological memory, and it is the basis of vaccination. A vaccine delivers an antigen — from a weakened or killed pathogen, or just a piece of one — without the danger of the real disease. The adaptive system mounts a primary response, generates memory cells, and then stands ready. When the actual pathogen arrives years later, the memory cells eliminate it before it can cause illness. The vaccine does not protect you by giving you antibodies. It protects you by teaching your immune system what the pathogen looks like before the pathogen arrives.
 
@@ -95,7 +99,9 @@ The innate system is not elegant, but it is immediate. Its job is not to win —
 
 And why not just have the innate system? Because some pathogens are specifically designed — by evolution — to evade it. Tuberculosis lives inside macrophages. Viruses hide inside cells. Fungi grow as structures too large to phagocytize. Against these, the innate system can slow but not stop. The adaptive system provides the precision that the innate system lacks: it can target the specific surface proteins of a particular pathogen, find and kill the cells harboring a hidden virus, and remember the threat for next time.
 
-<!-- → [TABLE: Innate vs. adaptive immune system compared — rows: Innate, Adaptive. Columns: Speed of activation, Specificity, Memory, Cells involved, Key molecules, Failure mode. Student should use this as a reference for the LLM exercises and for understanding why both are necessary.] -->
+| Speed of activation | Specificity | Memory | Cells involved | Key molecules |
+| --- | --- | --- | --- | --- |
+| Innate, Adaptive. Columns: Speed of activation, Specificity, Memory, Cells involved, Key molecules, Failure mode. Student should use this as a reference for the LLM exercises and for understanding why both are necessary. | The pattern becomes easy to misuse or overlook. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 The two systems are not alternatives. They are a relay. The innate system buys time for the adaptive system to build. The adaptive system finishes what the innate system started. When this relay works, most infections are eliminated without you being aware of them. When the relay breaks — as it did in those five men in Los Angeles in June 1981, whose helper T cells had been erased — the consequences are catastrophic. Without helper T cells to activate B cells and guide cytotoxic T cells, the adaptive system cannot function. The innate system works but cannot contain what the adaptive system was supposed to finish. Opportunistic pathogens that a healthy immune system would clear in hours proliferate without check.
 
@@ -116,3 +122,66 @@ The following exercises are designed to be worked through with a language model.
 **Exercise 4 — Innate evasion.** Ask a language model to describe three different strategies that pathogens use to evade the innate immune system — one that evades phagocytosis, one that evades complement, and one that hides from pattern recognition. For each strategy, ask the model to explain what component of the adaptive immune system is capable of overcoming the evasion, and why. Then ask: is there any pathogen that has successfully evolved to evade both the innate and the adaptive immune systems indefinitely?
 
 **Exercise 5 — Autoimmunity as tolerance failure.** Ask a language model to explain what immunological tolerance is and where it is established — both in the thymus (for T cells) and in the bone marrow (for B cells). Then describe this scenario: a patient develops type 1 diabetes, in which cytotoxic T cells attack the insulin-producing beta cells of the pancreas. Ask the model to explain at which point in the tolerance process the failure might have occurred, and why the immune system is attacking "self" tissue as if it were foreign. Then ask: what is the difference between autoimmunity and an allergy, given that both involve misdirected adaptive immune responses?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Florence Sabin** mapped the development of the lymphatic system in chick embryos in 1902 — showing that lymphatics bud from veins rather than forming from scratch. She was the first woman elected to the National Academy of Sciences and the first to lead a department at Johns Hopkins.
+
+**Run this:**
+
+```
+Who was Florence Sabin, and how does her work on the embryonic origin of the lymphatic system connect to the lymphatic and immune anatomy we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Florence R. Sabin"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through how a lymphatic vessel buds from a vein during embryogenesis — using the cell-biology vocabulary you learned earlier in the book.
+- Ask it to compare Sabin's "centrifugal" theory of lymphatic origin with later theories that contested it — how was it eventually resolved?
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 25.1 — The lymphatic circuit 
+
+Create a standalone D3 v7 HTML file for Figure The lymphatic circuit . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The lymphatic circuit — a simplified body outline showing lymphatic capillaries in peripheral tissues collecting interstitial fluid, converging into larger lymphatic vessels, passing through lymph nodes (labeled) in groin, axilla, and neck, and emptying into the subclavian veins. Arrows showing direction of flow; one-way valves indicated along the vessels. A comparison callout showing the cardiovascular circuit alongside for scale, emphasizing that the lymphatic system has no central pump. Caption: "The lymphatic circuit has no heart — the pump is you, moving.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/25-the-lymphatic-and-immune-system-fig-01.html`
+
+---
+
+### Figure 25.2 — The innate inflammatory response in four sequential frames
+
+Create a standalone D3 v7 HTML file for Figure The innate inflammatory response in four sequential frames. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The innate inflammatory response in four sequential frames — (1) pathogen breaches skin, resident macrophages detect and release cytokines; (2) capillaries dilate and become leaky, plasma floods tissue; (3) neutrophils migrate out of capillaries toward pathogen source; (4) neutrophils and macrophages engulf pathogens, complement cascade activated. Each frame labels the cells and molecules involved. Caption: "The innate response is a coordinated cascade, not a single event — each step triggers the next.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/25-the-lymphatic-and-immune-system-fig-02.html`
+
+---
+
+### Figure 25.3 — Clonal selection in four steps 
+
+Create a standalone D3 v7 HTML file for Figure Clonal selection in four steps . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Clonal selection in four steps — (1) a diverse population of naive B cells, each with a different surface receptor shown as differently shaped icons; (2) an antigen arrives and binds only to the B cell whose receptor matches; (3) the selected B cell divides, generating a clone of identical cells; (4) the clone differentiates into plasma cells (antibody factories, shown secreting Y-shaped antibodies) and memory B cells (shown with a clock icon indicating longevity). Caption: "The antigen does not create the response — it selects from a library that already exists.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/25-the-lymphatic-and-immune-system-fig-03.html`
+
+---
+
+### Figure 25.4 — Primary vs
+
+Create a standalone D3 v7 HTML file for Figure Primary vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Primary vs. secondary antibody response — x-axis showing time in days/weeks, y-axis showing relative antibody concentration. Two curves: the primary response rising slowly starting around day 7–10, peaking at moderate level around day 14–21, then declining; the secondary response (re-exposure at some later point) rising steeply within 1–3 days, reaching a much higher peak, and remaining elevated longer. Memory cell activation labeled at the start of the secondary curve. Caption: "The secondary response is faster, higher, and longer-lasting — not because the immune system is stronger, but because it already knows the answer.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the r
+
+> Reference implementation: `d3/25-the-lymphatic-and-immune-system-fig-04.html`

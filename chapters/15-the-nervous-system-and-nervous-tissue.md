@@ -15,7 +15,8 @@ Alan Hodgkin and Andrew Huxley worked out the mechanism from squid axon data in 
 
 Before the electrical mechanism can make sense, the geometry has to make sense.
 
-<!-- → [IMAGE: labeled diagram of a multipolar neuron — show soma (cell body) with nucleus, multiple branching dendrites extending from soma, single axon emerging from axon hillock, myelin sheath in segments along axon with nodes of Ranvier labeled at gaps, axon terminal with synaptic vesicles; arrows showing direction of signal flow from dendrites → soma → axon → terminal; student should see the one-directional architecture before encountering the electrical mechanism] -->
+![Labeled diagram of a multipolar neuron ](images/15-the-nervous-system-and-nervous-tissue-fig-01.png)
+*Figure 15.1 — Labeled diagram of a multipolar neuron *
 
 A neuron is a cell with a problem: it needs to receive information at one end, process it in the middle, and send a signal out the other end. The solution is a body plan found nowhere else in biology. From the cell body — the soma, which contains the nucleus and most of the metabolic machinery — multiple branches extend outward. Most of these are dendrites, from the Greek word for tree, and they are named well: they branch and rebranch into a structure that can intercept signals arriving from dozens or hundreds of neighboring cells. One branch, and only one, extends in a different direction from the soma. This is the axon. It does not branch at its origin. It runs, sometimes for extraordinary distances, to whatever target the neuron is built to reach.
 
@@ -33,7 +34,8 @@ Enter myelin. Glial cells — oligodendrocytes in the brain and spinal cord, Sch
 
 On a naked, unmyelinated axon, the action potential must be regenerated at every patch of membrane along the length. On a myelinated axon, the insulating sheath prevents the voltage change from leaking out through the membrane between nodes. The voltage change instead spreads electrically through the interior of the axon — fast, passive, like a wire — until it reaches the next exposed node, where the action potential is regenerated and jumps forward to the next.
 
-<!-- → [IMAGE: comparison diagram of unmyelinated vs. myelinated axon — left: unmyelinated axon showing action potential regenerating continuously at every membrane patch, labeled "0.5 m/s"; right: myelinated axon with Schwann cells/oligodendrocytes wrapped around internodes, nodes of Ranvier labeled, action potential jumping node to node, labeled "100 m/s"; student should see saltatory conduction as spatial skipping enabled by insulation, and appreciate the 200× speed difference] -->
+![Comparison diagram of unmyelinated vs](images/15-the-nervous-system-and-nervous-tissue-fig-02.png)
+*Figure 15.2 — Comparison diagram of unmyelinated vs*
 
 This is saltatory conduction, from the Latin for leap. The action potential does not travel continuously; it skips from node to node. The difference in speed is not marginal. An unmyelinated axon conducts at roughly half a meter per second. A large, fully myelinated axon conducts at a hundred meters per second. Two hundred times faster. The signals controlling your voluntary movements travel at a hundred meters per second. The signals controlling your digestion travel at a fraction of that. The nervous system has decided that speed is worth the metabolic cost of maintaining all those glial cells, but only where speed matters enough.
 
@@ -59,7 +61,8 @@ Meanwhile, the voltage-gated potassium channels, which respond to the same volta
 
 The whole event takes one to two milliseconds.
 
-<!-- → [CHART: action potential waveform — x-axis: time in milliseconds (0–5 ms); y-axis: membrane voltage (−70 mV to +30 mV); label: resting potential (−70 mV), threshold (−55 mV), rising phase with annotation "Na⁺ channels open / Na⁺ rushes in", peak (+30 mV), falling phase with annotation "Na⁺ channels inactivate / K⁺ channels open / K⁺ rushes out", undershoot (hyperpolarization) with annotation "K⁺ channels close", return to resting; bracket showing absolute refractory period during Na⁺ inactivation; student should connect each phase of the waveform to the specific channel events causing it] -->
+![Action potential waveform ](images/15-the-nervous-system-and-nervous-tissue-fig-03.png)
+*Figure 15.3 — Action potential waveform *
 
 Now here is the propagation. The sodium influx at one location depolarizes the neighboring patch of membrane. That patch's voltage-gated sodium channels open. Sodium rushes in there too. That patch depolarizes the next patch. The wave moves down the axon.
 
@@ -75,7 +78,8 @@ The action potential reaches the axon terminal. What happens there?
 
 The terminal does not physically touch the next cell. It is separated from the receiving membrane by a gap of about twenty nanometers — the synaptic cleft. Twenty nanometers is less than the wavelength of visible light, so this gap is not something you can see, but it is a true physical separation, not a connection. Across this gap, an electrical signal cannot simply continue. The communication must become chemical.
 
-<!-- → [IMAGE: cross-section diagram of a chemical synapse — show presynaptic terminal with mitochondria, synaptic vesicles clustered near active zone, voltage-gated Ca²⁺ channels at membrane; synaptic cleft labeled (20 nm); postsynaptic membrane with ligand-gated ion channels (receptors); arrows showing: action potential arrives → Ca²⁺ enters → vesicles fuse (exocytosis) → neurotransmitter released into cleft → diffuses to receptors → ion channels open → postsynaptic potential; student should trace the complete electrical-to-chemical-to-electrical conversion] -->
+![Cross-section diagram of a chemical synapse ](images/15-the-nervous-system-and-nervous-tissue-fig-04.png)
+*Figure 15.4 — Cross-section diagram of a chemical synapse *
 
 The terminal is packed with synaptic vesicles — tiny pouches filled with neurotransmitter molecules. When the action potential arrives, it opens voltage-gated calcium channels in the terminal membrane. Calcium ions flow in. Calcium is the trigger. It activates proteins called SNAREs, which zipper the vesicle membrane to the terminal membrane and force the contents of the vesicle into the synaptic cleft. This is exocytosis, and it happens within a hundred microseconds of the calcium influx.
 
@@ -117,7 +121,8 @@ When both conditions are met, the NMDA receptor allows calcium into the postsyna
 
 The logic is this: if a synapse was active while the postsynaptic neuron was firing, that synapse probably contributed to the decision to fire. Strengthen it. If a synapse fires while the postsynaptic neuron is quiet, it did not contribute. Weaken it. This is Hebb's rule — neurons that fire together wire together — implemented in calcium chemistry.
 
-<!-- → [INFOGRAPHIC: LTP mechanism — two panels side by side; left panel (before LTP): presynaptic neuron releases glutamate, NMDA receptors on postsynaptic membrane blocked by Mg²⁺ (postsynaptic not depolarized), only AMPA receptors open, small EPSP results; right panel (during/after LTP): presynaptic fires while postsynaptic is already depolarized, Mg²⁺ block removed from NMDA receptor, Ca²⁺ enters via NMDA, Ca²⁺ triggers insertion of additional AMPA receptors into postsynaptic membrane, same presynaptic firing now produces larger EPSP; student should see the coincidence-detection logic: NMDA opens only when both neurons are active simultaneously] -->
+![LTP mechanism ](images/15-the-nervous-system-and-nervous-tissue-fig-05.png)
+*Figure 15.5 — LTP mechanism *
 
 The consequence is that the pattern of activity in a neural circuit is self-reinforcing. Pathways that are used become easier to use. Pathways that are not used become harder to use. What we experience as memory and learning is, at the cellular level, the gradual reshaping of synaptic weights across billions of neurons.
 
@@ -170,3 +175,90 @@ That is what makes it worth understanding precisely. Not as a catalog of parts b
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Why the action potential is all-or-nothing.** Ask a language model to explain why a neuron either fires a full action potential or does not fire at all — there is no half-firing. Have it walk through the voltage-gated sodium channel positive feedback loop: depolarization opens Na⁺ channels, which depolarize further, which opens more channels. Then ask: what role does this all-or-nothing property play in encoding signal strength? The answer is that information is encoded in firing frequency, not amplitude — a stronger stimulus produces more action potentials per second, not larger ones.
+
+**Exercise 2 — The energetic cost of being a neuron.** Ask a language model to estimate the metabolic cost of maintaining the resting membrane potential. The Na⁺/K⁺ ATPase pumps 3 Na⁺ out and 2 K⁺ in per ATP, working continuously to counteract leak. Then ask: the brain is about 2% of body mass but consumes 20% of resting energy. What fraction of that brain energy goes to sustaining electrical gradients vs. other neuronal functions (vesicle recycling, protein synthesis, mitochondrial maintenance)? Approximately 50-70% of brain energy maintains the membrane potential and supports the action potentials [verify]. This is the price of being able to fire.
+
+**Exercise 3 — Why myelination wraps in spirals.** Ask a language model to explain why a myelinated axon — wrapped by Schwann cells in the periphery, oligodendrocytes centrally — conducts so much faster than the same axon unmyelinated. Trace through saltatory conduction: at each node of Ranvier, voltage-gated channels regenerate the action potential, while the myelin between nodes acts as electrical insulator. Then ask: what disease attacks myelin (multiple sclerosis), and why does the resulting slowed conduction produce such varied symptoms depending on which axons are demyelinated?
+
+**Exercise 4 — The synapse as bottleneck and as feature.** Ask a language model to explain why neurotransmitter release at a chemical synapse takes about 0.5 milliseconds — much slower than electrical conduction along an axon. What does this delay enable? The answer is that the chemical step provides amplification, integration of multiple inputs, and modulation by other signals (modulatory neurotransmitters that adjust the strength of fast transmission). Then ask: in some places (cardiac pacemaker, smooth muscle), gap junctions provide direct electrical coupling instead of chemical synapses. What is gained, and what is lost?
+
+**Exercise 5 — Long-term potentiation and the molecular basis of memory.** Ask a language model to explain LTP — the long-lasting strengthening of synapses that follows repeated coincident firing of the pre- and post-synaptic neurons. Walk through the NMDA receptor mechanism: it requires both glutamate binding AND postsynaptic depolarization to open, allowing Ca²⁺ entry that triggers the strengthening cascade. Then ask: why is this molecular detail considered the cellular basis for the Hebbian principle ("cells that fire together wire together"), and what does it suggest about how learning is physically stored in the brain?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Rita Levi-Montalcini** discovered nerve growth factor in the 1950s — the first signaling molecule shown to direct nerve cell development. She worked in a makeshift home laboratory in Turin during World War II, hiding from anti-Jewish persecution. She lived to 103 and worked nearly the whole time.
+
+**Run this:**
+
+```
+Who was Rita Levi-Montalcini, and how does her discovery of nerve growth factor connect to the nervous tissue and neural development we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Rita Levi-Montalcini"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to explain in plain language how NGF tells some neurons to live and others to die during development.
+- Add a constraint: "Answer as Levi-Montalcini's wartime laboratory notebook entry from 1943, in her voice."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 15.1 — Labeled diagram of a multipolar neuron 
+
+Create a standalone D3 v7 HTML file for Figure Labeled diagram of a multipolar neuron . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: labeled diagram of a multipolar neuron — show soma (cell body) with nucleus, multiple branching dendrites extending from soma, single axon emerging from axon hillock, myelin sheath in segments along axon with nodes of Ranvier labeled at gaps, axon terminal with synaptic vesicles; arrows showing direction of signal flow from dendrites → soma → axon → terminal; student should see the one-directional architecture before encountering the electrical mechanism. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/15-the-nervous-system-and-nervous-tissue-fig-01.html`
+
+---
+
+### Figure 15.2 — Comparison diagram of unmyelinated vs
+
+Create a standalone D3 v7 HTML file for Figure Comparison diagram of unmyelinated vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: comparison diagram of unmyelinated vs. myelinated axon — left: unmyelinated axon showing action potential regenerating continuously at every membrane patch, labeled "0.5 m/s"; right: myelinated axon with Schwann cells/oligodendrocytes wrapped around internodes, nodes of Ranvier labeled, action potential jumping node to node, labeled "100 m/s"; student should see saltatory conduction as spatial skipping enabled by insulation, and appreciate the 200× speed difference. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/15-the-nervous-system-and-nervous-tissue-fig-02.html`
+
+---
+
+### Figure 15.3 — Action potential waveform 
+
+Create a standalone D3 v7 HTML file for Figure Action potential waveform . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: action potential waveform — x-axis: time in milliseconds (0–5 ms); y-axis: membrane voltage (−70 mV to +30 mV); label: resting potential (−70 mV), threshold (−55 mV), rising phase with annotation "Na⁺ channels open / Na⁺ rushes in", peak (+30 mV), falling phase with annotation "Na⁺ channels inactivate / K⁺ channels open / K⁺ rushes out", undershoot (hyperpolarization) with annotation "K⁺ channels close", return to resting; bracket showing absolute refractory period during Na⁺ inactivation; student should connect each phase of the waveform to the specific channel events causing it. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/15-the-nervous-system-and-nervous-tissue-fig-03.html`
+
+---
+
+### Figure 15.4 — Cross-section diagram of a chemical synapse 
+
+Create a standalone D3 v7 HTML file for Figure Cross-section diagram of a chemical synapse . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section diagram of a chemical synapse — show presynaptic terminal with mitochondria, synaptic vesicles clustered near active zone, voltage-gated Ca²⁺ channels at membrane; synaptic cleft labeled (20 nm); postsynaptic membrane with ligand-gated ion channels (receptors); arrows showing: action potential arrives → Ca²⁺ enters → vesicles fuse (exocytosis) → neurotransmitter released into cleft → diffuses to receptors → ion channels open → postsynaptic potential; student should trace the complete electrical-to-chemical-to-electrical conversion. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/15-the-nervous-system-and-nervous-tissue-fig-04.html`
+
+---
+
+### Figure 15.5 — LTP mechanism 
+
+Create a standalone D3 v7 HTML file for Figure LTP mechanism . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: LTP mechanism — two panels side by side; left panel (before LTP): presynaptic neuron releases glutamate, NMDA receptors on postsynaptic membrane blocked by Mg²⁺ (postsynaptic not depolarized), only AMPA receptors open, small EPSP results; right panel (during/after LTP): presynaptic fires while postsynaptic is already depolarized, Mg²⁺ block removed from NMDA receptor, Ca²⁺ enters via NMDA, Ca²⁺ triggers insertion of additional AMPA receptors into postsynaptic membrane, same presynaptic firing now produces larger EPSP; student should see the coincidence-detection logic: NMDA opens only when both neurons are active simultaneously. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables an
+
+> Reference implementation: `d3/15-the-nervous-system-and-nervous-tissue-fig-05.html`

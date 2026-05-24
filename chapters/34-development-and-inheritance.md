@@ -25,7 +25,8 @@ The egg nucleus, which has been suspended in meiosis II since before ovulation, 
 
 The zygote divides, and its daughters divide, but at first they do not grow. The total mass stays roughly constant: the original volume of the egg distributed among increasingly many, increasingly small cells. By day three, the cluster is a morula — about 16 cells, still free-floating, roughly the size of a dust particle, living on secretions from the uterine lining. By day five, it is a blastocyst: 100 or so cells divided into two populations. The outer shell — the trophoblast — will become the placenta and fetal membranes. The inner cell mass, a clump of about 30 cells pressed against one side of the hollow sphere, will become the embryo itself.
 
-<!-- → [DIAGRAM: developmental sequence from fertilization through blastocyst — show zygote (day 0), 2-cell (day 1), morula (~day 3, solid ball of 16 cells), blastocyst (day 5, labeled trophoblast and inner cell mass), and implanting blastocyst (day 7–8, burrowing into endometrium); include a scale bar and day labels; caption: "the early embryo does not grow — it subdivides; the same volume that was the egg is divided into increasingly small cells until implantation, when the endometrium begins providing nutrients"] -->
+![the early embryo does not grow — it subdivides; the same volume that was the egg is divided into increasingly small cells until implantation, when the endometrium begins providing nutrients](images/34-development-and-inheritance-fig-01.png)
+*Figure 34.1 — Developmental sequence from fertilization through blastocyst *
 
 At the end of the first week, the blastocyst presses against the uterine wall and adheres. The trophoblast cells release enzymes that digest the endometrial tissue, and the blastocyst burrows in. Roughly half to three-quarters of blastocysts fail at this step — the endometrium is not receptive, or the blastocyst itself has an undetectable defect, or the timing is wrong. When implantation succeeds, the trophoblast fuses into a syncytium — a single continuous mass of cytoplasm containing many nuclei — that continues digesting maternal tissue and anchoring the embryo. This syncytiotrophoblast begins secreting human chorionic gonadotropin (hCG). hCG travels to the corpus luteum — the transient endocrine structure left behind when the follicle ruptured at ovulation — and tells it: keep making progesterone. Without progesterone, the uterus would shed its lining. With it, the lining is maintained. A pregnancy test detects the hCG itself, which is present in urine at high enough concentrations by about day 12.
 
@@ -39,7 +40,8 @@ Around week 3, something happens that determines what every cell in your body wi
 
 The division of fate is almost complete at this moment. Ectoderm cells will become your entire nervous system, your skin, your eyes, your ears, the lens of your eye, the enamel of your teeth. Mesoderm cells will become your muscles, your skeleton, your heart, your kidneys, your blood vessels, your connective tissue. Endoderm cells will become the lining of your gut, your liver, your pancreas, your lungs, your bladder. Every cell in every tissue in your body descends from one of these three layers.
 
-<!-- → [DIAGRAM: gastrulation cross-section — show the flat embryonic disc with the primitive streak groove at the center, arrows indicating cells migrating inward and spreading laterally; label the three resulting layers (ectoderm on top, mesoderm in middle, endoderm below); in a separate column list the adult derivatives of each layer; caption: "gastrulation is fate determination at scale — three cell populations, one for each layer, produce every tissue in the body; which layer a cell ends up in at week 3 decides its entire future"] -->
+![gastrulation is fate determination at scale — three cell populations, one for each layer, produce every tissue in the body; which layer a cell ends up in at week 3 decides its entire future](images/34-development-and-inheritance-fig-02.png)
+*Figure 34.2 — Gastrulation cross-section *
 
 The transformation is driven not by external force but by cell signaling — molecules secreted by one cell population that change the behavior of neighboring cells. The notochord, a rod-shaped structure forming along the embryo's midline, secretes sonic hedgehog protein, which in a gradient tells the cells above it what to become. Wnt proteins, fibroblast growth factors, and dozens of other signaling molecules establish gradients that cells read and respond to by activating different sets of genes. Each cell is essentially asking: what is my chemical environment, and what should I do given that environment? The answer changes depending on where the cell sits relative to the sources of these signals.
 
@@ -63,7 +65,8 @@ Weeks 31 through 40: fat accumulates under the skin. The fetus gains roughly 200
 
 The fetal circulation is an engineering solution to a problem: the fetus cannot breathe, so the lungs are useless as an oxygenation organ, yet a cardiovascular system must function. Oxygenated blood arrives from the placenta via the umbilical vein. Much of it bypasses the liver through the ductus venosus — a shunt that allows blood to flow directly to the inferior vena cava. This blood reaches the right atrium, where most of it passes through the foramen ovale — a flap-like hole in the wall between the right and left atria — directly into the left atrium, then to the left ventricle, then to the aorta and the brain. Blood that does go to the right ventricle would normally flow to the lungs through the pulmonary trunk, but another shunt, the ductus arteriosus, connects the pulmonary trunk to the aorta, diverting that blood away from the lungs and into the systemic circulation.
 
-<!-- → [DIAGRAM: fetal circulation — show heart chambers and great vessels; label the three shunts (ductus venosus, foramen ovale, ductus arteriosus) with arrows indicating direction of blood flow in fetal life; use color coding for oxygenated (red) vs. deoxygenated (blue) blood; show that oxygenated blood from the placenta reaches the left heart and brain preferentially; caption: "the fetal cardiovascular system is optimized to bypass two non-functional organs (lungs and liver) and deliver oxygenated blood from the placenta to the brain — all three shunts close within hours of the first breath"] -->
+![the fetal cardiovascular system is optimized to bypass two non-functional organs (lungs and liver) and deliver oxygenated blood from the placenta to the brain — all three shunts close within hours of the first breath](images/34-development-and-inheritance-fig-03.png)
+*Figure 34.3 — Fetal circulation *
 
 The result: oxygenated blood reaches the brain and heart before it can be diluted with poorly oxygenated blood from the non-functional lungs. The system is optimized for a fetus with a placenta, not a fetus with lungs.
 
@@ -81,7 +84,8 @@ Gregor Mendel, working with pea plants in the 1860s, established the mathematica
 
 The mathematics is straightforward. If both parents are heterozygous carriers (call the dominant allele A and the recessive allele a), each parent produces two types of gametes: A and a. The possible combinations in offspring are AA, Aa, Aa, and aa — in proportions 1:2:1. AA and both Aa genotypes produce the dominant phenotype. Only aa produces the recessive phenotype. Three-quarters dominant, one-quarter recessive — Mendel's ratio.
 
-<!-- → [DIAGRAM: Punnett square for Aa × Aa cross — 2×2 grid showing the four possible offspring genotypes (AA, Aa, Aa, aa); highlight the three dominant-phenotype cells in one color and the one recessive cell in another; below the square, show phenotype ratio 3:1 and genotype ratio 1:2:1; include a second Punnett square for an X-linked trait cross (carrier female XᴬX × normal male XY) showing affected son, carrier daughter, normal son, normal daughter; caption: "the Punnett square shows why recessive traits disappear for a generation and reappear — the Aa genotype is invisible but carries the allele forward"] -->
+![the Punnett square shows why recessive traits disappear for a generation and reappear — the Aa genotype is invisible but carries the allele forward](images/34-development-and-inheritance-fig-04.png)
+*Figure 34.4 — Punnett square for Aa × Aa cross *
 
 But this ratio appears reliably only across large numbers. In a family with four children, the most likely outcome is three dominant and one recessive — but families with four recessives or four dominants are not rare, because each conception is independent. The dice have no memory. A couple who are both carriers of cystic fibrosis and have already had three unaffected children face exactly 25 percent probability with their fourth child. The prior outcomes provide no immunity.
 
@@ -134,3 +138,82 @@ You are the temporary product of permanent instructions, shuffled anew each gene
 **Challenge**
 
 10. Sickle cell trait (one normal allele, one sickle allele — genotype HbA/HbS) confers partial resistance to malaria caused by *Plasmodium falciparum*. The frequency of the HbS allele is much higher in populations from malaria-endemic regions of sub-Saharan Africa than in populations from non-endemic regions. Using Hardy-Weinberg logic and what you know about heterozygote advantage, construct an argument for why natural selection would maintain a deleterious allele (HbS causes severe disease in homozygotes) at high frequency in a malaria-endemic population — and predict what would happen to HbS frequency over many generations if malaria were eradicated from that region.
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — The polyspermy block as urgent engineering.** Ask a language model to explain why a normal sperm-egg fusion triggers a cascade of changes within seconds that prevents additional sperm from fertilizing the same egg. Walk through the cortical reaction: cortical granules release enzymes that modify the zona pellucida, blocking further sperm binding. Why is this so urgent? Because polyspermy produces a triploid zygote that cannot develop normally — the cell cycle is built for diploid chromosome counts, and three sets of chromosomes cause segregation failure during early divisions.
+
+**Exercise 2 — Gastrulation and the establishment of body plan.** Ask a language model to explain why gastrulation — the embryonic process that establishes the three germ layers (ectoderm, mesoderm, endoderm) — is sometimes called the most important event in development. Walk through what each germ layer becomes: ectoderm → skin and nervous system; mesoderm → muscle, bone, blood, kidneys, gonads; endoderm → digestive tract lining and lungs. Then ask: why does failure during gastrulation typically cause early miscarriage rather than birth defects? Because gastrulation defines the basic body plan that all subsequent development depends on — failure here is unrecoverable.
+
+**Exercise 3 — Teratogens and critical periods.** Ask a language model to explain why thalidomide caused devastating limb defects when taken between weeks 4-8 of pregnancy but had less effect at other times. Walk through the concept of critical periods: each developing organ has a narrow window of vulnerability when its formation can be disrupted. Why do teratogens often have no effect before implantation (~week 2) and decreasing effects after organogenesis (~week 8)? The answer is that early embryos are either killed entirely (all-or-nothing response) or lose damaged cells without phenotype, while late development is more about growth and refinement than initial structure formation.
+
+**Exercise 4 — Mendelian inheritance with realistic complications.** Ask a language model to explain why most human traits are not classically Mendelian. Walk through the complications: incomplete dominance (heterozygous phenotype intermediate), codominance (both alleles expressed simultaneously, like ABO blood types), polygenic inheritance (height, skin color), epistasis (one gene affecting another's expression), and pleiotropy (one gene affecting multiple traits). Then ask: what genetic counseling implications follow from these complications — why is "this trait runs in families" hard to translate into specific risk numbers?
+
+**Exercise 5 — Mitochondrial inheritance as exception.** Ask a language model to explain why mitochondrial DNA is inherited only from the mother (sperm contribute nuclear DNA but not mitochondria — the few sperm mitochondria that enter the egg are typically destroyed). Walk through the consequences: all children of an affected mother inherit her mitochondrial mutations, but the variable expression depends on heteroplasmy (the proportion of mutant vs. normal mitochondria in any particular cell). Then ask: why does mitochondrial disease often present with neuromuscular and metabolic symptoms specifically? Because tissues with high energy demand (brain, muscle, liver) are most vulnerable to mitochondrial dysfunction.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Nettie Stevens** discovered in 1905 that sex is determined by chromosomes — specifically the X and Y — using mealworm beetles. The credit was largely given to her older colleague E. B. Wilson, who reached a similar conclusion months later. She died of breast cancer at 50.
+
+**Run this:**
+
+```
+Who was Nettie Stevens, and how does her discovery that chromosomes determine sex connect to the development and inheritance concepts we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Nettie Stevens"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through Stevens's 1905 mealworm experiment — what did she look at under the microscope, and what did she see?
+- Ask it to compare the credit Stevens received in 1905 with how the discovery is usually attributed today.
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 34.1 — Developmental sequence from fertilization through blastocyst 
+
+Create a standalone D3 v7 HTML file for Figure Developmental sequence from fertilization through blastocyst . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: developmental sequence from fertilization through blastocyst — show zygote (day 0), 2-cell (day 1), morula (~day 3, solid ball of 16 cells), blastocyst (day 5, labeled trophoblast and inner cell mass), and implanting blastocyst (day 7–8, burrowing into endometrium); include a scale bar and day labels; caption: "the early embryo does not grow — it subdivides; the same volume that was the egg is divided into increasingly small cells until implantation, when the endometrium begins providing nutrients". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/34-development-and-inheritance-fig-01.html`
+
+---
+
+### Figure 34.2 — Gastrulation cross-section 
+
+Create a standalone D3 v7 HTML file for Figure Gastrulation cross-section . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: gastrulation cross-section — show the flat embryonic disc with the primitive streak groove at the center, arrows indicating cells migrating inward and spreading laterally; label the three resulting layers (ectoderm on top, mesoderm in middle, endoderm below); in a separate column list the adult derivatives of each layer; caption: "gastrulation is fate determination at scale — three cell populations, one for each layer, produce every tissue in the body; which layer a cell ends up in at week 3 decides its entire future". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/34-development-and-inheritance-fig-02.html`
+
+---
+
+### Figure 34.3 — Fetal circulation 
+
+Create a standalone D3 v7 HTML file for Figure Fetal circulation . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: fetal circulation — show heart chambers and great vessels; label the three shunts (ductus venosus, foramen ovale, ductus arteriosus) with arrows indicating direction of blood flow in fetal life; use color coding for oxygenated (red) vs. deoxygenated (blue) blood; show that oxygenated blood from the placenta reaches the left heart and brain preferentially; caption: "the fetal cardiovascular system is optimized to bypass two non-functional organs (lungs and liver) and deliver oxygenated blood from the placenta to the brain — all three shunts close within hours of the first breath". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/34-development-and-inheritance-fig-03.html`
+
+---
+
+### Figure 34.4 — Punnett square for Aa × Aa cross 
+
+Create a standalone D3 v7 HTML file for Figure Punnett square for Aa × Aa cross . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Punnett square for Aa × Aa cross — 2×2 grid showing the four possible offspring genotypes (AA, Aa, Aa, aa); highlight the three dominant-phenotype cells in one color and the one recessive cell in another; below the square, show phenotype ratio 3:1 and genotype ratio 1:2:1; include a second Punnett square for an X-linked trait cross (carrier female XᴬX × normal male XY) showing affected son, carrier daughter, normal son, normal daughter; caption: "the Punnett square shows why recessive traits disappear for a generation and reappear — the Aa genotype is invisible but carries the allele forward". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required se
+
+> Reference implementation: `d3/34-development-and-inheritance-fig-04.html`

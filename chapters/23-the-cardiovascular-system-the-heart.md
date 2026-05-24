@@ -13,7 +13,8 @@ The problem is pressure. The lungs are delicate — air sacs separated from capi
 
 The heart's solution is to become two pumps, arranged in series, sharing one electrical signal. The right side — right atrium and right ventricle — collects deoxygenated blood from the body and pushes it to the lungs at low pressure. The left side — left atrium and left ventricle — collects oxygenated blood returning from the lungs and pushes it to the body at high pressure. The wall of the right ventricle is about 3 millimeters thick. The wall of the left ventricle is about 15 millimeters thick. Five times the muscle, because it faces five times the resistance. The anatomy announces the pressure difference before any measurement is taken.
 
-<!-- → [DIAGRAM: cross-section of the heart showing all four chambers — label right atrium, right ventricle, left atrium, left ventricle, pulmonary trunk, aorta, superior and inferior venae cavae, pulmonary veins, and all four valves; highlight the wall thickness difference between right and left ventricle with a measurement callout; use arrows to show direction of blood flow through the pulmonary and systemic circuits; caption: "the wall thickness is the anatomy announcing the pressure difference — 3 mm on the right for 25 mmHg, 15 mm on the left for 120 mmHg"] -->
+![the wall thickness is the anatomy announcing the pressure difference — 3 mm on the right for 25 mmHg, 15 mm on the left for 120 mmHg](images/23-the-cardiovascular-system-the-heart-fig-01.png)
+*Figure 23.1 — Cross-section of the heart showing all four chambers*
 
 The two circuits are in series — the output of the right side becomes the input to the left, and the output of the left becomes the input to the right. This has a critical consequence: both ventricles must eject exactly the same volume per beat. If the left ventricle ejected more blood per cycle than the right, blood would drain from the pulmonary circuit and accumulate in the systemic arteries. If the right ejected more, blood would back up in the lungs. This is not a design goal written into a specification — it is a mechanical constraint. The circuits are physically linked, and the volumes must balance.
 
@@ -27,7 +28,8 @@ Take a single cardiac conductive cell and isolate it — place it in a dish with
 
 The mechanism is in the membrane. Most cells — including the cardiac muscle cells that actually contract — maintain a stable resting potential around −80 to −90 millivolts. They sit at that potential until an external stimulus arrives. Conductive cells are different. They have sodium channels that are never fully closed: sodium leaks continuously inward, and the membrane potential drifts upward from about −60 mV toward −40 mV. This slow upward drift is called the prepotential or spontaneous depolarization. When the membrane reaches about −40 mV, calcium channels open, calcium rushes in, and the cell depolarizes fully — reaching about +15 mV. Potassium channels then open, the cell repolarizes back toward −60 mV, and the cycle begins again. No stimulus required. The next beat is built into the recovery from the last one.
 
-<!-- → [DIAGRAM: action potential trace for a pacemaker cell (SA node) vs. a contractile cell — pacemaker shows the characteristic slowly rising prepotential from -60 mV to -40 mV before the rapid upstroke; contractile cell shows flat resting potential at -90 mV followed by rapid depolarization only when externally triggered; label the prepotential, threshold, rapid depolarization, and repolarization phases on the pacemaker trace; caption: "the pacemaker cell has no stable resting potential — the prepotential is why it fires without being asked, and its slope is what the autonomic system adjusts to change heart rate"] -->
+![the pacemaker cell has no stable resting potential — the prepotential is why it fires without being asked, and its slope is what the autonomic system adjusts to change heart rate](images/23-the-cardiovascular-system-the-heart-fig-02.png)
+*Figure 23.2 — Action potential trace for a pacemaker cell (SA*
 
 The heart contains many populations of these conductive cells, distributed through a circuit from the top of the right atrium down to the tips of both ventricles. Each population can generate its own rhythm. But they do not all generate it at the same rate. The sinoatrial node — a cluster of cells in the wall of the right atrium near where the superior vena cava enters — has the fastest prepotential. It reaches threshold most quickly, typically 60 to 100 times per minute. The atrioventricular node is slower, perhaps 40 to 60 times per minute. The bundle of His and Purkinje fibers are slower still, 20 to 40 times per minute.
 
@@ -39,13 +41,15 @@ The path the electrical impulse takes once the SA node fires is not random diffu
 
 After the AV node, the impulse accelerates. It travels down the bundle of His, splits into left and right bundle branches that run along the interventricular septum, and fans out through the Purkinje fiber network into the ventricular myocardium. The signal reaches the apex — the bottom of the heart — before it reaches the base. This sequencing is not accidental. A ventricle that contracts from the apex upward squeezes blood toward the outflow valves at the base. A ventricle that contracted randomly, or from the base down, would be less efficient at ejecting blood through the aortic and pulmonary valves. The conduction geometry shapes the mechanics.
 
-<!-- → [DIAGRAM: conduction system pathway through the heart — label SA node (right atrium wall), internodal pathways, AV node, bundle of His, left and right bundle branches, and Purkinje fiber network; add timing annotations in milliseconds at each node (SA node: 0 ms, AV node: ~50 ms with a pause label, ventricular apex: ~175 ms, ventricular base: ~225 ms); caption: "the 100 ms AV node delay is not a flaw — it is the gap that lets the atria finish emptying before the ventricles begin contracting"] -->
+![the 100 ms AV node delay is not a flaw — it is the gap that lets the atria finish emptying before the ventricles begin contracting](images/23-the-cardiovascular-system-the-heart-fig-03.png)
+*Figure 23.3 — Conduction system pathway through the heart *
 
 The entire sequence from SA node firing to ventricular depolarization takes about 225 milliseconds — a little less than a quarter of a second. At a resting heart rate of 70 beats per minute, one complete cycle takes about 857 milliseconds. The electrical events occupy roughly a quarter of that; the mechanical events fill the rest.
 
 Electrodes on the skin surface record the summed electrical activity of millions of cells as the wave of depolarization and repolarization sweeps through the heart. The P wave is atrial depolarization. The QRS complex — a rapid three-part deflection — is ventricular depolarization. The T wave is ventricular repolarization. Each represents a mechanical event: P wave signals atrial contraction, QRS signals ventricular contraction, and the interval from QRS to the next P wave encodes heart rate. A prolonged PR interval means the AV node is conducting slowly — perhaps from inflammation or scar tissue. A wide QRS means the impulse is not traveling the normal fast pathways — perhaps a bundle branch has been blocked by ischemia. An absent P wave may mean an ectopic pacemaker in the atria has taken control from the SA node. The pattern on the surface of the body is a map of where the conduction system is intact and where it is not.
 
-<!-- → [DIAGRAM: normal ECG trace with labeled components — P wave, PR interval, QRS complex, ST segment, T wave, and RR interval (one full cardiac cycle); below it show three abnormal traces side by side: prolonged PR interval (AV block), wide QRS (bundle branch block), absent P waves (atrial fibrillation); caption: "the ECG is a map of the conduction system's health — each deviation corresponds to a specific anatomical location where conduction is failing"] -->
+![the ECG is a map of the conduction system's health — each deviation corresponds to a specific anatomical location where conduction is failing](images/23-the-cardiovascular-system-the-heart-fig-04.png)
+*Figure 23.4 — Normal ECG trace with labeled components *
 
 ---
 
@@ -63,7 +67,8 @@ Then the ventricle stops contracting. Pressure inside falls. When it drops below
 
 When ventricular pressure finally drops below atrial pressure, the mitral valve opens again and filling begins. The cycle closes.
 
-<!-- → [DIAGRAM: pressure-volume loop for the left ventricle — x-axis: ventricular volume (mL), y-axis: ventricular pressure (mmHg); trace the loop clockwise through all four phases labeled: (1) filling (bottom right, moving right as volume increases at low pressure); (2) isovolumic contraction (vertical line upward, volume constant); (3) ejection (top, moving left as volume decreases); (4) isovolumic relaxation (vertical line downward, volume constant); mark EDV (~130 mL), ESV (~60 mL), stroke volume (70 mL = EDV - ESV), and the two valve events (mitral valve closes at start of isovolumic contraction, aortic valve opens at end, aortic valve closes at end of ejection, mitral valve opens at end of isovolumic relaxation); caption: "the area enclosed by the loop equals the mechanical work done per beat — a rightward shift signals incomplete ejection; an upward shift signals a stiff ventricle that cannot relax"] -->
+![the area enclosed by the loop equals the mechanical work done per beat — a rightward shift signals incomplete ejection; an upward shift signals a stiff ventricle that cannot relax](images/23-the-cardiovascular-system-the-heart-fig-05.png)
+*Figure 23.5 — Pressure-volume loop for the left ventricle *
 
 Two features of this cycle deserve emphasis. First, the valve closures — not openings — create the heart sounds. When blood flow reverses direction as a valve closes, the turbulence creates the sounds a stethoscope detects. The first sound marks the start of ventricular systole; the second marks its end. The gap between them is systole; the gap from the second sound to the next first sound is diastole.
 
@@ -81,7 +86,12 @@ The second is afterload: the pressure the ventricle must overcome to eject blood
 
 The third is contractility: the intrinsic strength of the muscle at a given preload and afterload. Sympathetic nervous system activation — through norepinephrine and epinephrine — increases contractility directly. The same stroke volume can now be ejected against greater afterload, or a higher fraction of the end-diastolic volume can be ejected. During exercise, sympathetic activation increases both heart rate and contractility simultaneously. The combination of increased preload (from higher venous return), increased heart rate, and increased contractility allows cardiac output to rise fourfold or more above resting levels.
 
-<!-- → [DIAGRAM: Frank-Starling curve — x-axis: end-diastolic volume (mL); y-axis: stroke volume (mL); show the normal curve rising steeply then plateauing; overlay a second curve shifted downward labeled "heart failure" (same EDV produces less stroke volume); overlay a third curve shifted upward labeled "increased contractility/sympathetic activation" (same EDV produces more stroke volume); caption: "the Frank-Starling relationship means the heart automatically matches output to input — but in heart failure the curve shifts down, so the same filling produces less ejection"] -->
+A worked example makes this concrete. At rest, a heart beats 70 times per minute with a stroke volume of 70 milliliters. Cardiac output is 4.9 liters per minute. During maximal exercise, heart rate rises to 180 and stroke volume rises to 130 milliliters. Cardiac output is 23.4 liters per minute — nearly five times the resting value, achieved by recruiting all three variables simultaneously.
+
+There is a ceiling. At very high heart rates — above roughly 180 beats per minute — diastolic filling time becomes so short that the ventricle does not have time to fill before the next contraction begins. Preload drops. Stroke volume falls. Cardiac output plateaus and can even decline. This is why simply having a very fast heart rate is not the same as having a very high cardiac output: the relationship breaks down at the extremes, and a heart racing at 220 beats per minute may deliver less blood per minute than the same heart at 170. The bottleneck is filling, not contraction.
+
+![the Frank-Starling relationship means the heart automatically matches output to input — but in heart failure the curve shifts down, so the same filling produces less ejection](images/23-the-cardiovascular-system-the-heart-fig-06.png)
+*Figure 23.6 — Frank-Starling curve *
 
 ---
 
@@ -142,3 +152,100 @@ The heart that beats 100,000 times per day without instruction is not simple. It
 **Challenge**
 
 10. The Frank-Starling relationship states that increased preload leads to increased stroke volume — up to a point. Beyond a critical end-diastolic volume, further stretching of the myocardium reduces contractile force rather than increasing it (the descending limb of the Starling curve). This is rarely seen clinically in healthy hearts. Using what you know about the molecular basis of actin-myosin cross-bridge cycling and the optimal sarcomere length for force generation, propose a mechanism for why overstretching reduces force — and then propose a reason why the healthy heart's operating range is calibrated to avoid the descending limb under normal physiological conditions.
+
+11. A drug is developed that selectively blocks the funny current (Iₓ) — the sodium leak channels responsible for the pacemaker prepotential — in SA node cells but has no effect on AV node or Purkinje fiber channels. At a low dose, the drug slows the SA node's prepotential slope, reducing heart rate from 75 to 55 bpm without affecting contractility. At a high dose, the SA node no longer reaches threshold at all. Predict what happens to heart rhythm at the high dose: (a) which pacemaker takes over, (b) at what rate, (c) what the QRS complex would look like on an ECG if the AV node becomes the pacemaker vs. if the Purkinje fibers become the pacemaker, and (d) why the P wave would disappear or change. Explain each prediction from the mechanism of overdrive suppression and the conduction pathway anatomy. (This drug class — ivabradine — is in clinical use for selectively reducing heart rate in heart failure without the broader effects of beta-blockers.)
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — The pacemaker problem.** Ask a language model to explain why the SA node sets the heart rate even though many cardiac cells (atrial and ventricular conducting cells) can also generate spontaneous action potentials. The answer is the fastest pacemaker dominates: the SA node's intrinsic rate (~100/min) exceeds the AV node's (~50/min) and the Purkinje fiber rate (~30-40/min). Then ask: what happens when the SA node fails (sick sinus syndrome)? The next-fastest pacemaker takes over, but the resulting rate is too slow for normal activity, requiring an artificial pacemaker.
+
+**Exercise 2 — The cardiac cycle as pressure-volume loops.** Ask a language model to walk through one cardiac cycle in terms of left ventricular pressure and volume: filling (low pressure, increasing volume) → isovolumic contraction (rising pressure, no volume change) → ejection (high pressure, decreasing volume) → isovolumic relaxation (falling pressure, no volume change). Then ask: how does the pressure-volume loop change in heart failure (reduced contractility) vs. hypertension (increased afterload)? Each pathology shifts a specific portion of the loop, with predictable clinical consequences.
+
+**Exercise 3 — Frank-Starling and the volume-matching constraint.** Ask a language model to explain the Frank-Starling law: within physiological limits, the more the ventricle is stretched (greater preload), the more forcefully it contracts. Why is this elegant from a control-systems perspective? It automatically matches output to input — if more blood arrives in the ventricle, more blood is ejected, without requiring any external regulation. Then ask: how does this self-regulation maintain the volume balance between the two ventricles? If the right side ejects more on a particular beat, the left side receives more and ejects more on the next beat, restoring balance.
+
+**Exercise 4 — Ejection fraction as clinical metric.** Ask a language model to define ejection fraction (stroke volume / end-diastolic volume) and explain its normal range (~55-70%). Then ask: a patient has an EF of 30%. Walk through what this means physiologically — the ventricle is filling normally but ejecting only 30% of what it contains, accumulating residual volume. Why does this lead to dilation, increased wall stress, and progressive failure? The answer is the cycle: residual volume → dilation → reduced contractility → less ejection → more residual → continuing dilation.
+
+**Exercise 5 — Why the autonomic system controls rate but not contractility precisely.** Ask a language model to compare how the sympathetic and parasympathetic systems modulate cardiac function. Sympathetic input increases both rate (via SA node beta-1 receptors) and contractility (via ventricular beta-1 receptors). Parasympathetic input primarily decreases rate (via SA node M2 receptors) with minimal effect on ventricular contractility. Then ask: why does this asymmetric design make sense — why doesn't the parasympathetic system also reduce ventricular contractility? The answer is that contractility control is metabolically expensive and rarely needed below resting levels; rate control alone is sufficient for most regulatory needs.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Helen Brooke Taussig** founded pediatric cardiology — diagnosing congenital heart defects by stethoscope and fluoroscope, and co-developing the Blalock–Taussig shunt in 1944 that saved "blue babies." She lost most of her hearing partway through her career and read patients' hearts with her fingertips.
+
+**Run this:**
+
+```
+Who was Helen Brooke Taussig, and how does her work on congenital heart defects and the Blalock–Taussig shunt connect to the heart anatomy and circulation we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about her career or ideas.
+```
+
+→ Search **"Helen B. Taussig"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to explain Tetralogy of Fallot — the "blue baby" defect — using the chambers and vessels you learned in this chapter, and show what the Blalock–Taussig shunt rerouted.
+- Add a constraint: "Answer as Taussig's 1944 case note for the first blue-baby patient to receive the shunt."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 23.1 — Cross-section of the heart showing all four chambers
+
+Create a standalone D3 v7 HTML file for Figure Cross-section of the heart showing all four chambers. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section of the heart showing all four chambers — label right atrium, right ventricle, left atrium, left ventricle, pulmonary trunk, aorta, superior and inferior venae cavae, pulmonary veins, and all four valves; highlight the wall thickness difference between right and left ventricle with a measurement callout; use arrows to show direction of blood flow through the pulmonary and systemic circuits; caption: "the wall thickness is the anatomy announcing the pressure difference — 3 mm on the right for 25 mmHg, 15 mm on the left for 120 mmHg". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/23-the-cardiovascular-system-the-heart-fig-01.html`
+
+---
+
+### Figure 23.2 — Action potential trace for a pacemaker cell (SA
+
+Create a standalone D3 v7 HTML file for Figure Action potential trace for a pacemaker cell (SA. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: action potential trace for a pacemaker cell (SA node) vs. a contractile cell — pacemaker shows the characteristic slowly rising prepotential from -60 mV to -40 mV before the rapid upstroke; contractile cell shows flat resting potential at -90 mV followed by rapid depolarization only when externally triggered; label the prepotential, threshold, rapid depolarization, and repolarization phases on the pacemaker trace; caption: "the pacemaker cell has no stable resting potential — the prepotential is why it fires without being asked, and its slope is what the autonomic system adjusts to change heart rate". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variabl
+
+> Reference implementation: `d3/23-the-cardiovascular-system-the-heart-fig-02.html`
+
+---
+
+### Figure 23.3 — Conduction system pathway through the heart 
+
+Create a standalone D3 v7 HTML file for Figure Conduction system pathway through the heart . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: conduction system pathway through the heart — label SA node (right atrium wall), internodal pathways, AV node, bundle of His, left and right bundle branches, and Purkinje fiber network; add timing annotations in milliseconds at each node (SA node: 0 ms, AV node: ~50 ms with a pause label, ventricular apex: ~175 ms, ventricular base: ~225 ms); caption: "the 100 ms AV node delay is not a flaw — it is the gap that lets the atria finish emptying before the ventricles begin contracting". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/23-the-cardiovascular-system-the-heart-fig-03.html`
+
+---
+
+### Figure 23.4 — Normal ECG trace with labeled components 
+
+Create a standalone D3 v7 HTML file for Figure Normal ECG trace with labeled components . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: normal ECG trace with labeled components — P wave, PR interval, QRS complex, ST segment, T wave, and RR interval (one full cardiac cycle); below it show three abnormal traces side by side: prolonged PR interval (AV block), wide QRS (bundle branch block), absent P waves (atrial fibrillation); caption: "the ECG is a map of the conduction system's health — each deviation corresponds to a specific anatomical location where conduction is failing". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/23-the-cardiovascular-system-the-heart-fig-04.html`
+
+---
+
+### Figure 23.5 — Pressure-volume loop for the left ventricle 
+
+Create a standalone D3 v7 HTML file for Figure Pressure-volume loop for the left ventricle . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: pressure-volume loop for the left ventricle — x-axis: ventricular volume (mL), y-axis: ventricular pressure (mmHg); trace the loop clockwise through all four phases labeled: (1) filling (bottom right, moving right as volume increases at low pressure); (2) isovolumic contraction (vertical line upward, volume constant); (3) ejection (top, moving left as volume decreases); (4) isovolumic relaxation (vertical line downward, volume constant); mark EDV (~130 mL), ESV (~60 mL), stroke volume (70 mL = EDV - ESV), and the two valve events (mitral valve closes at start of isovolumic contraction, aortic valve opens at end, aortic valve closes at end of ejection, mitral valve opens at end of isovolumic relaxation); caption: "the area enclosed by the loop equals the mechanical work done per beat — a rightward shift signals incomplete ejection; an upward shift signals a stiff ventricle that cannot relax". U
+
+> Reference implementation: `d3/23-the-cardiovascular-system-the-heart-fig-05.html`
+
+---
+
+### Figure 23.6 — Frank-Starling curve 
+
+Create a standalone D3 v7 HTML file for Figure Frank-Starling curve . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Frank-Starling curve — x-axis: end-diastolic volume (mL); y-axis: stroke volume (mL); show the normal curve rising steeply then plateauing; overlay a second curve shifted downward labeled "heart failure" (same EDV produces less stroke volume); overlay a third curve shifted upward labeled "increased contractility/sympathetic activation" (same EDV produces more stroke volume); caption: "the Frank-Starling relationship means the heart automatically matches output to input — but in heart failure the curve shifts down, so the same filling produces less ejection". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/23-the-cardiovascular-system-the-heart-fig-06.html`

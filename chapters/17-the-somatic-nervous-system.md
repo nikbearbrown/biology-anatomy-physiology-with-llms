@@ -19,17 +19,23 @@ The simplest receptors are *free nerve endings*: the bare terminals of sensory a
 
 Pain receptors — nociceptors — are also free nerve endings, but tuned differently. They fire when chemicals released by damaged cells arrive: potassium leaking from ruptured cell membranes, ATP spilling into the extracellular space, prostaglandins and bradykinin produced by the inflammatory response. The sensation of pain is not the damage itself; it is the nociceptor's response to evidence of damage. This is why pain often outlasts the injury — the wound stops bleeding, but the damaged cells continue leaking inflammatory chemicals for hours. And it is why some anti-inflammatory drugs reduce pain: they block prostaglandin synthesis, removing one of the chemical triggers that keeps the nociceptors firing.
 
-<!-- → [DIAGRAM: free nerve ending in skin cross-section — show axon terminal branching among keratinocytes in the epidermis and dermis; small inset showing TRPV2 channel in membrane with heat arrow activating it, and a separate inset showing capsaicin binding the same channel; caption: "the receptor doesn't distinguish between real heat and chemical imitation of heat — it responds to the channel opening, not to the underlying cause"] -->
+![the receptor doesn't distinguish between real heat and chemical imitation of heat — it responds to the channel opening, not to the underlying cause](images/17-the-somatic-nervous-system-fig-01.png)
+*Figure 17.1 — Free nerve ending in skin cross-section *
 
 The encapsulated receptors are more sophisticated. A Meissner corpuscle — found just below the epidermis in fingertips, lips, and other highly sensitive areas — is a nerve ending wrapped in layers of connective tissue. The capsule filters the stimulus: the Meissner corpuscle responds to light touch and motion but not to sustained, unchanging pressure. A Pacinian corpuscle is even more elaborately encapsulated, with dozens of concentric layers of connective tissue separated by fluid. When you press on it, the outer layers compress, but fluid redistributes and the inner layers are shielded from sustained pressure. The Pacinian corpuscle responds only to the onset and release of pressure, and to vibration — it fires at the beginning when you grip the handle, then falls silent, then fires again when you release. It is detecting change, not steady state. The capsule is doing work; it is a mechanical filter built into the receptor itself.
 
-<!-- → [DIAGRAM: comparison of Meissner vs. Pacinian corpuscle cross-sections — Meissner shown just below epidermis with lamellated connective tissue capsule; Pacinian shown deeper in dermis with many more concentric layers; indicate depth from skin surface and the stimulus each is tuned to; caption: "both are mechanoreceptors, but the capsule architecture makes one a texture detector and the other a vibration and onset detector — structure is function"] -->
+![both are mechanoreceptors, but the capsule architecture makes one a texture detector and the other a vibration and onset detector — structure is function](images/17-the-somatic-nervous-system-fig-02.png)
+*Figure 17.2 — Comparison of Meissner vs*
 
 Proprioceptors — the position sensors — deserve special attention because they are so central to coordinated movement. *Muscle spindles* are sensory neurons wrapped helically around specialized muscle fibers called intrafusal fibers. When the muscle is passively stretched, the spindle stretches with it and fires. When the muscle contracts and shortens, the spindle goes slack and falls silent. The brain reads the pattern of spindle firing and constructs, continuously, a map of where every limb is and whether it is moving. *Golgi tendon organs* are sensory endings woven into tendons, positioned to detect tension: how hard the muscle is pulling. Together, muscle spindles and Golgi tendon organs give the nervous system moment-to-moment knowledge of the mechanical state of every muscle — not just position but load.
 
 The functional organization across all these receptor types follows a single principle: specificity. Each receptor type is exquisitely sensitive to its own stimulus and relatively insensitive to others. A photoreceptor in the retina can fire in response to a handful of photons but will not respond to touch or sound. A thermoreceptor detects a temperature change of less than 1°C but ignores pressure. This specificity is what allows the brain to know what kind of stimulus is present, not just that something happened. The cost of specificity is redundancy — you need multiple receptor types to cover the full range of possible stimuli, and the skin of your fingertip has at least four different mechanoreceptor types because touch can be light, vibratory, sustained, or movement of hair, and each requires a different kind of detector.
 
-<!-- → [TABLE: sensory receptor summary — columns: receptor name, structural type (free/encapsulated/specialized), stimulus detected, location in body, functional role; rows: free nerve endings (thermoreceptor), free nerve endings (nociceptor), Meissner corpuscle, Pacinian corpuscle, muscle spindle, Golgi tendon organ — a reference the student will use throughout the chapter and in clinical contexts] -->
+| receptor name | structural type (free | encapsulated | specialized) | stimulus detected |
+| --- | --- | --- | --- | --- |
+| free nerve endings (thermoreceptor | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| free nerve endings (nociceptor | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| Meissner corpuscle, Pacinian corpuscle, muscle spindle, Golgi tendon organ | a reference the student will use throughout the chapter and in clinical contexts | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 ---
 
@@ -47,7 +53,8 @@ This pathway — dorsal column to medial lemniscus to cortex — is the pathway 
 
 The spinothalamic tract crosses in the spinal cord, not the medulla. That reverses the clinical picture: if you damage the spinothalamic tract in the spinal cord, you lose pain and temperature on the *opposite side* from the damage, because those fibers have already crossed at the level they entered.
 
-<!-- → [DIAGRAM: spinal cord cross-section at mid-thoracic level showing both pathways — on the left half of the cord, show a dorsal column axon ascending uncrossed with label "fine touch/proprioception — crosses in medulla"; on the right half, show a spinothalamic axon crossing immediately in the gray matter with label "pain/temperature — crosses at entry level"; use color coding to distinguish the two pathways; caption: "the level of decussation is the anatomical fact that makes Brown-Séquard syndrome diagnosable — one pathway has crossed, the other hasn't, and their different sides tell you which was damaged"] -->
+![the level of decussation is the anatomical fact that makes Brown-Séquard syndrome diagnosable — one pathway has crossed, the other hasn't, and their different sides tell you which was damaged](images/17-the-somatic-nervous-system-fig-03.png)
+*Figure 17.3 — Spinal cord cross-section at mid-thoracic level showing both*
 
 Why build two pathways? The answer is in what each carries and what each needs to do. Fine touch and proprioception require precision: you need to know exactly where on your hand is being touched, what texture the surface has, what angle your elbow is at. These are questions that demand careful spatial preservation of signal. The dorsal column achieves this by climbing all the way to the medulla before synapsing — fewer synapses means less opportunity for spatial information to be degraded. Pain and temperature, by contrast, are warning signals. They need to reach consciousness fast and grab attention. The spinothalamic tract crosses and climbs quickly. It also has more direct connections to the reticular activating system and the limbic system — the brain structures that mediate arousal and emotional response. Pain hijacks attention in a way that light touch does not, and the pathway reflects that priority.
 
@@ -57,7 +64,8 @@ A partial spinal cord lesion — hemisection of the cord, sometimes called Brown
 
 The result: below the lesion, same side loses fine touch and proprioception; opposite side loses pain and temperature. The anatomy of the two pathways, written in the pattern of loss.
 
-<!-- → [DIAGRAM: Brown-Séquard syndrome schematic — show a cord hemisected on the right side; use color-coded arrows to trace: (1) right dorsal column fibers cut → ipsilateral loss of fine touch/proprioception below; (2) right spinothalamic ascending fibers (originally from left, already crossed) cut → contralateral loss of pain/temperature below; (3) left dorsal column intact → left fine touch preserved; (4) left spinothalamic (already crossed to right, but cut) → left pain/temperature lost; caption: "Brown-Séquard is the anatomy exam you take without studying — if you know where each pathway crosses, the pattern of loss follows inevitably"] -->
+![Brown-Séquard is the anatomy exam you take without studying — if you know where each pathway crosses, the pattern of loss follows inevitably](images/17-the-somatic-nervous-system-fig-04.png)
+*Figure 17.4 — Brown-Séquard syndrome schematic *
 
 ---
 
@@ -71,7 +79,8 @@ The sensory system reports the state of the world. The motor system acts on it. 
 
 Lower motor neurons also maintain the health of muscle tissue. They continuously release neurotrophic factors — proteins that keep muscle fibers alive and functioning. If a lower motor neuron is severed, the muscle fiber it supplies does not just lose the ability to contract; it begins to atrophy. Over weeks to months, denervated muscle wastes away. This is not disuse atrophy from being inactive; it is the loss of chemical signals the fiber needs to survive.
 
-<!-- → [DIAGRAM: full motor pathway from cortex to muscle — show: (1) upper motor neuron cell body in precentral gyrus; (2) axon descending through internal capsule and brainstem; (3) pyramidal decussation in medulla (label "most fibers cross here"); (4) corticospinal tract in lateral white matter of spinal cord; (5) synapse onto lower motor neuron in ventral horn; (6) lower motor neuron axon exiting via ventral root and peripheral nerve; (7) neuromuscular junction on muscle fiber; caption: "the upper motor neuron commands; the lower motor neuron executes — and only the lower motor neuron can make the muscle contract"] -->
+![the upper motor neuron commands; the lower motor neuron executes — and only the lower motor neuron can make the muscle contract](images/17-the-somatic-nervous-system-fig-05.png)
+*Figure 17.5 — Full motor pathway from cortex to muscle *
 
 The contrast between upper and lower motor neuron lesions is one of the most useful patterns in clinical neurology. Damage to the upper motor neurons — from a stroke affecting the motor cortex, or from a lesion in the corticospinal tract — produces a characteristic picture. The paralysis is contralateral (because the corticospinal tract has decussated). The affected muscles have increased tone — spasticity — and the deep tendon reflexes are exaggerated. The muscles do not waste away. The reason for the spasticity and hyperreflexia is that upper motor neurons provide continuous inhibitory control over the lower motor neurons. When that inhibition is removed, the lower motor neurons become hyperexcitable. Remove the ceiling and the floor rises.
 
@@ -79,7 +88,13 @@ Damage to the lower motor neurons — from poliomyelitis destroying the ventral 
 
 Spasticity or flaccidity, hyperreflexia or hyporeflexia, intact muscle bulk or atrophy: these contrasting features allow a clinician to locate the level of damage in the nervous system from the bedside. A patient who comes in after a stroke with right-sided weakness, stiff limbs, and brisk reflexes has an upper motor neuron lesion — probably in the left motor cortex or left corticospinal tract. A patient with progressive weakness, wasting of the hand muscles, and absent reflexes has a lower motor neuron lesion — probably in the spinal cord ventral horn or in peripheral nerves. The same muscle, immobilized, but for entirely different reasons, with entirely different implications.
 
-<!-- → [TABLE: upper vs. lower motor neuron lesion comparison — columns: feature, upper motor neuron lesion, lower motor neuron lesion; rows: side of weakness (contralateral vs. ipsilateral), muscle tone (spasticity vs. flaccidity), reflexes (hyperreflexia vs. hyporeflexia/areflexia), muscle bulk (preserved vs. atrophy), example disease (stroke/MS vs. polio/peripheral nerve injury) — the table that makes the bedside exam interpretable] -->
+| feature | upper motor neuron lesion | lower motor neuron lesion |
+| --- | --- | --- |
+| side of weakness (contralateral vs. ipsilateral | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| muscle tone (spasticity vs. flaccidity | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| reflexes (hyperreflexia vs. hyporeflexia | areflexia | A concrete checkpoint for applying the chapter concept. |
+| muscle bulk (preserved vs. atrophy | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
+| example disease (stroke | MS vs. polio | peripheral nerve injury) |
 
 The corticospinal system is the most recently evolved motor pathway and the most capable. It allows independent, precise movement of individual fingers — something impossible with the older motor systems. But its precision comes with fragility: the entire pathway runs in a single tract, and damage anywhere along it produces paralysis. The older motor systems — vestibulospinal and reticulospinal tracts — are more diffuse, bilaterally distributed, and control gross movements: posture, balance, coordinated limb movement. They are less capable of fine manipulation but more resistant to injury. A patient with complete corticospinal tract damage can still make some postural adjustments and gross movements because the older systems remain. The newer system was added on top of the old one, not as a replacement.
 
@@ -91,7 +106,8 @@ The spinal reflex is the simplest complete circuit in the somatic nervous system
 
 The reflex arc exists because some responses cannot wait for cortical deliberation. If you step on a sharp object, the withdrawal reflex fires before conscious pain is registered. The spinal cord is doing emergency triage. Importantly, the same sensory signal that activates the withdrawal reflex also travels upward to the brain — the two routes run simultaneously. The reflex acts; the brain learns what happened.
 
-<!-- → [DIAGRAM: monosynaptic reflex arc for the knee-jerk reflex — show: patellar tendon struck → quadriceps stretches → muscle spindle fires → dorsal root ganglion → single synapse onto motor neuron in ventral horn → motor neuron fires → quadriceps contracts; add a branch showing the same sensory signal continuing upward to the brain (dotted line); caption: "the reflex closes in the spinal cord; the brain finds out afterward — this is not a design flaw, it is the point"] -->
+![the reflex closes in the spinal cord; the brain finds out afterward — this is not a design flaw, it is the point](images/17-the-somatic-nervous-system-fig-06.png)
+*Figure 17.6 — Monosynaptic reflex arc for the knee-jerk reflex *
 
 Reflexes can be modified by descending commands from the cortex and brainstem. When a doctor strikes your knee and your leg kicks, the magnitude of the kick depends on the state of your descending motor control. An upper motor neuron lesion removes inhibitory control and produces an exaggerated reflex. A lower motor neuron lesion damages the reflex arc directly and reduces or eliminates the reflex. Testing reflexes at the bedside is testing the integrity of both the spinal circuit and the descending control.
 
@@ -138,3 +154,98 @@ The patterns of deficit from specific lesions — Brown-Séquard syndrome, upper
 **Challenge**
 
 10. Phantom limb pain — pain perceived in an amputated limb — occurs in the absence of any nociceptor input from the missing limb. Using what you know about the somatosensory cortex, somatotopic organization, and the relationship between peripheral input and cortical representation, propose a mechanism that could generate pain perception without peripheral nociceptor firing. What prediction does your mechanism make about what you would find if you imaged the brain of a phantom limb pain patient?
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Why two pathways for somatosensation.** Ask a language model to explain why touch and proprioception travel up the dorsal column-medial lemniscal pathway, while pain and temperature travel up the spinothalamic pathway. Specifically: why do these two pathways cross the midline at different levels (medulla for the dorsal column, spinal cord for the spinothalamic)? Then ask: how does this anatomical difference produce the clinical pattern in Brown-Séquard syndrome (hemisection of the spinal cord), where the patient loses position sense on one side and pain sensation on the other? Force the model to reason from anatomy to clinical presentation, not just describe each pathway separately.
+
+**Exercise 2 — Two-point discrimination and homunculus mapping.** Ask a language model to explain why the fingertips and lips can distinguish two points only 2 mm apart, while the back of the body requires 40-50 mm of separation. Walk through the receptor density and cortical representation: the homunculus in the somatosensory cortex disproportionately devotes area to high-resolution body parts. Then ask: why does this mismatch between body area and cortical area exist? The answer reveals that the brain prioritizes high-resolution sensing where it matters for behavior — manipulation, social communication — over uniform body coverage.
+
+**Exercise 3 — Upper motor neuron vs. lower motor neuron lesions.** Ask a language model to compare the clinical signs of upper motor neuron lesion (e.g., stroke affecting motor cortex) with lower motor neuron lesion (e.g., poliomyelitis affecting anterior horn cells). Specifically: why does UMN lesion produce hyperreflexia and spasticity, while LMN lesion produces flaccid paralysis and atrophy? Trace the mechanism: UMN normally inhibits spinal reflex circuits; without that inhibition, reflexes become exaggerated. LMN provides the only motor signal to muscle; without it, the muscle has no input at all. Then ask: how would a neurologist distinguish the two from physical exam alone?
+
+**Exercise 4 — The reflex arc as decision-free response.** Ask a language model to explain why the patellar reflex (knee jerk) does not require the brain — only the spinal cord. Then push: what is the evolutionary logic for hardwiring some responses below the level of conscious processing? The answer is speed — the brain takes 100+ ms to process and respond, while a spinal reflex can fire in 30-50 ms. Then ask: when would this hardwired response be a problem (when conscious modulation would be better)? Examples include withdrawal reflexes when carrying hot objects you cannot drop, or postural reflexes that conflict with intended movement.
+
+**Exercise 5 — Pain modulation and the gate-control theory.** Ask a language model to explain the gate-control theory of pain (Melzack and Wall, 1965): non-painful sensory input can inhibit painful input at the spinal cord level, before it reaches consciousness. Why does rubbing a stubbed toe genuinely reduce the pain (not just distract from it)? Walk through the mechanism: large myelinated fibers carrying touch input activate inhibitory interneurons that suppress transmission of nociceptive signals. Then ask: what other approaches to pain management (TENS units, acupuncture potentially) exploit this gating mechanism, and why do they work for some patients but not others?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Henry Head** was a British neurologist who, in 1903, had a colleague sever his own radial nerve and then mapped the slow regeneration of sensation over the next four years — producing the first detailed account of how the somatic nervous system rebuilds itself after injury.
+
+**Run this:**
+
+```
+Who was Henry Head, and how does his self-experimentation on nerve regeneration connect to the somatic nervous system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Henry Head"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through what Head felt week-by-week as his radial nerve regrew, and connect it to the sensory pathways you learned in this chapter.
+- Ask it to compare Head's protopathic/epicritic distinction with the modern classification of sensory fibers.
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 17.1 — Free nerve ending in skin cross-section 
+
+Create a standalone D3 v7 HTML file for Figure Free nerve ending in skin cross-section . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: free nerve ending in skin cross-section — show axon terminal branching among keratinocytes in the epidermis and dermis; small inset showing TRPV2 channel in membrane with heat arrow activating it, and a separate inset showing capsaicin binding the same channel; caption: "the receptor doesn't distinguish between real heat and chemical imitation of heat — it responds to the channel opening, not to the underlying cause". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/17-the-somatic-nervous-system-fig-01.html`
+
+---
+
+### Figure 17.2 — Comparison of Meissner vs
+
+Create a standalone D3 v7 HTML file for Figure Comparison of Meissner vs. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: comparison of Meissner vs. Pacinian corpuscle cross-sections — Meissner shown just below epidermis with lamellated connective tissue capsule; Pacinian shown deeper in dermis with many more concentric layers; indicate depth from skin surface and the stimulus each is tuned to; caption: "both are mechanoreceptors, but the capsule architecture makes one a texture detector and the other a vibration and onset detector — structure is function". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/17-the-somatic-nervous-system-fig-02.html`
+
+---
+
+### Figure 17.3 — Spinal cord cross-section at mid-thoracic level showing both
+
+Create a standalone D3 v7 HTML file for Figure Spinal cord cross-section at mid-thoracic level showing both. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: spinal cord cross-section at mid-thoracic level showing both pathways — on the left half of the cord, show a dorsal column axon ascending uncrossed with label "fine touch/proprioception — crosses in medulla"; on the right half, show a spinothalamic axon crossing immediately in the gray matter with label "pain/temperature — crosses at entry level"; use color coding to distinguish the two pathways; caption: "the level of decussation is the anatomical fact that makes Brown-Séquard syndrome diagnosable — one pathway has crossed, the other hasn't, and their different sides tell you which was damaged". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color
+
+> Reference implementation: `d3/17-the-somatic-nervous-system-fig-03.html`
+
+---
+
+### Figure 17.4 — Brown-Séquard syndrome schematic 
+
+Create a standalone D3 v7 HTML file for Figure Brown-Séquard syndrome schematic . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Brown-Séquard syndrome schematic — show a cord hemisected on the right side; use color-coded arrows to trace: (1) right dorsal column fibers cut → ipsilateral loss of fine touch/proprioception below; (2) right spinothalamic ascending fibers (originally from left, already crossed) cut → contralateral loss of pain/temperature below; (3) left dorsal column intact → left fine touch preserved; (4) left spinothalamic (already crossed to right, but cut) → left pain/temperature lost; caption: "Brown-Séquard is the anatomy exam you take without studying — if you know where each pathway crosses, the pattern of loss follows inevitably". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md co
+
+> Reference implementation: `d3/17-the-somatic-nervous-system-fig-04.html`
+
+---
+
+### Figure 17.5 — Full motor pathway from cortex to muscle 
+
+Create a standalone D3 v7 HTML file for Figure Full motor pathway from cortex to muscle . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: full motor pathway from cortex to muscle — show: (1) upper motor neuron cell body in precentral gyrus; (2) axon descending through internal capsule and brainstem; (3) pyramidal decussation in medulla (label "most fibers cross here"); (4) corticospinal tract in lateral white matter of spinal cord; (5) synapse onto lower motor neuron in ventral horn; (6) lower motor neuron axon exiting via ventral root and peripheral nerve; (7) neuromuscular junction on muscle fiber; caption: "the upper motor neuron commands; the lower motor neuron executes — and only the lower motor neuron can make the muscle contract". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables an
+
+> Reference implementation: `d3/17-the-somatic-nervous-system-fig-05.html`
+
+---
+
+### Figure 17.6 — Monosynaptic reflex arc for the knee-jerk reflex 
+
+Create a standalone D3 v7 HTML file for Figure Monosynaptic reflex arc for the knee-jerk reflex . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: monosynaptic reflex arc for the knee-jerk reflex — show: patellar tendon struck → quadriceps stretches → muscle spindle fires → dorsal root ganglion → single synapse onto motor neuron in ventral horn → motor neuron fires → quadriceps contracts; add a branch showing the same sensory signal continuing upward to the brain (dotted line); caption: "the reflex closes in the spinal cord; the brain finds out afterward — this is not a design flaw, it is the point". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/17-the-somatic-nervous-system-fig-06.html`

@@ -17,7 +17,8 @@ The trick is pressure. The afferent arteriole carrying blood into the glomerulus
 
 The filtration membrane has three layers. First, the capillary endothelium has small fenestrations — windows about 70 nanometers wide. Second, there is a basement membrane, a dense mesh of proteins. Third, podocytes wrap their elongated foot processes around the outside of the capillary; those processes interdigitate like fingers, leaving filtration slits about 25 to 60 nanometers wide. The membrane is also negatively charged, which adds a secondary filter against negatively charged proteins like albumin. The dominant filter, though, is size. Molecular weight under about 8,000 daltons crosses freely. Above 70,000 daltons almost nothing crosses. Between those values the crossing depends on both size and charge.
 
-<!-- → [DIAGRAM: cross-section of the glomerular filtration membrane at high magnification — show capillary lumen on the left with a red blood cell and albumin molecule (too large to pass), fenestrated endothelium, basement membrane, and podocyte foot processes with filtration slits on the right leading to Bowman's capsule; label each layer and the 25–70 nm filtration slit width; include a scale bar; caption: "the glomerular filter works by size — blood cells and large proteins stay, small molecules and ions cross, and the dominant determinant is molecular diameter relative to the filtration slit width"] -->
+![the glomerular filter works by size — blood cells and large proteins stay, small molecules and ions cross, and the dominant determinant is molecular diameter relative to the filtration slit width](images/30-the-urinary-system-fig-01.png)
+*Figure 30.1 — Cross-section of the glomerular filtration membrane at high*
 
 The net filtration pressure driving all of this is remarkably small. The 55 mmHg of glomerular hydrostatic pressure is opposed by the capsular hydrostatic pressure (about 15 mmHg, from the fluid already in Bowman's capsule) and by the blood's colloid osmotic pressure (about 30 mmHg, from the large proteins remaining in the capillary that osmotically pull fluid back). The net is:
 
@@ -33,7 +34,8 @@ The kidney maintains filtration rate automatically over a wide range of blood pr
 
 The filtrate entering Bowman's capsule is chemically nearly identical to blood plasma — minus the blood cells and large proteins. The nephron's job from this point is to recover most of it. The tubule has four segments, each specialized for a different part of the recovery, and together they transform that plasma-like filtrate into urine.
 
-<!-- → [DIAGRAM: nephron anatomy overview — label all segments (Bowman's capsule, proximal convoluted tubule, descending limb of loop of Henle, ascending limb, distal convoluted tubule, collecting duct), show the cortex/medulla boundary, and indicate the vasa recta running parallel to the loop; add a percentage annotation showing cumulative water reabsorption at each segment (PCT: ~67%, loop: ~15%, DCT/collecting duct: ~15–17%); caption: "each nephron segment has different permeabilities and transport proteins — the division of labor is what allows the final 1–2% to be tuned independently of the bulk recovery"] -->
+![each nephron segment has different permeabilities and transport proteins — the division of labor is what allows the final 1–2% to be tuned independently of the bulk recovery](images/30-the-urinary-system-fig-02.png)
+*Figure 30.2 — Nephron anatomy overview *
 
 **Proximal convoluted tubule.** The first and most metabolically active segment. Its lining cells have a dense brush border of microvilli on the luminal face and are packed with mitochondria on the blood-facing face — both signs that this segment is doing heavy active transport. And it is: by the time fluid leaves the proximal tubule, about 67 percent of the filtered water, sodium, chloride, potassium, and bicarbonate have been recovered, along with essentially all the filtered glucose and amino acids.
 
@@ -51,7 +53,8 @@ The ascending limb is impermeable to water. It has ion transporters, particularl
 
 The loop has accomplished something remarkable: it has created a steep salt gradient in the medullary interstitium — from about 300 mOsmol/kg at the junction with the cortex to 1,200 mOsmol/kg at the papilla — without concentrating the filtrate itself. That gradient will be used later. The vasa recta capillaries that run parallel to the loop preserve this gradient by flowing slowly in a countercurrent arrangement: blood descending alongside the descending loop picks up solutes and loses water, blood ascending alongside the ascending loop loses solutes and gains water back. If the vasa recta flowed fast, it would wash away the gradient within minutes.
 
-<!-- → [DIAGRAM: countercurrent multiplier system — show the loop of Henle with the descending limb (water-permeable, blue arrows for water exiting) and ascending limb (solute-permeable/water-impermeable, red arrows for Na⁺/Cl⁻ being pumped out); annotate osmolarity values at several points along the loop from 300 mOsmol/kg at the cortex to 1200 mOsmol/kg at the hairpin; show the parallel vasa recta descending (picking up solute, losing water) and ascending (losing solute, gaining water); caption: "the loop builds the gradient — the descending limb concentrates the filtrate by losing water; the ascending limb dilutes it by losing solute without water; what persists is a salt gradient in the medullary interstitium that the collecting duct will later exploit"] -->
+![the loop builds the gradient — the descending limb concentrates the filtrate by losing water; the ascending limb dilutes it by losing solute without water; what persists is a salt gradient in the medullary interstitium that the collecting duct will later exploit](images/30-the-urinary-system-fig-03.png)
+*Figure 30.3 — Countercurrent multiplier system *
 
 **Distal convoluted tubule and collecting duct.** By the time filtrate reaches the DCT, about 85 percent of the original 180 liters has been recovered. Fifteen liters remain. The final segment of the nephron — DCT feeding into collecting duct — passes back through the medullary gradient the loop of Henle created.
 
@@ -71,7 +74,8 @@ The macula densa is a patch of epithelial cells in the tubule wall. They sense s
 
 Those cells — juxtaglomerular cells — are modified smooth muscle cells. When they receive the signal, they release renin, an enzyme, into the bloodstream. Renin acts on angiotensinogen, a protein circulating in plasma, and cleaves a fragment from it called angiotensin I. Angiotensin I circulates to the lungs, where angiotensin-converting enzyme (ACE) converts it to angiotensin II. Angiotensin II is a potent vasoconstrictor. It tightens arterioles throughout the body, raising blood pressure immediately. It also acts on the adrenal cortex to release aldosterone, which drives sodium reabsorption in the kidney's distal tubule and collecting duct, increasing blood volume. Angiotensin II also stimulates ADH release from the hypothalamus, further promoting water retention. And it triggers thirst.
 
-<!-- → [DIAGRAM: RAAS cascade — linear flowchart: blood pressure/sodium drop → macula densa → juxtaglomerular cells release renin → angiotensinogen (liver) → angiotensin I → ACE (lungs) → angiotensin II → three parallel arrows: (1) vasoconstriction (systemic arterioles); (2) adrenal cortex → aldosterone → DCT/collecting duct → sodium reabsorption → blood volume up; (3) hypothalamus → ADH → collecting duct → water retention; feedback arrow from "blood pressure restored" back to macula densa with label "negative feedback — renin release suppressed"; caption: "the RAAS is a three-pronged response: vasoconstrict immediately, reabsorb sodium to increase blood volume, retain water to support that volume — all triggered by a drop sensed in the kidney itself"] -->
+![the RAAS is a three-pronged response: vasoconstrict immediately, reabsorb sodium to increase blood volume, retain water to support that volume — all triggered by a drop sensed in the kidney itself](images/30-the-urinary-system-fig-04.png)
+*Figure 30.4 — RAAS cascade *
 
 The cascade is self-limiting. As blood pressure and plasma sodium return to normal, the macula densa reduces its signal, renin release falls, angiotensin II levels drop, aldosterone wanes, and the system returns to baseline. The whole loop — from pressure drop detected in the kidney to blood volume restored by the kidney — runs without brain involvement. It is the kidney recognizing that the blood is becoming depleted and responding by holding onto everything it can until the problem is resolved.
 
@@ -146,3 +150,82 @@ The ratio of all three processes determines what ends up in the urine and in wha
 **Challenge**
 
 10. The loop of Henle in desert mammals (like the kangaroo rat) is proportionally much longer than in humans, reaching deeper into the medulla. Using the countercurrent multiplier principle, predict what effect a longer loop would have on the maximum urine osmolarity achievable — and explain why natural selection would favor a longer loop in a desert environment but not in an aquatic one. Then predict what would happen to this system if the vasa recta were replaced by fast-flowing capillaries.
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Filter-then-recover as engineering choice.** Ask a language model to explain why the kidneys filter ~180 L/day at the glomerulus and reabsorb ~99% of it, producing only ~1.5 L of urine. Why use this seemingly wasteful "filter everything, then recover what you need" strategy rather than selective filtration? The answer is regulatory flexibility — the kidney can adjust reabsorption (controlled by hormones) to fine-tune urine composition without needing to recognize every solute individually at the filtration step. Selective filtration would require enormously more complex molecular recognition machinery.
+
+**Exercise 2 — The countercurrent multiplier and concentrated urine.** Ask a language model to explain how the loop of Henle creates the medullary osmotic gradient that allows mammals to produce concentrated urine. Walk through the mechanism: descending limb is permeable to water but not salt (water exits as it goes deeper into the increasingly hypertonic medulla); ascending limb is permeable to salt but not water (salt is actively pumped out, contributing to the medullary hypertonicity). Then ask: why do desert mammals (kangaroo rat) produce urine 4-5x more concentrated than humans? The answer is loop length — longer loops build steeper gradients, enabling more water reabsorption.
+
+**Exercise 3 — RAAS as the kidney's response to volume loss.** Ask a language model to walk through the renin-angiotensin-aldosterone system as the body's response to low blood pressure or volume. Renin is released by the kidney → cleaves angiotensinogen to angiotensin I → ACE converts to angiotensin II → vasoconstriction + aldosterone release → sodium retention + vasoconstriction → restored BP. Then ask: why is this cascade rather than direct renal action better engineered? The answer is amplification, integration, and the ability to coordinate with vasoconstriction (a non-renal effect) to address the BP problem from multiple directions simultaneously.
+
+**Exercise 4 — Acid-base balance and the kidney's slow but powerful role.** Ask a language model to compare the speed of acid-base regulation: respiratory compensation (changing pCO₂) acts within minutes; renal compensation (excreting acid or reclaiming bicarbonate) acts over hours to days. Why does the body need both? Because they handle different types of disturbance — the lungs handle acute respiratory acidosis (from CO₂ retention); the kidneys handle metabolic acidosis (from non-CO₂ acid production). Then ask: in chronic kidney disease, the kidneys lose their acid-handling capacity. What is the consequence for the body's acid-base balance, and how does this connect to bone disease (the body buffers chronic acidosis by leaching calcium from bones)?
+
+**Exercise 5 — Why kidney failure kills slowly but inexorably.** Ask a language model to walk through what happens when GFR drops to 10% of normal. Initially: nitrogen wastes accumulate, but symptoms are mild. Eventually: phosphate accumulates → calcium drops → bone resorption increases → vascular calcification → cardiovascular disease. Erythropoietin production fails → anemia. Vitamin D activation fails → osteomalacia. Then ask: why does dialysis (which addresses fluid and small-molecule clearance) not fully replace kidney function — what does the kidney do beyond filtration that dialysis cannot? Hormone production (EPO, calcitriol, renin) and acid-base regulation are not replaced by dialysis, requiring separate treatment.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Homer W. Smith** worked out modern renal physiology at NYU in the 1930s and 1940s — including the inulin clearance method that still defines glomerular filtration rate. His 1953 book *From Fish to Philosopher* told the story of evolution through the kidney.
+
+**Run this:**
+
+```
+Who was Homer W. Smith, and how does his work on renal clearance and kidney physiology connect to the urinary system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Homer W. Smith"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to walk through the inulin clearance measurement and explain why it estimates GFR specifically.
+- Ask it to summarize Smith's evolutionary argument: what does the kidney look like in fish, and what changed when vertebrates moved onto land?
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 30.1 — Cross-section of the glomerular filtration membrane at high
+
+Create a standalone D3 v7 HTML file for Figure Cross-section of the glomerular filtration membrane at high. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section of the glomerular filtration membrane at high magnification — show capillary lumen on the left with a red blood cell and albumin molecule (too large to pass), fenestrated endothelium, basement membrane, and podocyte foot processes with filtration slits on the right leading to Bowman's capsule; label each layer and the 25–70 nm filtration slit width; include a scale bar; caption: "the glomerular filter works by size — blood cells and large proteins stay, small molecules and ions cross, and the dominant determinant is molecular diameter relative to the filtration slit width". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables
+
+> Reference implementation: `d3/30-the-urinary-system-fig-01.html`
+
+---
+
+### Figure 30.2 — Nephron anatomy overview 
+
+Create a standalone D3 v7 HTML file for Figure Nephron anatomy overview . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: nephron anatomy overview — label all segments (Bowman's capsule, proximal convoluted tubule, descending limb of loop of Henle, ascending limb, distal convoluted tubule, collecting duct), show the cortex/medulla boundary, and indicate the vasa recta running parallel to the loop; add a percentage annotation showing cumulative water reabsorption at each segment (PCT: ~67%, loop: ~15%, DCT/collecting duct: ~15–17%); caption: "each nephron segment has different permeabilities and transport proteins — the division of labor is what allows the final 1–2% to be tuned independently of the bulk recovery". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mon
+
+> Reference implementation: `d3/30-the-urinary-system-fig-02.html`
+
+---
+
+### Figure 30.3 — Countercurrent multiplier system 
+
+Create a standalone D3 v7 HTML file for Figure Countercurrent multiplier system . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: countercurrent multiplier system — show the loop of Henle with the descending limb (water-permeable, blue arrows for water exiting) and ascending limb (solute-permeable/water-impermeable, red arrows for Na⁺/Cl⁻ being pumped out); annotate osmolarity values at several points along the loop from 300 mOsmol/kg at the cortex to 1200 mOsmol/kg at the hairpin; show the parallel vasa recta descending (picking up solute, losing water) and ascending (losing solute, gaining water); caption: "the loop builds the gradient — the descending limb concentrates the filtrate by losing water; the ascending limb dilutes it by losing solute without water; what persists is a salt gradient in the medullary interstitium that the collecting duct will later exploit". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a ze
+
+> Reference implementation: `d3/30-the-urinary-system-fig-03.html`
+
+---
+
+### Figure 30.4 — RAAS cascade 
+
+Create a standalone D3 v7 HTML file for Figure RAAS cascade . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: RAAS cascade — linear flowchart: blood pressure/sodium drop → macula densa → juxtaglomerular cells release renin → angiotensinogen (liver) → angiotensin I → ACE (lungs) → angiotensin II → three parallel arrows: (1) vasoconstriction (systemic arterioles); (2) adrenal cortex → aldosterone → DCT/collecting duct → sodium reabsorption → blood volume up; (3) hypothalamus → ADH → collecting duct → water retention; feedback arrow from "blood pressure restored" back to macula densa with label "negative feedback — renin release suppressed"; caption: "the RAAS is a three-pronged response: vasoconstrict immediately, reabsorb sodium to increase blood volume, retain water to support that volume — all triggered by a drop sensed in the kidney itself". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or ar
+
+> Reference implementation: `d3/30-the-urinary-system-fig-04.html`

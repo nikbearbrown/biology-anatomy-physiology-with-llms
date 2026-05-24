@@ -15,7 +15,8 @@ That is the puzzle at the center of cell biology, and it is the right place to s
 
 ## The Membrane
 
-<!-- → [INFOGRAPHIC: cross-section of the phospholipid bilayer — show one phospholipid molecule labeled with head (hydrophilic) and tails (hydrophobic), then zoom out to the full bilayer with heads facing aqueous environments on both sides and tails hidden in the center; annotate which molecules cross freely (O₂, CO₂, steroid hormones) vs. which cannot (Na⁺, glucose, amino acids) — student should see the structural logic behind selective permeability] -->
+![Cross-section of the phospholipid bilayer ](images/04-the-cellular-level-of-organization-fig-01.png)
+*Figure 4.1 — Cross-section of the phospholipid bilayer *
 
 The answer turns out to be a clever piece of molecular geometry.
 
@@ -33,7 +34,9 @@ Oxygen. Yes — it is small and nonpolar. The cell consumes oxygen; the concentr
 
 What cannot cross without help? Glucose. Amino acids. Sodium ions. Potassium ions. Calcium ions. Everything charged. Everything large. Everything that would dilute freely across an unguarded border if the border were not selective.
 
-<!-- → [TABLE: membrane permeability reference — columns: substance, size, polarity/charge, crosses freely?, mechanism if assisted; rows: O₂, CO₂, H₂O, glucose, Na⁺, K⁺, Ca²⁺, steroid hormones, amino acids — student should see the pattern: small + nonpolar = free passage, charged or large = needs a protein] -->
+| substance | size | polarity | charge | crosses freely? |
+| --- | --- | --- | --- | --- |
+| O₂, CO₂, H₂O, glucose, Na⁺, K⁺, Ca²⁺, steroid hormones, amino acids | student should see the pattern: small + nonpolar = free passage, charged or large = needs a protein | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. | A concrete checkpoint for applying the chapter concept. |
 
 For these substances, the membrane is studded with proteins. Some are channels — protein tunnels that let specific ions through when they open. Others are carriers — proteins that grab a molecule on one side, change shape, and release it on the other. Every channel and carrier is selective. A sodium channel lets sodium through and excludes potassium. A glucose transporter accepts glucose, rejects fructose. The cell is not just permeable or impermeable — it is a system of specific gates, each with its own rules.
 
@@ -49,7 +52,8 @@ More than you might think.
 
 Consider a neuron sitting at rest, not firing, just waiting. Its interior is negative relative to the outside — roughly 70 millivolts. This voltage is not a byproduct. It is a resource. The neuron will spend it to transmit a signal. But to spend it, the neuron has to maintain it first. And maintaining it means running a pump.
 
-<!-- → [IMAGE: sodium-potassium pump diagram — show the integral membrane protein spanning the bilayer; on the cytoplasmic side, label 3 Na⁺ being bound and ATP being consumed; on the extracellular side, label 2 K⁺ being released inward; annotate the net outward flow of one positive charge per cycle; arrow pointing to "negative interior" — student should connect the pump's asymmetric exchange to the resting potential] -->
+![Sodium-potassium pump diagram ](images/04-the-cellular-level-of-organization-fig-02.png)
+*Figure 4.2 — Sodium-potassium pump diagram *
 
 The sodium-potassium pump is an integral membrane protein. It reaches across the membrane. On the inside, it grabs three sodium ions. On the outside, it grabs two potassium ions. It uses one molecule of ATP. And it swaps them: three sodium go out, two potassium come in.
 
@@ -63,7 +67,8 @@ Why pay this? Because the gradient is not waste. The gradient is currency.
 
 When a neuron fires, sodium channels snap open. Sodium rushes in — all that concentration difference, all that electrical attraction, suddenly released. The inside briefly goes positive. This is the action potential. The signal. Then potassium channels open, potassium rushes out, the cell returns to negative, and the pump rebuilds the gradient for the next signal. You cannot have the signal without the gradient. You cannot have the gradient without the pump. You cannot have the pump without ATP. This is the chain. Break any link and the neuron goes silent.
 
-<!-- → [CHART: action potential waveform — x-axis: time in milliseconds (0–5 ms); y-axis: membrane voltage (−70 mV to +40 mV); label resting potential (−70 mV), threshold, depolarization peak (Na⁺ channels open), repolarization (K⁺ channels open), undershoot, and return to resting; student should see each phase as a mechanical consequence of specific channel openings and closings] -->
+![Action potential waveform ](images/04-the-cellular-level-of-organization-fig-03.png)
+*Figure 4.3 — Action potential waveform *
 
 Cystic fibrosis is instructive here. It is caused by a mutation in a single gene — the gene for a chloride transporter called CFTR. In healthy lung cells, CFTR pumps chloride out of the cell into the mucus layer. Chloride is negatively charged; positive sodium ions follow. Water follows the ions. The mucus stays thin, hydrated, slippery enough for cilia to move it up and out of the lungs.
 
@@ -81,7 +86,8 @@ This is a eukaryotic cell — the kind you have. (Bacteria lack this internal or
 
 The problem is this: the same cell has to do many things at once. It has to synthesize proteins, some destined for secretion, some for the membrane, some for use inside the cell. It has to break down damaged proteins without damaging the healthy ones. It has to extract energy from glucose. It has to copy its DNA before division. These processes would interfere with each other if they happened in the same unorganized space. Separate compartments keep the chemistry sorted.
 
-<!-- → [IMAGE: labeled eukaryotic cell diagram — show nucleus with nuclear envelope and visible pores, rough ER continuous with the nuclear envelope, smooth ER branching off, Golgi stack with cis face toward ER and trans face toward plasma membrane, lysosomes near the Golgi, mitochondria with visible cristae, plasma membrane; draw vesicles budding from rough ER toward Golgi and from Golgi trans face toward membrane and lysosomes; student should see the endomembrane system as a directed flow, not a set of isolated organelles] -->
+![Labeled eukaryotic cell diagram ](images/04-the-cellular-level-of-organization-fig-04.png)
+*Figure 4.4 — Labeled eukaryotic cell diagram *
 
 The nucleus is the archive. It holds the DNA — the complete instruction set for the cell. DNA does not leave the nucleus. When the cell needs a protein, the relevant gene is read in the nucleus and a copy is made in the form of messenger RNA. The mRNA exits through pores in the nuclear envelope, travels to ribosomes, and the sequence of bases in the mRNA is translated into a sequence of amino acids. The protein folds. The protein works.
 
@@ -93,7 +99,8 @@ Lysosomes are vesicles packed with digestive enzymes — proteases, lipases, nuc
 
 Mitochondria are the energy factories. Each mitochondrion has an outer membrane and an inner membrane, and the inner membrane is folded into shelves called cristae, multiplying surface area. On that inner membrane, protein complexes are arranged in sequence — the electron transport chain. Glucose is broken down stepwise; electrons are stripped off at each step. These electrons are passed along the chain of protein complexes. Each transfer releases a bit of energy. That energy drives the pumping of protons — hydrogen ions — across the inner membrane, building a concentration gradient. Then the protons flow back through a protein called ATP synthase. The flow physically rotates part of the protein, and the rotation drives the synthesis of ATP from ADP and phosphate. It is mechanical chemistry. Motion converted directly into a chemical bond.
 
-<!-- → [IMAGE: mitochondrion cross-section — outer membrane, inner membrane folded into cristae; on the inner membrane surface, show the four electron transport chain complexes (I–IV) in sequence with arrows indicating electron flow left to right and proton pumping from matrix to intermembrane space; show ATP synthase with protons flowing back into matrix and ATP being produced; annotate the proton gradient (high concentration in intermembrane space, low in matrix); student should see the spatial relationship between the gradient and the synthesis machinery] -->
+![Mitochondrion cross-section ](images/04-the-cellular-level-of-organization-fig-05.png)
+*Figure 4.5 — Mitochondrion cross-section *
 
 This is where most of your ATP comes from. Not from glycolysis in the cytoplasm (which produces only two ATP per glucose), but from the mitochondria (which produce roughly thirty more). A cell that cannot maintain its mitochondria runs out of energy. An active neuron or muscle cell is packed with mitochondria — thousands per cell. A red blood cell has none. Red blood cells lack nuclei too; they cannot repair themselves or divide. They live about 120 days, burning what fuel glycolysis provides, then are broken apart in the spleen.
 
@@ -105,7 +112,8 @@ All of this — the membrane, the pumps, the organelles, the enzymes — is buil
 
 The instructions are in the DNA. This is the central dogma: DNA is transcribed into RNA, RNA is translated into protein. The protein does the work. This is how the cell executes its blueprint.
 
-<!-- → [INFOGRAPHIC: central dogma flow diagram — left to right: DNA double helix in nucleus → transcription arrow → mRNA strand → nuclear pore → ribosome on rough ER → translation arrow → polypeptide chain → protein folding → three branching destination arrows: (1) membrane insertion, (2) secretory vesicle → plasma membrane → extracellular space, (3) lysosome; each step labeled with process name and location; student should be able to trace any secreted protein from gene to final destination] -->
+![Central dogma flow diagram ](images/04-the-cellular-level-of-organization-fig-06.png)
+*Figure 4.6 — Central dogma flow diagram *
 
 The interesting question is not what the system does but how it enforces specificity. The same DNA is in every cell of your body. A liver cell and a neuron have identical genomes. But they look nothing alike, behave nothing alike, contain different proteins in different proportions. How?
 
@@ -166,3 +174,82 @@ Each of these is a system. Each system fails in a specific way. And the failure 
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Christian de Duve** discovered lysosomes and peroxisomes in the 1950s by carefully separating cell parts in a centrifuge — work that won him the Nobel Prize in 1974 and made the inside of the cell suddenly look much more like a factory floor than a soup.
+
+**Run this:**
+
+```
+Who was Christian de Duve, and how does his discovery of lysosomes and peroxisomes connect to the cellular organization we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Christian de Duve"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to explain centrifugal fractionation in plain language — the technique de Duve used to find organelles nobody knew were there.
+- Ask it to compare lysosomes and peroxisomes — what each does, how each fails when broken.
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 4.1 — Cross-section of the phospholipid bilayer 
+
+Create a standalone D3 v7 HTML file for Figure Cross-section of the phospholipid bilayer . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section of the phospholipid bilayer — show one phospholipid molecule labeled with head (hydrophilic) and tails (hydrophobic), then zoom out to the full bilayer with heads facing aqueous environments on both sides and tails hidden in the center; annotate which molecules cross freely (O₂, CO₂, steroid hormones) vs. which cannot (Na⁺, glucose, amino acids) — student should see the structural logic behind selective permeability. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-the-cellular-level-of-organization-fig-01.html`
+
+---
+
+### Figure 4.2 — Sodium-potassium pump diagram 
+
+Create a standalone D3 v7 HTML file for Figure Sodium-potassium pump diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: sodium-potassium pump diagram — show the integral membrane protein spanning the bilayer; on the cytoplasmic side, label 3 Na⁺ being bound and ATP being consumed; on the extracellular side, label 2 K⁺ being released inward; annotate the net outward flow of one positive charge per cycle; arrow pointing to "negative interior" — student should connect the pump's asymmetric exchange to the resting potential. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-the-cellular-level-of-organization-fig-02.html`
+
+---
+
+### Figure 4.3 — Action potential waveform 
+
+Create a standalone D3 v7 HTML file for Figure Action potential waveform . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: action potential waveform — x-axis: time in milliseconds (0–5 ms); y-axis: membrane voltage (−70 mV to +40 mV); label resting potential (−70 mV), threshold, depolarization peak (Na⁺ channels open), repolarization (K⁺ channels open), undershoot, and return to resting; student should see each phase as a mechanical consequence of specific channel openings and closings. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-the-cellular-level-of-organization-fig-03.html`
+
+---
+
+### Figure 4.4 — Labeled eukaryotic cell diagram 
+
+Create a standalone D3 v7 HTML file for Figure Labeled eukaryotic cell diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: labeled eukaryotic cell diagram — show nucleus with nuclear envelope and visible pores, rough ER continuous with the nuclear envelope, smooth ER branching off, Golgi stack with cis face toward ER and trans face toward plasma membrane, lysosomes near the Golgi, mitochondria with visible cristae, plasma membrane; draw vesicles budding from rough ER toward Golgi and from Golgi trans face toward membrane and lysosomes; student should see the endomembrane system as a directed flow, not a set of isolated organelles. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-the-cellular-level-of-organization-fig-04.html`
+
+---
+
+### Figure 4.5 — Mitochondrion cross-section 
+
+Create a standalone D3 v7 HTML file for Figure Mitochondrion cross-section . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: mitochondrion cross-section — outer membrane, inner membrane folded into cristae; on the inner membrane surface, show the four electron transport chain complexes (I–IV) in sequence with arrows indicating electron flow left to right and proton pumping from matrix to intermembrane space; show ATP synthase with protons flowing back into matrix and ATP being produced; annotate the proton gradient (high concentration in intermembrane space, low in matrix); student should see the spatial relationship between the gradient and the synthesis machinery. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-the-cellular-level-of-organization-fig-05.html`
+
+---
+
+### Figure 4.6 — Central dogma flow diagram 
+
+Create a standalone D3 v7 HTML file for Figure Central dogma flow diagram . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: central dogma flow diagram — left to right: DNA double helix in nucleus → transcription arrow → mRNA strand → nuclear pore → ribosome on rough ER → translation arrow → polypeptide chain → protein folding → three branching destination arrows: (1) membrane insertion, (2) secretory vesicle → plasma membrane → extracellular space, (3) lysosome; each step labeled with process name and location; student should be able to trace any secreted protein from gene to final destination. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/04-the-cellular-level-of-organization-fig-06.html`

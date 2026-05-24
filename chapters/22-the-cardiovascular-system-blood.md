@@ -13,7 +13,8 @@ Spin a tube of blood in a centrifuge. Gravity separates it by density, and what 
 
 The bottom layer, nearly half the tube by volume, is red and dense. These are the erythrocytes — red blood cells. The top layer, the other half, is straw-colored and liquid. This is plasma. Between them, barely visible, is a thin pale band called the buffy coat: white cells and platelets.
 
-<!-- → [IMAGE: centrifuge tube diagram showing blood after separation — label three layers from bottom to top: erythrocytes (~45% of volume, red), buffy coat (thin pale layer, <1%, white cells and platelets), plasma (~55%, straw-colored); annotate approximate percentages; inset showing magnified buffy coat identifying leukocytes (larger, nucleated) and platelets (small fragments); student should see the volumetric proportions before asking about function] -->
+![Centrifuge tube diagram showing blood after separation ](images/22-the-cardiovascular-system-blood-fig-01.png)
+*Figure 22.1 — Centrifuge tube diagram showing blood after separation *
 
 Those proportions tell you something before you even start asking about function. Plasma is not a carrier fluid with some dissolved extras. It is about 92 percent water, but the dissolved proteins do specific work: albumin maintains the osmotic pressure that keeps water inside the vessels rather than leaking into tissues; fibrinogen is the precursor to the clot-forming protein fibrin; the globulins include the antibodies that recognize pathogens. If albumin is depleted — in liver failure, starvation, or kidney disease that excretes it — water leaks into the tissues and the patient swells with edema. The protein is doing real structural work, not just floating in solution.
 
@@ -37,7 +38,8 @@ Hemoglobin solves this with a feature that took decades to fully understand: coo
 
 Hemoglobin is built from four protein chains, each folded around an iron-containing molecule called heme. Each heme iron can bind one oxygen molecule. Four irons, four oxygens. But the four subunits do not act independently. When the first oxygen binds to one subunit, it changes the shape of the entire hemoglobin molecule — a slight twist in the protein structure — that makes the remaining three subunits *more willing* to bind oxygen. When the first oxygen leaves, the reverse happens: the remaining oxygens are released more readily.
 
-<!-- → [CHART: hemoglobin oxygen-dissociation curve — x-axis: partial pressure of oxygen (pO₂, 0–100 mmHg); y-axis: hemoglobin saturation (0–100%); show the sigmoidal (S-shaped) curve; annotate two key points: lungs (~100 mmHg pO₂, ~98% saturation) and resting tissue (~40 mmHg pO₂, ~75% saturation); draw a dashed straight line from origin to show what a linear (non-cooperative) binding curve would look like; student should see that cooperativity makes both loading (steeper rise at high pO₂) and unloading (steeper drop at low pO₂) more efficient than linear binding would produce] -->
+![Hemoglobin oxygen-dissociation curve ](images/22-the-cardiovascular-system-blood-fig-02.png)
+*Figure 22.2 — Hemoglobin oxygen-dissociation curve *
 
 The consequence is a sigmoidal binding curve rather than a linear one. In the lungs, where oxygen pressure is high, hemoglobin saturates rapidly. In the tissues, where oxygen pressure is low, hemoglobin releases its oxygen more completely than a simple linear curve would predict. The molecule is tuned to load in the lungs and unload in the tissues, and the cooperativity makes both loading and unloading more efficient than they would be with a simple binding protein.
 
@@ -47,7 +49,8 @@ A red cell lives for approximately 120 days. This is not an accident or a defici
 
 You are, in a quiet biochemical sense, excreting the remains of your red cells every day.
 
-<!-- → [INFOGRAPHIC: red cell lifecycle — circular diagram: (1) bone marrow produces erythrocytes (EPO-driven); (2) red cells enter circulation, carry O₂ for ~120 days; (3) aged cells recognized by macrophages in spleen/liver; (4) hemoglobin broken down: iron → ferritin storage → transferrin → bone marrow (recycled); heme → biliverdin → bilirubin → bile → intestine → stercobilin (stool color) / urobilin (urine color); student should trace the complete iron recycling loop and understand where waste pigments go] -->
+![Red cell lifecycle ](images/22-the-cardiovascular-system-blood-fig-03.png)
+*Figure 22.3 — Red cell lifecycle *
 
 The system responds to demand. The kidneys monitor blood oxygen levels. When oxygen falls — at altitude, during severe anemia, during lung disease — kidney cells release a hormone called erythropoietin, abbreviated EPO. EPO travels to the bone marrow and accelerates red cell production. Over days to weeks, the hematocrit rises. This is why mountaineers spend days at intermediate camps before pushing to the summit: they are waiting for EPO to drive their red cell counts high enough to deliver adequate oxygen at altitude.
 
@@ -67,7 +70,8 @@ This plug is temporary. It is held together by adhesion rather than covalent bon
 
 The coagulation cascade converts the platelet plug into a fibrin clot. Twelve clotting factors — proteins mostly made by the liver — activate each other in sequence, each activation triggering the next. The cascade has two entry points. The extrinsic pathway fires when damaged tissue exposes a protein called tissue factor that does not normally contact blood. It is fast — done in seconds. The intrinsic pathway fires when blood contacts negatively charged surfaces exposed by damaged vessel walls. It is slower. Both converge on a final common pathway.
 
-<!-- → [INFOGRAPHIC: coagulation cascade — show extrinsic pathway (left branch, starting with tissue factor exposure) and intrinsic pathway (right branch, starting with contact activation); both converge on common pathway; final steps: factor X → prothrombin activator → prothrombin → thrombin → fibrinogen → fibrin mesh; label key proteins at each stage; annotate timescale: extrinsic = seconds, intrinsic = minutes; show fibrinolysis pathway beneath (plasminogen → plasmin → fibrin degradation) activated by tPA; student should see the cascade as convergent amplification ending in the single key step of fibrinogen→fibrin conversion] -->
+![Coagulation cascade ](images/22-the-cardiovascular-system-blood-fig-04.png)
+*Figure 22.4 — Coagulation cascade *
 
 At the end of the common pathway, the enzyme thrombin does the key step: it converts fibrinogen — a soluble protein dissolved in plasma — into fibrin, which is insoluble and polymerizes into a mesh. This fibrin mesh traps platelets, red cells, and more plasma. The mass compacts and tightens into a gel: the clot. Bleeding stops.
 
@@ -128,3 +132,82 @@ The design is not perfect. It is the best solution available within the constrai
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Hematocrit and the trade-off curve.** Ask a language model to explain why elevated hematocrit (>50%) increases blood viscosity and the workload on the heart. Then ask: why do blood doping practices (EPO, transfusions) used by some endurance athletes increase performance up to a point but become dangerous beyond it? The answer is the trade-off between increased oxygen-carrying capacity and increased viscosity-driven cardiac strain — the optimum is around 45-50% for athletic performance, but higher levels increase stroke and clot risk.
+
+**Exercise 2 — Hemoglobin's cooperative binding.** Ask a language model to explain why hemoglobin's oxygen-binding curve is sigmoidal rather than linear. Walk through cooperativity: each O₂ that binds shifts the protein from T (low affinity) to R (high affinity) state, increasing affinity for subsequent binding. Why is this essential for function — what would change if binding were linear instead? The answer is that cooperativity allows hemoglobin to fully load in the lungs (high pO₂) and substantially unload in tissues (low pO₂), maximizing delivery efficiency.
+
+**Exercise 3 — The Bohr effect and exercise.** Ask a language model to explain how exercising muscle gets more oxygen than resting muscle. The mechanism is the Bohr effect: working muscle produces CO₂ and lactic acid, lowering local pH; lower pH shifts the hemoglobin curve right, releasing more O₂. Then ask: how does this elegantly couple oxygen delivery to demand without requiring any neural or hormonal control? The system uses local chemistry as the regulating signal.
+
+**Exercise 4 — Coagulation cascade and the question of design.** Ask a language model to walk through the coagulation cascade (intrinsic pathway, extrinsic pathway, common pathway converging on thrombin). Why does the body use such a complex cascade rather than a single trigger producing fibrin? The answer is amplification (each step generates many products) and regulation (many control points where the response can be tuned). Then ask: hemophilia A is a deficiency of factor VIII; warfarin works by inhibiting vitamin K-dependent factors. Why does targeting a single factor produce such consequential changes in coagulation despite the cascade's redundancy?
+
+**Exercise 5 — The three jobs of blood and why they cannot be separated.** Ask a language model to consider why a hypothetical organism that uses one fluid for oxygen transport, another for nutrient delivery, and a third for waste removal would be impractical. The answer involves circulatory complexity, metabolic cost, and evolutionary history. Then ask: what does the trade-off cost — what does blood do poorly because it must do all three jobs? Examples include the limited solubility of CO₂ requiring elaborate buffering, and the temperature-sensitivity of clotting factors limiting where blood can safely circulate.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Charles R. Drew** was a Black American surgeon who developed the first large-scale blood plasma storage and transport system in 1940 — and then resigned from the American Red Cross when the military insisted on segregating donor blood by race, a policy he showed had no scientific basis.
+
+**Run this:**
+
+```
+Who was Charles R. Drew, and how does his work on blood plasma storage and transfusion connect to the cardiovascular system and blood biology we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Charles R. Drew"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to explain in plain language what Drew's plasma-bank procedure preserved and what it discarded — and why that matters for transfusions.
+- Add a constraint: "Answer as Drew's 1942 letter resigning from the American Red Cross blood program."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 22.1 — Centrifuge tube diagram showing blood after separation 
+
+Create a standalone D3 v7 HTML file for Figure Centrifuge tube diagram showing blood after separation . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: centrifuge tube diagram showing blood after separation — label three layers from bottom to top: erythrocytes (~45% of volume, red), buffy coat (thin pale layer, <1%, white cells and platelets), plasma (~55%, straw-colored); annotate approximate percentages; inset showing magnified buffy coat identifying leukocytes (larger, nucleated) and platelets (small fragments); student should see the volumetric proportions before asking about function. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/22-the-cardiovascular-system-blood-fig-01.html`
+
+---
+
+### Figure 22.2 — Hemoglobin oxygen-dissociation curve 
+
+Create a standalone D3 v7 HTML file for Figure Hemoglobin oxygen-dissociation curve . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: hemoglobin oxygen-dissociation curve — x-axis: partial pressure of oxygen (pO₂, 0–100 mmHg); y-axis: hemoglobin saturation (0–100%); show the sigmoidal (S-shaped) curve; annotate two key points: lungs (~100 mmHg pO₂, ~98% saturation) and resting tissue (~40 mmHg pO₂, ~75% saturation); draw a dashed straight line from origin to show what a linear (non-cooperative) binding curve would look like; student should see that cooperativity makes both loading (steeper rise at high pO₂) and unloading (steeper drop at low pO₂) more efficient than linear binding would produce. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/22-the-cardiovascular-system-blood-fig-02.html`
+
+---
+
+### Figure 22.3 — Red cell lifecycle 
+
+Create a standalone D3 v7 HTML file for Figure Red cell lifecycle . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: red cell lifecycle — circular diagram: (1) bone marrow produces erythrocytes (EPO-driven); (2) red cells enter circulation, carry O₂ for ~120 days; (3) aged cells recognized by macrophages in spleen/liver; (4) hemoglobin broken down: iron → ferritin storage → transferrin → bone marrow (recycled); heme → biliverdin → bilirubin → bile → intestine → stercobilin (stool color) / urobilin (urine color); student should trace the complete iron recycling loop and understand where waste pigments go. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/22-the-cardiovascular-system-blood-fig-03.html`
+
+---
+
+### Figure 22.4 — Coagulation cascade 
+
+Create a standalone D3 v7 HTML file for Figure Coagulation cascade . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: coagulation cascade — show extrinsic pathway (left branch, starting with tissue factor exposure) and intrinsic pathway (right branch, starting with contact activation); both converge on common pathway; final steps: factor X → prothrombin activator → prothrombin → thrombin → fibrinogen → fibrin mesh; label key proteins at each stage; annotate timescale: extrinsic = seconds, intrinsic = minutes; show fibrinolysis pathway beneath (plasminogen → plasmin → fibrin degradation) activated by tPA; student should see the cascade as convergent amplification ending in the single key step of fibrinogen→fibrin conversion. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required 
+
+> Reference implementation: `d3/22-the-cardiovascular-system-blood-fig-04.html`

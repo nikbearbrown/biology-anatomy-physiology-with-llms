@@ -21,13 +21,15 @@ The lung's answer to the surface area problem is branching, taken to an extreme.
 
 This branching is the conducting zone — tubes that carry air but do not exchange gas. The respiratory zone begins where the terminal bronchioles open into respiratory bronchioles, which open into alveolar ducts, which cluster into alveolar sacs, each containing 10 to 20 alveoli. The lung contains roughly 300 million to 500 million alveoli. If you unfolded them all and laid them flat, the total respiratory surface would be about 70 square meters — roughly half a tennis court, inside a volume you carry in your chest.
 
-<!-- → [DIAGRAM: bronchial tree showing airway generations from trachea (generation 0) to alveoli (generation 23) — label the transition from conducting zone to respiratory zone at the terminal bronchioles; show how the number of branches multiplies exponentially even as each individual branch narrows; include a small bar chart of total cross-sectional area per generation showing it increases despite narrowing; caption: "23 generations of exponential branching converts one 2.5 cm trachea into 70 square meters of exchange surface — every branch narrows but there are so many more of them that total area keeps rising"] -->
+![23 generations of exponential branching converts one 2.5 cm trachea into 70 square meters of exchange surface — every branch narrows but there are so many more of them that total area keeps rising](images/27-the-respiratory-system-fig-01.png)
+*Figure 27.1 — Bronchial tree showing airway generations from trachea (generation*
 
 The consequence of this geometry is that the lung trades cubic volume for surface area with ruthless efficiency. A sphere maximizes volume relative to surface area. The lung does the opposite: it sacrifices volume to maximize the membrane through which gas can cross.
 
 The alveolar walls are built to be as thin as possible. The cells that form them — type I alveolar cells — are simple squamous epithelium, flat as floor tiles, each about 25 nanometers thick. Against these cells, capillaries are pressed so closely that the combined thickness of the alveolar wall and capillary endothelium is about 0.5 micrometers. On one side of that membrane is air. On the other side is blood. Oxygen has 64 millimeters of mercury of pressure gradient driving it from alveolar air into blood. CO₂ has a smaller gradient — only 5 mmHg — but is 20 times more soluble in blood than oxygen, so the same number of molecules crosses per unit time despite the smaller push.
 
-<!-- → [DIAGRAM: cross-section of a single alveolus at high magnification — label type I alveolar cell (flat, ~25 nm thick), type II alveolar cell (cuboidal, surfactant-secreting), alveolar macrophage, capillary lumen with red blood cells, and the combined 0.5 μm respiratory membrane; draw an oxygen molecule crossing from air to blood and a CO₂ molecule crossing in reverse; caption: "the respiratory membrane is 0.5 micrometers — thinner than most cell membranes are wide — because T in Fick's law is in the denominator: every nanometer removed multiplies the diffusion rate"] -->
+![the respiratory membrane is 0.5 micrometers — thinner than most cell membranes are wide — because T in Fick's law is in the denominator: every nanometer removed multiplies the diffusion rate](images/27-the-respiratory-system-fig-02.png)
+*Figure 27.2 — Cross-section of a single alveolus at high magnification*
 
 The alveolus has one more structural feature that is not obvious but is essential: surfactant. The surface of the alveolar membrane is wet — the cells are coated in a thin fluid layer. Liquid surfaces have surface tension, the tendency to contract toward minimum area. In a tiny sphere like an alveolus, that surface tension would generate an inward pressure large enough to collapse the alveolus during each expiration. This is prevented by pulmonary surfactant — a mixture of lipids and proteins secreted continuously by type II alveolar cells scattered among the thin type I cells. Surfactant reduces surface tension, prevents alveolar collapse, and keeps the enormous surface area accessible for gas exchange. Premature infants who have not yet developed sufficient surfactant develop respiratory distress syndrome: their alveoli collapse with each breath, requiring them to reinflate the alveoli from scratch on every inspiration. The work of breathing becomes enormous and quickly exhausting.
 
@@ -47,7 +49,8 @@ The thoracic cavity is that container. The lungs sit inside it, separated from t
 
 The resting lung is always slightly under tension. Elastic fibers in the lung tissue and the surface tension of alveolar fluid both try to shrink the lung. The pleural seal prevents this collapse, holding the lung expanded against the rib cage. The pressure in the pleural cavity is therefore slightly negative — about minus 4 mmHg relative to atmospheric — because the outward pull of the rib cage is just barely winning against the inward elastic recoil of the lung. This negative intrapleural pressure is not a vacuum; it is the stable equilibrium between opposing forces.
 
-<!-- → [DIAGRAM: schematic of the thoracic cavity showing the two pleural layers (parietal adhering to rib cage, visceral adhering to lung), the intrapleural space, and the competing force arrows — inward elastic recoil of the lung tissue, outward pull of the rib cage — with the resulting negative intrapleural pressure (-4 mmHg) labeled; caption: "the negative intrapleural pressure is not engineered in — it is the equilibrium between the lung trying to collapse and the rib cage trying to expand, with the adhesive pleural seal preventing them from separating"] -->
+![the negative intrapleural pressure is not engineered in — it is the equilibrium between the lung trying to collapse and the rib cage trying to expand, with the adhesive pleural seal preventing them from separating](images/27-the-respiratory-system-fig-03.png)
+*Figure 27.3 — Schematic of the thoracic cavity showing the two*
 
 Inspiration begins when the diaphragm contracts. The diaphragm is a dome-shaped sheet of muscle forming the floor of the thoracic cavity. When its fibers contract, the dome flattens, moving inferiorly toward the abdomen and expanding the vertical dimension of the thorax. Simultaneously, the external intercostal muscles — running diagonally downward and forward between the ribs — contract and lift the rib cage upward and outward, expanding the anterior-posterior and lateral dimensions. The combined effect: thoracic volume increases.
 
@@ -79,7 +82,8 @@ The relationship between oxygen partial pressure and hemoglobin saturation is no
 
 The sigmoid shape arises from cooperativity. When one oxygen molecule binds a heme group, it changes the shape of the hemoglobin molecule through allosteric conformational change, making the other three heme groups bind oxygen more readily. The first oxygen binds reluctantly; by the time the fourth is binding, the affinity is much higher. This means hemoglobin loads oxygen efficiently at alveolar pressures and unloads it efficiently at tissue pressures — it behaves more like a molecular switch than a simple carrier.
 
-<!-- → [CHART: oxygen-hemoglobin dissociation curve — sigmoid curve plotting pO₂ (x-axis, 0–100 mmHg) against % hemoglobin saturation (y-axis, 0–100%); mark the alveolar operating point (~104 mmHg, ~98% saturation) and the resting tissue point (~40 mmHg, ~75% saturation) and the exercising tissue point (~20 mmHg, ~35% saturation); show a rightward-shifted curve labeled "Bohr effect (low pH, high temp, high BPG)" overlaid on the normal curve; caption: "the sigmoid shape is cooperativity at work — the curve is flat at the top (alveolar loading is complete even if pO₂ varies) and steep in the middle (small changes in tissue pO₂ drive large changes in unloading)"] -->
+![the sigmoid shape is cooperativity at work — the curve is flat at the top (alveolar loading is complete even if pO₂ varies) and steep in the middle (small changes in tissue pO₂ drive large changes in unloading)](images/27-the-respiratory-system-fig-04.png)
+*Figure 27.4 — Oxygen-hemoglobin dissociation curve *
 
 Three factors shift this curve and increase oxygen unloading in tissues where it is most needed. Falling pH — from the CO₂ produced by metabolic activity — reduces hemoglobin's oxygen affinity, causing it to release more oxygen at any given partial pressure. This is the Bohr effect. Rising temperature does the same. Rising levels of 2,3-bisphosphoglycerate (BPG), a metabolite produced by red blood cells during glycolysis, also shifts the curve. All three of these conditions prevail exactly where oxygen demand is highest: in active muscle generating CO₂, heat, and BPG. The hemoglobin molecule is calibrated to deliver more oxygen precisely where metabolism is fastest.
 
@@ -93,7 +97,8 @@ Carbon dioxide and water become carbonic acid, which immediately dissociates int
 
 The third pathway carries about 20 percent of CO₂. Carbon dioxide binds directly to amino groups on the hemoglobin protein chains — not at the heme groups where oxygen binds, but at separate sites — forming carbaminohemoglobin. Deoxy-hemoglobin has higher affinity for CO₂ than oxyhemoglobin. This is the Haldane effect, and it is elegantly coordinated with oxygen delivery: as blood reaches the tissues and releases oxygen, the now-deoxygenated hemoglobin becomes primed to pick up CO₂. As blood returns to the lungs and loads oxygen, the oxygenated hemoglobin releases CO₂. The loading of one gas promotes the unloading of the other, and vice versa.
 
-<!-- → [DIAGRAM: the three CO₂ transport mechanisms side by side in one red blood cell cross-section at tissue level — (1) dissolved CO₂ arrow into plasma; (2) CO₂ entering RBC → carbonic anhydrase reaction → HCO₃⁻ exiting via chloride-bicarbonate exchanger with Cl⁻ entering (chloride shift labeled); (3) CO₂ binding amino groups on hemoglobin chains labeled "carbaminohemoglobin"; show % contribution for each (7-10%, 70%, 20%); caption: "the bicarbonate pathway dominates because carbonic anhydrase in the RBC — absent from plasma — accelerates the reaction ~5000-fold; without the enzyme, 70% of CO₂ transport would stall"] -->
+![the bicarbonate pathway dominates because carbonic anhydrase in the RBC — absent from plasma — accelerates the reaction ~5000-fold; without the enzyme, 70% of CO₂ transport would stall](images/27-the-respiratory-system-fig-05.png)
+*Figure 27.5 — The three CO₂ transport mechanisms side by side*
 
 The efficiency of all this depends on ventilation and perfusion being matched. An alveolus that is ventilated but not perfused wastes fresh air — oxygen accumulates but no blood arrives to pick it up. An alveolus that is perfused but not ventilated wastes blood flow — blood arrives but finds stale, CO₂-rich, oxygen-depleted air. The lung has automatic mechanisms to prevent both. If ventilation is poor in a region, oxygen falls in those alveoli, and the arterioles supplying that region constrict — hypoxic pulmonary vasoconstriction, the opposite of the response to hypoxia everywhere else in the body where vessels dilate. Blood is redirected toward better-ventilated alveoli. If CO₂ accumulates in a region due to inadequate ventilation, the bronchiolar smooth muscle relaxes and the airway dilates, increasing ventilation to that area. Both responses are local and automatic, requiring no central nervous system control.
 
@@ -140,3 +145,90 @@ The single fact that unifies all of this is the pressure gradient. Air moves dow
 **Challenge**
 
 10. Emphysema destroys the elastic fibers of the alveolar walls, increasing lung compliance and reducing elastic recoil. Paradoxically, patients with emphysema have higher total lung capacity (they trap air) but much lower exercise tolerance than healthy people. Using what you know about the roles of elastic recoil in expiration, airway patency, and the work of breathing, construct a mechanistic argument for why high compliance — which sounds like it should make breathing easier — actually makes it harder in emphysema.
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — Why the surface area of the lungs is enormous.** Ask a language model to explain how the lungs achieve approximately 70-100 m² of gas exchange surface area within the volume of the chest. Walk through the architecture: trachea branches into bronchi, bronchioles, and finally alveoli — about 300-500 million alveolar sacs, each with its capillary network. Then apply Fick's law: rate of diffusion ∝ surface area × concentration gradient ÷ thickness. Why does pulmonary fibrosis (which thickens the alveolar membrane) produce dramatic dyspnea even when surface area is preserved? The thickness term is in the denominator.
+
+**Exercise 2 — Negative-pressure breathing without a pump.** Ask a language model to explain how the diaphragm — a single muscle — accomplishes ventilation. Inspiration: diaphragm contracts and flattens, increasing thoracic volume; intrapleural pressure becomes more negative; lungs expand passively, drawing air in. Expiration is passive at rest — the elastic recoil of the lungs and chest wall does the work. Then ask: what changes during forced expiration (exercise, coughing)? Accessory muscles (intercostals, abdominals) actively compress the chest. Why does emphysema (loss of elastic recoil) make passive expiration inefficient and force patients to actively expire even at rest?
+
+**Exercise 3 — The oxyhemoglobin dissociation curve and altitude.** Ask a language model to explain why a healthy person has 97% oxygen saturation at sea level (pO₂ ≈ 100 mmHg) but only 85% at the summit of a major mountain (pO₂ ≈ 40 mmHg). Walk through the sigmoidal binding curve: at low pO₂, small changes produce large desaturation. Then ask: how do high-altitude residents (Tibetan, Andean) genetically adapt? They have higher hemoglobin concentrations, different hemoglobin types in some populations, and modified ventilatory responses. The system has multiple adaptive levers.
+
+**Exercise 4 — CO₂ transport as the chemistry-rich case.** Ask a language model to walk through how CO₂ travels in blood — about 7% dissolved, 23% bound to hemoglobin, 70% as bicarbonate (after the carbonic anhydrase reaction CO₂ + H₂O ⇌ HCO₃⁻ + H⁺). Then ask: why is this elaborate machinery necessary, when oxygen transport uses a single mechanism? The answer is that CO₂ is much more soluble than O₂ but at metabolic production rates, dissolved transport alone would saturate quickly. The bicarbonate system also serves as the body's main pH buffer, coupling respiration to acid-base balance.
+
+**Exercise 5 — Ventilation-perfusion matching and why mismatching matters.** Ask a language model to explain V/Q matching: ventilation (air reaching alveoli) and perfusion (blood reaching alveolar capillaries) should match — neither air without blood nor blood without air contributes to gas exchange. Why does pulmonary embolism (clot blocking pulmonary blood flow) cause hypoxemia despite normal ventilation? Air reaches alveoli but blood does not — wasted ventilation, no exchange. Then ask: what about pneumonia (alveoli filled with fluid)? Blood reaches alveoli but the fluid blocks gas diffusion — wasted perfusion. The clinical patterns reveal which side of the matching has failed.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **John Scott Haldane** worked out the chemistry of breathing — how CO₂ levels (not O₂) drive ventilation, how decompression sickness happens, and how mine canaries respond to gases — by repeatedly poisoning himself in sealed chambers. His research saved the lives of generations of coal miners and divers.
+
+**Run this:**
+
+```
+Who was John Scott Haldane, and how does his work on respiratory chemistry and altitude/decompression physiology connect to the respiratory system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"John Scott Haldane"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to explain why CO₂ — not O₂ — is the dominant driver of normal ventilation, the result Haldane established by self-experimentation.
+- Add a constraint: "Answer as Haldane's 1905 lab notebook from the night he gave himself carbon monoxide poisoning on purpose."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 27.1 — Bronchial tree showing airway generations from trachea (generation
+
+Create a standalone D3 v7 HTML file for Figure Bronchial tree showing airway generations from trachea (generation. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: bronchial tree showing airway generations from trachea (generation 0) to alveoli (generation 23) — label the transition from conducting zone to respiratory zone at the terminal bronchioles; show how the number of branches multiplies exponentially even as each individual branch narrows; include a small bar chart of total cross-sectional area per generation showing it increases despite narrowing; caption: "23 generations of exponential branching converts one 2.5 cm trachea into 70 square meters of exchange surface — every branch narrows but there are so many more of them that total area keeps rising". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN
+
+> Reference implementation: `d3/27-the-respiratory-system-fig-01.html`
+
+---
+
+### Figure 27.2 — Cross-section of a single alveolus at high magnification
+
+Create a standalone D3 v7 HTML file for Figure Cross-section of a single alveolus at high magnification. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section of a single alveolus at high magnification — label type I alveolar cell (flat, ~25 nm thick), type II alveolar cell (cuboidal, surfactant-secreting), alveolar macrophage, capillary lumen with red blood cells, and the combined 0.5 μm respiratory membrane; draw an oxygen molecule crossing from air to blood and a CO₂ molecule crossing in reverse; caption: "the respiratory membrane is 0.5 micrometers — thinner than most cell membranes are wide — because T in Fick's law is in the denominator: every nanometer removed multiplies the diffusion rate". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font s
+
+> Reference implementation: `d3/27-the-respiratory-system-fig-02.html`
+
+---
+
+### Figure 27.3 — Schematic of the thoracic cavity showing the two
+
+Create a standalone D3 v7 HTML file for Figure Schematic of the thoracic cavity showing the two. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: schematic of the thoracic cavity showing the two pleural layers (parietal adhering to rib cage, visceral adhering to lung), the intrapleural space, and the competing force arrows — inward elastic recoil of the lung tissue, outward pull of the rib cage — with the resulting negative intrapleural pressure (-4 mmHg) labeled; caption: "the negative intrapleural pressure is not engineered in — it is the equilibrium between the lung trying to collapse and the rib cage trying to expand, with the adhesive pleural seal preventing them from separating". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/27-the-respiratory-system-fig-03.html`
+
+---
+
+### Figure 27.4 — Oxygen-hemoglobin dissociation curve 
+
+Create a standalone D3 v7 HTML file for Figure Oxygen-hemoglobin dissociation curve . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: oxygen-hemoglobin dissociation curve — sigmoid curve plotting pO₂ (x-axis, 0–100 mmHg) against % hemoglobin saturation (y-axis, 0–100%); mark the alveolar operating point (~104 mmHg, ~98% saturation) and the resting tissue point (~40 mmHg, ~75% saturation) and the exercising tissue point (~20 mmHg, ~35% saturation); show a rightward-shifted curve labeled "Bohr effect (low pH, high temp, high BPG)" overlaid on the normal curve; caption: "the sigmoid shape is cooperativity at work — the curve is flat at the top (alveolar loading is complete even if pO₂ varies) and steep in the middle (small changes in tissue pO₂ drive large changes in unloading)". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brie
+
+> Reference implementation: `d3/27-the-respiratory-system-fig-04.html`
+
+---
+
+### Figure 27.5 — The three CO₂ transport mechanisms side by side
+
+Create a standalone D3 v7 HTML file for Figure The three CO₂ transport mechanisms side by side. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: the three CO₂ transport mechanisms side by side in one red blood cell cross-section at tissue level — (1) dissolved CO₂ arrow into plasma; (2) CO₂ entering RBC → carbonic anhydrase reaction → HCO₃⁻ exiting via chloride-bicarbonate exchanger with Cl⁻ entering (chloride shift labeled); (3) CO₂ binding amino groups on hemoglobin chains labeled "carbaminohemoglobin"; show % contribution for each (7-10%, 70%, 20%); caption: "the bicarbonate pathway dominates because carbonic anhydrase in the RBC — absent from plasma — accelerates the reaction ~5000-fold; without the enzyme, 70% of CO₂ transport would stall". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color varia
+
+> Reference implementation: `d3/27-the-respiratory-system-fig-05.html`

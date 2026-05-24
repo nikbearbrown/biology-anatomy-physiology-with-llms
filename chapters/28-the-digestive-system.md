@@ -31,7 +31,8 @@ None of this can happen in a single vessel with a single chemistry. So the diges
 
 The alimentary canal is a single continuous tube, mouth to anus, roughly eight meters long in a living person. What makes it remarkable is how profoundly it changes along its length — not in its gross structure, which is always four layers of tissue (mucosa, submucosa, muscularis, serosa), but in the details of each layer.
 
-<!-- → [IMAGE: cross-section comparison panels of alimentary canal wall at three locations — (1) esophagus: stratified squamous epithelium, labeled as "tough, multi-layered, resistant to abrasion"; (2) stomach: simple columnar epithelium with gastric glands reaching down into mucosa, labeled as "single layer, secretory, rapidly renewed"; (3) small intestine: simple columnar epithelium with villi projecting into lumen and goblet cells visible, labeled as "single layer, absorptive, brush border"; student should see how the same four-layer wall structure (mucosa/submucosa/muscularis/serosa) changes its epithelial detail at each region to match the functional demand] -->
+![Cross-section comparison panels of alimentary canal wall at](images/28-the-digestive-system-fig-01.png)
+*Figure 28.1 — Cross-section comparison panels of alimentary canal wall at*
 
 The epithelium is the first thing to notice. In your mouth, throat, and esophagus, the epithelium is stratified squamous — multiple layers of flat cells, tough and resistant to abrasion. This is protective armor: you are crushing, grinding, and dragging solid material through here, and the surface has to withstand it.
 
@@ -53,7 +54,8 @@ The stomach is the first major transformation. Its glandular epithelium contains
 
 The stomach churns and mixes for two to four hours, depending on meal composition. Fatty meals take longest because fat slows gastric emptying — a mechanism that makes physiological sense. Fat is the most calorie-dense macronutrient, and the small intestine needs time to process it. The pyloric sphincter, the muscular valve at the stomach's outlet, opens in pulses, releasing small amounts of chyme into the duodenum at a rate the small intestine can handle.
 
-<!-- → [IMAGE: diagram of accessory organ coordination at the duodenum — show duodenum receiving chyme from stomach through pylorus; bile duct entering from liver/gallbladder on one side; pancreatic duct entering from pancreas on other side; both ducts merge at the sphincter of Oddi before entering duodenum; label: liver (produces bile continuously), gallbladder (stores and concentrates bile, releases on CCK signal), pancreas (releases bicarbonate via secretin signal, releases enzymes via CCK signal); arrows showing hormonal signals: acidic chyme → duodenal enteroendocrine cells → secretin → pancreas (bicarbonate) and CCK → gallbladder (bile) + pancreas (enzymes); student should see the duodenum as a convergence point for three simultaneous secretions triggered by the same stimulus] -->
+![Diagram of accessory organ coordination at the duodenum](images/28-the-digestive-system-fig-02.png)
+*Figure 28.2 — Diagram of accessory organ coordination at the duodenum*
 
 The small intestine is where the real work happens. Three organs deliver their secretions here: the liver via bile, the pancreas via pancreatic juice, and the intestinal epithelium itself. When the acidic chyme enters the duodenum, enteroendocrine cells in the duodenal wall detect the change and release two hormones into the bloodstream. Secretin travels to the pancreas and triggers the release of bicarbonate — a large wave of alkaline fluid that neutralizes the acid arriving from the stomach and raises the duodenal pH from about 2 to about 7. Simultaneously, cholecystokinin (CCK) travels to the gallbladder and pancreas: the gallbladder contracts and releases a concentrated bolus of bile; the pancreas releases its full array of digestive enzymes. Within minutes of the first arrival of chyme, the duodenum has been supplied with everything needed for chemical digestion.
 
@@ -69,7 +71,8 @@ The large intestine has one primary job: water recovery. What arrives here is a 
 
 Once nutrients have been liberated from their macromolecular forms, they face another problem: getting across the intestinal epithelium and into the bloodstream. Different nutrients take radically different routes.
 
-<!-- → [IMAGE: side-by-side diagrams of two absorption pathways through an enterocyte — left panel (glucose/amino acid, transcellular active transport): lumen → apical membrane (SGLT1 transporter, Na⁺ co-transported in) → cytoplasm → basolateral membrane (GLUT2, glucose exits down gradient) → blood capillary; label Na⁺/K⁺ ATPase on basolateral membrane driving sodium gradient; right panel (fat, lymphatic route): lumen → mixed micelles carry monoglycerides + fatty acids to brush border → diffuse across apical membrane → triglycerides re-synthesized inside cell → packaged into chylomicron → exits basolateral membrane → lymphatic lacteal in villus core (NOT blood capillary); student should see that glucose goes to blood portal circulation while fat goes to lymph, bypassing the liver initially] -->
+![Diagrams of two absorption pathways through an enterocyte](images/28-the-digestive-system-fig-03.png)
+*Figure 28.3 — Diagrams of two absorption pathways through an enterocyte*
 
 Glucose and amino acids are water-soluble and cannot cross the cell membrane by passive diffusion — the lipid bilayer is impermeable to them. They use cotransporters on the apical membrane of the enterocyte: a glucose molecule and a sodium ion bind simultaneously to the same transporter protein, and the transporter moves both into the cell. The driving force is the sodium gradient: the Na⁺/K⁺ ATPase on the basolateral membrane continuously pumps sodium out of the cell, keeping the intracellular sodium concentration low. Sodium's tendency to flow down this gradient into the cell drags glucose along with it. This is secondary active transport — the energy comes ultimately from ATP, but indirectly, via the sodium gradient. The glucose then exits through the basolateral membrane by a different transporter, GLUT2, down its own concentration gradient into the bloodstream. The net result is that glucose can be absorbed even when its concentration in the intestinal lumen is lower than in the blood — the cell is actively pulling it in against a concentration gradient.
 
@@ -124,3 +127,74 @@ That specificity is the other side of specialization. The tube that can digest a
 ---
 
 *Byline: Nik Bear Brown*
+
+---
+
+## LLM Exercises
+
+The following exercises are designed to be worked through with a language model. In each case, do not just ask for the answer — ask the model to explain its reasoning, then probe that reasoning.
+
+**Exercise 1 — The size problem and why digestion is necessary.** Ask a language model to explain why the body cannot directly absorb whole proteins, complex carbohydrates, or fats. Walk through the molecular size constraint: the intestinal epithelial cell membrane and the tight junctions between cells limit absorption to small molecules (amino acids, monosaccharides, fatty acids, glycerol). Larger molecules must be broken down enzymatically before they can cross. Then ask: why does the body invest so much energy in this digestion-then-resynthesis cycle? Why not absorb whole proteins? The answer is selectivity (only known good components) and immune protection (preventing absorption of unfamiliar molecules that could trigger immune responses).
+
+**Exercise 2 — The same tube, modified along its length.** Ask a language model to compare the structural specializations along the GI tract: stomach (pepsinogen, parietal cells, churning), small intestine (long villi, microvilli, brush border enzymes), large intestine (water reabsorption, bacterial fermentation). Why does the same basic tube structure (mucosa-submucosa-muscularis-serosa) get specialized so differently in each region? The answer is that each region performs a distinct phase of digestion, and the specialized morphology matches the specialized function. Then ask: what happens after gastrectomy (stomach removal) — what phase of digestion is impaired and how does the body partially compensate?
+
+**Exercise 3 — Bile and the chemistry of fat digestion.** Ask a language model to explain why fats specifically require bile salts for digestion and absorption. Walk through emulsification: bile salts (amphipathic) coat fat droplets, breaking them into smaller particles and creating massive surface area for lipase to act on. Then ask: why don't proteins or carbohydrates need a similar emulsification step? The answer is solubility — proteins and carbs are water-soluble enough to be enzymatically attacked directly, while fats clump into large droplets that exclude water-soluble enzymes. Bile is the engineering solution to a chemistry problem.
+
+**Exercise 4 — Why the gut has its own nervous system.** Ask a language model to explain the enteric nervous system — about 500 million neurons in the gut wall, more than in the spinal cord. The ENS controls motility (peristalsis, segmentation), secretion, and local blood flow without input from the brain. Then ask: why is the gut wired this way rather than being controlled centrally? The answer is timescale — gut decisions (when to contract, what to secrete based on what just arrived) must respond on millisecond-to-second timescales to local conditions, too fast for round-trip processing through the brain.
+
+**Exercise 5 — The microbiome as functional partner.** Ask a language model to estimate the bacterial population in the human gut (~10¹³-10¹⁴ cells) and the functional contributions of this microbiome: digestion of fiber to short-chain fatty acids, synthesis of vitamins K and several B vitamins, immune system development, and pathogen resistance via competitive exclusion. Then ask: which microbiome-disease causal claims (obesity, autism, depression) are well-supported, and which remain mostly correlation? Push the model to be honest about the gap between correlational microbiome research and demonstrated causal mechanisms.
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **William Beaumont** was an army surgeon who, in 1822, saved the life of a trapper shot in the abdomen — and then spent the next eleven years studying his patient's stomach through the permanent hole the wound had left behind. The work founded the experimental study of digestion.
+
+**Run this:**
+
+```
+Who was William Beaumont, and how does his eleven-year study of Alexis St. Martin's stomach connect to the digestive system we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"William Beaumont"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to list three findings Beaumont made about gastric acid that turned out to be right, and one that turned out to be wrong.
+- Add a constraint: "Answer including the ethical issues with Beaumont's research — and how a modern IRB would respond."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 28.1 — Cross-section comparison panels of alimentary canal wall at
+
+Create a standalone D3 v7 HTML file for Figure Cross-section comparison panels of alimentary canal wall at. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: cross-section comparison panels of alimentary canal wall at three locations — (1) esophagus: stratified squamous epithelium, labeled as "tough, multi-layered, resistant to abrasion"; (2) stomach: simple columnar epithelium with gastric glands reaching down into mucosa, labeled as "single layer, secretory, rapidly renewed"; (3) small intestine: simple columnar epithelium with villi projecting into lumen and goblet cells visible, labeled as "single layer, absorptive, brush border"; student should see how the same four-layer wall structure (mucosa/submucosa/muscularis/serosa) changes its epithelial detail at each region to match the functional demand. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and anno
+
+> Reference implementation: `d3/28-the-digestive-system-fig-01.html`
+
+---
+
+### Figure 28.2 — Diagram of accessory organ coordination at the duodenum
+
+Create a standalone D3 v7 HTML file for Figure Diagram of accessory organ coordination at the duodenum. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: diagram of accessory organ coordination at the duodenum — show duodenum receiving chyme from stomach through pylorus; bile duct entering from liver/gallbladder on one side; pancreatic duct entering from pancreas on other side; both ducts merge at the sphincter of Oddi before entering duodenum; label: liver (produces bile continuously), gallbladder (stores and concentrates bile, releases on CCK signal), pancreas (releases bicarbonate via secretin signal, releases enzymes via CCK signal); arrows showing hormonal signals: acidic chyme → duodenal enteroendocrine cells → secretin → pancreas (bicarbonate) and CCK → gallbladder (bile) + pancreas (enzymes); student should see the duodenum as a convergence point for three simultaneous secretions triggered by the same stimulus. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that 
+
+> Reference implementation: `d3/28-the-digestive-system-fig-02.html`
+
+---
+
+### Figure 28.3 — Diagrams of two absorption pathways through an enterocyte
+
+Create a standalone D3 v7 HTML file for Figure Diagrams of two absorption pathways through an enterocyte. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: side-by-side diagrams of two absorption pathways through an enterocyte — left panel (glucose/amino acid, transcellular active transport): lumen → apical membrane (SGLT1 transporter, Na⁺ co-transported in) → cytoplasm → basolateral membrane (GLUT2, glucose exits down gradient) → blood capillary; label Na⁺/K⁺ ATPase on basolateral membrane driving sodium gradient; right panel (fat, lymphatic route): lumen → mixed micelles carry monoglycerides + fatty acids to brush border → diffuse across apical membrane → triglycerides re-synthesized inside cell → packaged into chylomicron → exits basolateral membrane → lymphatic lacteal in villus core (NOT blood capillary); student should see that glucose goes to blood portal circulation while fat goes to lymph, bypassing the liver initially. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative va
+
+> Reference implementation: `d3/28-the-digestive-system-fig-03.html`

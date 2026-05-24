@@ -17,7 +17,8 @@ Cut across an artery and look at the cross-section under a microscope. You see t
 
 Now cut a vein the same way. The same three layers appear, but the proportions are inverted. The tunica media of the vein is thin. The tunica externa is thick. The artery looks like a tightly coiled spring. The vein looks like a deflated balloon. This is not coincidence. It is the pressure difference made visible.
 
-<!-- → [IMAGE: Side-by-side histological cross-sections of an artery and a vein at the same magnification — tunica intima, media, and externa labeled on each. The artery's thick, densely cellular media with wavy elastic fibers contrasted against the vein's thin media and thick, loose externa. Caption: "Same three layers. Completely different proportions. The wall is the pressure."] -->
+![Same three layers. Completely different proportions. The wall is the pressure.](images/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-01.png)
+*Figure 24.1 — Histological cross-sections of an artery and a vein*
 
 The artery near the heart faces something brutal: the full ejection force of ventricular contraction, arriving as a pressure wave 70 times per minute for a lifetime. Its wall has to withstand this without rupturing. More than that, it has to stretch when the pressure surge arrives — storing elastic potential energy — and then recoil when the heart relaxes, pushing blood forward during diastole. Without this elastic recoil, the pressure between heartbeats would drop nearly to zero, and blood would stop moving until the next beat. The elastic fibers in the tunica media of the aorta and its immediate branches do this work. These large arteries are called elastic arteries, and the elastic fibers in their walls are so prominent you can see them as wavy lines in a histological section.
 
@@ -29,7 +30,8 @@ The capillaries have no tunica media. No tunica externa. Only the tunica intima:
 
 The veins, collecting blood after the exchange has happened, face a different problem. The pressure is already low — perhaps 10 to 15 millimeters of mercury at the venous end of the capillary bed. Low pressure means the wall does not need to be thick. But veins contain about 64 percent of the body's blood volume at any given moment. They are not pipes so much as reservoirs. When the body needs to return blood quickly to the heart — during exercise, during hemorrhage — the sympathetic nervous system signals the venous smooth muscle to contract, stiffening the walls slightly and driving blood back toward the heart. The thin walls are not weakness. They are compliance by design.
 
-<!-- → [INFOGRAPHIC: The vascular pressure gradient — a continuous diagram tracing blood from left ventricle through aorta, elastic arteries, muscular arteries, arterioles, capillaries, venules, veins, and back to the right atrium. A pressure curve above showing the fall from ~120/80 mmHg at the aorta to ~35 mmHg at the arterial capillary end to ~18 mmHg at the venous end to ~5 mmHg in the vena cava. Below each vessel type, a thumbnail cross-section showing the proportional wall composition at that pressure. Student should see that wall structure and pressure are continuous variables that track each other across the entire circuit.] -->
+![The vascular pressure gradient ](images/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-02.png)
+*Figure 24.2 — The vascular pressure gradient *
 
 ---
 
@@ -51,7 +53,8 @@ Viscosity changes slowly in healthy blood. Length of vessels doesn't change at a
 
 Twenty percent reduction in radius — easy for a smooth muscle to achieve — changes resistance by a factor of $(1/0.8)^4$, which is about 2.4. Flow through that vessel falls by more than half. A fifty percent reduction in radius — say, from atherosclerotic plaque narrowing a coronary artery — changes resistance by a factor of $2^4 = 16$. The vessel is now carrying one-sixteenth the blood it would carry with a normal lumen. Ischemia follows. This is not a gradual decline. It is a cliff.
 
-<!-- → [CHART: The fourth-power relationship visualized — x-axis showing percent reduction in vessel radius (0% to 70%), y-axis showing fold-increase in resistance (1× to 100×). The curve rises steeply and nonlinearly, with annotations at key points: 20% radius reduction = 2.4× resistance, 30% = 4.2×, 50% = 16×. A second curve on the same chart showing the corresponding fall in blood flow (at constant pressure). Student should see that the relationship is not gradual — there is a steep cliff between 40% and 60% reduction that explains why atherosclerosis produces sudden symptoms after years of silent progression.] -->
+![The fourth-power relationship visualized ](images/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-03.png)
+*Figure 24.3 — The fourth-power relationship visualized *
 
 This fourth-power relationship is why arterioles are the primary site of blood pressure control. They are small enough that smooth muscle tone makes a large proportional difference in radius. They are located just upstream of capillary beds, so their constriction or dilation controls how much blood reaches each tissue. And because they are the site of greatest resistance in the circuit, they are also the site where most of the pressure drop occurs. When the sympathetic nervous system needs to raise blood pressure quickly — during exercise, during stress, during hemorrhage — it constricts arterioles. When a tissue needs more blood — exercising muscle, digesting intestine — local chemical signals cause arteriolar dilation in that region. The system has thousands of these control valves, each independently adjustable, each affecting flow by the fourth power of a small change.
 
@@ -73,7 +76,8 @@ As blood moves through the capillary, it loses fluid. Hydrostatic pressure falls
 
 At the venous end: the pull inward (25) exceeds the push outward (18). Net filtration pressure is −7 millimeters of mercury, inward. Fluid re-enters the capillary.
 
-<!-- → [DIAGRAM: A single capillary shown in longitudinal section — arterial end on the left, venous end on the right. Two opposing arrows at each end: CHP pushing outward (labeled 35 mmHg at left, 18 mmHg at right) and BCOP pulling inward (labeled 25 mmHg throughout). Net filtration pressure calculated and labeled at each end (+10 mmHg filtration at left, −7 mmHg reabsorption at right). Lymphatic capillary shown below collecting the excess fluid not reabsorbed. Caption: "The Starling principle: the same two forces, different magnitudes at each end of the capillary, produce filtration upstream and reabsorption downstream."] -->
+![The Starling principle: the same two forces, different magnitudes at each end of the capillary, produce filtration upstream and reabsorption downstream.](images/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-04.png)
+*Figure 24.4 — A single capillary shown in longitudinal section *
 
 This is the Starling principle: fluid filters out at the arterial end, fluid is reabsorbed at the venous end. The pressures balance such that somewhat more fluid is filtered than reabsorbed — about 24 liters per day filter out across all capillary beds, and about 20 liters are reabsorbed. The remaining 4 liters are collected by lymphatic capillaries and returned to the venous circulation as lymph.
 
@@ -83,7 +87,11 @@ Heart failure creates edema through a different route. A failing left ventricle 
 
 Inflammation provides a third route: inflammatory mediators make capillary walls more permeable to proteins. When proteins can leak through, they accumulate in the interstitial space, raising the osmotic pressure on the tissue side, reducing the gradient pulling water back in. The swelling of inflammation is capillary exchange following altered physics.
 
-<!-- → [TABLE: Three causes of edema compared — rows: Low plasma protein (liver disease/malnutrition), High capillary hydrostatic pressure (heart failure/venous obstruction), Increased capillary permeability (inflammation). Columns: Which Starling force is altered, Direction of change, Where edema accumulates, Clinical example. Student should see that edema is always a Starling imbalance, but the imbalance can originate from three completely different mechanisms.] -->
+| Which Starling force is altered | Direction of change | Where edema accumulates | Clinical example |
+| --- | --- | --- | --- |
+| Low plasma protein (liver disease | malnutrition | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. |
+| High capillary hydrostatic pressure (heart failure | venous obstruction | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. |
+| Increased capillary permeability (inflammation). Columns: Which Starling force is altered, Direction of change, Where edema accumulates, Clinical example. Student should see that edema is always a Starling imbalance, but the imbalance can originate from three completely different mechanisms. | Use the chapter example as the concrete test case. | A concrete checkpoint for applying the chapter concept. | Use the chapter example as the concrete test case. |
 
 ---
 
@@ -116,3 +124,66 @@ The following exercises are designed to be worked through with a language model.
 **Exercise 4 — Capillary type and tissue function.** Ask a language model to explain why the blood-brain barrier uses continuous capillaries with unusually tight junctions while the liver uses sinusoidal capillaries with large gaps. For each tissue, ask it to describe what would happen if you swapped the capillary type — if the brain had sinusoidal capillaries, or if the liver had blood-brain barrier capillaries. Then ask: what does this thought experiment reveal about the relationship between capillary permeability and organ function?
 
 **Exercise 5 — Hypertension as a systems problem.** Ask a language model to trace the complete sequence of physiological events that leads from chronic hypertension to left ventricular failure — starting with elevated systemic vascular resistance and ending with pulmonary edema. For each step in the sequence, identify which concept from this chapter is operating: vessel wall mechanics, Poiseuille resistance, or Starling capillary exchange. Then ask: at which step in this sequence would treatment be most effective at preventing the final outcome, and what does that suggest about the design of antihypertensive therapy?
+
+---
+
+## AI Wayback Machine
+
+The ideas in this chapter didn't appear from nowhere. **Marcello Malpighi** used the newly invented microscope in 1661 to find what William Harvey had postulated but never seen — capillaries connecting arteries to veins. Harvey's circulation theory needed those vessels to exist; Malpighi proved they did.
+
+**Run this:**
+
+```
+Who was Marcello Malpighi, and how does his microscopic discovery of capillaries connect to the blood vessels and circulation we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about his career or ideas.
+```
+
+→ Search **"Marcello Malpighi"** on Wikipedia. See what the model got right, got wrong, or left out.
+
+**Now make the prompt better.** Try one of these:
+
+- Ask it to compare Harvey's argument-from-necessity for capillaries with Malpighi's direct observation — what does each kind of evidence do?
+- Add a constraint: "Answer as Malpighi's 1661 letter to a colleague describing what he just saw in a frog's lung."
+
+What changes? What gets better? What gets worse?
+
+## Prompts
+
+Use these prompts with Claude to generate interactive D3 v7 versions of the
+figures in this chapter. Each produces a standalone HTML file you can open
+in a browser and modify freely.
+
+**Prerequisites:** Load `brutalist/CLAUDE.md` and `brutalist/DESIGN.md` into
+your Claude project context before using these prompts. They define the stack,
+naming conventions, color system, and typography the figures use.
+
+---
+
+### Figure 24.1 — Histological cross-sections of an artery and a vein
+
+Create a standalone D3 v7 HTML file for Figure Histological cross-sections of an artery and a vein. Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: Side-by-side histological cross-sections of an artery and a vein at the same magnification — tunica intima, media, and externa labeled on each. The artery's thick, densely cellular media with wavy elastic fibers contrasted against the vein's thin media and thick, loose externa. Caption: "Same three layers. Completely different proportions. The wall is the pressure.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and the required serif/mono font split.
+
+> Reference implementation: `d3/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-01.html`
+
+---
+
+### Figure 24.2 — The vascular pressure gradient 
+
+Create a standalone D3 v7 HTML file for Figure The vascular pressure gradient . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The vascular pressure gradient — a continuous diagram tracing blood from left ventricle through aorta, elastic arteries, muscular arteries, arterioles, capillaries, venules, veins, and back to the right atrium. A pressure curve above showing the fall from ~120/80 mmHg at the aorta to ~35 mmHg at the arterial capillary end to ~18 mmHg at the venous end to ~5 mmHg in the vena cava. Below each vessel type, a thumbnail cross-section showing the proportional wall composition at that pressure. Student should see that wall structure and pressure are continuous variables that track each other across the entire circuit.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables an
+
+> Reference implementation: `d3/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-02.html`
+
+---
+
+### Figure 24.3 — The fourth-power relationship visualized 
+
+Create a standalone D3 v7 HTML file for Figure The fourth-power relationship visualized . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: The fourth-power relationship visualized — x-axis showing percent reduction in vessel radius (0% to 70%), y-axis showing fold-increase in resistance (1× to 100×). The curve rises steeply and nonlinearly, with annotations at key points: 20% radius reduction = 2.4× resistance, 30% = 4.2×, 50% = 16×. A second curve on the same chart showing the corresponding fall in blood flow (at constant pressure). Student should see that the relationship is not gradual — there is a steep cliff between 40% and 60% reduction that explains why atherosclerosis produces sudden symptoms after years of silent progression.. Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color variables and t
+
+> Reference implementation: `d3/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-03.html`
+
+---
+
+### Figure 24.4 — A single capillary shown in longitudinal section 
+
+Create a standalone D3 v7 HTML file for Figure A single capillary shown in longitudinal section . Use the CDN https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js, inline CSS, ResizeObserver redraw, SVG role="img", aria-labelledby, title, and desc. Build the figure from this structural brief: A single capillary shown in longitudinal section — arterial end on the left, venous end on the right. Two opposing arrows at each end: CHP pushing outward (labeled 35 mmHg at left, 18 mmHg at right) and BCOP pulling inward (labeled 25 mmHg throughout). Net filtration pressure calculated and labeled at each end (+10 mmHg filtration at left, −7 mmHg reabsorption at right). Lymphatic capillary shown below collecting the excess fluid not reabsorbed. Caption: "The Starling principle: the same two forces, different magnitudes at each end of the capillary, produce filtration upstream and reabsorption downstream.". Use the described data shape and labels; when exact values are not supplied, use plausible illustrative values that preserve the relationships in the brief. Use a zero baseline for bars or areas, direct labels where possible, and annotations named in the brief. Use only DESIGN.md color
+
+> Reference implementation: `d3/24-the-cardiovascular-system-blood-vessels-and-circulation-fig-04.html`
