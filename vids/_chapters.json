@@ -1,0 +1,210 @@
+{
+  "book": "biology-anatomy-physiology-with-llms",
+  "book_title": "biology-anatomy-physiology-with-llms",
+  "chapter_count": 29,
+  "chapters": [
+    {
+      "file": "chapters/00-introduction.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/00-introduction.md",
+      "title": "Introduction",
+      "words": 1641,
+      "images": 0
+    },
+    {
+      "file": "chapters/02-an-introduction-to-the-human-body.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/02-an-introduction-to-the-human-body.md",
+      "title": "Chapter 2 — An Introduction to the Human Body",
+      "words": 3216,
+      "images": 7
+    },
+    {
+      "file": "chapters/03-the-chemical-level-of-organization.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/03-the-chemical-level-of-organization.md",
+      "title": "Chapter 3 — The Chemical Level of Organization",
+      "words": 4309,
+      "images": 10
+    },
+    {
+      "file": "chapters/04-the-cellular-level-of-organization.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/04-the-cellular-level-of-organization.md",
+      "title": "Chapter 4 — The Cellular Level of Organization",
+      "words": 3567,
+      "images": 6
+    },
+    {
+      "file": "chapters/05-the-tissue-level-of-organization.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/05-the-tissue-level-of-organization.md",
+      "title": "Chapter 5 — The Tissue Level of Organization",
+      "words": 3562,
+      "images": 5
+    },
+    {
+      "file": "chapters/07-the-integumentary-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/07-the-integumentary-system.md",
+      "title": "Chapter 7 — The Integumentary System: Barrier, Signal, Sentinel",
+      "words": 4320,
+      "images": 7
+    },
+    {
+      "file": "chapters/08-bone-tissue-and-the-skeletal-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/08-bone-tissue-and-the-skeletal-system.md",
+      "title": "Chapter 8 — Bone Tissue and the Skeletal System",
+      "words": 4116,
+      "images": 4
+    },
+    {
+      "file": "chapters/09-axial-skeleton.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/09-axial-skeleton.md",
+      "title": "Chapter 9 — The Axial Skeleton: How Your Body Holds Itself Up",
+      "words": 4118,
+      "images": 9
+    },
+    {
+      "file": "chapters/10-the-appendicular-skeleton.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/10-the-appendicular-skeleton.md",
+      "title": "Chapter 10 — The Appendicular Skeleton: Why Your Limbs Are Built the Way They Are",
+      "words": 4567,
+      "images": 9
+    },
+    {
+      "file": "chapters/11-joints.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/11-joints.md",
+      "title": "Chapter 11 — Joints: The Negotiation Between Stability and Motion",
+      "words": 4148,
+      "images": 4
+    },
+    {
+      "file": "chapters/12-muscle-tissue.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/12-muscle-tissue.md",
+      "title": "Chapter 12 — Muscle Tissue: How Contraction Actually Works",
+      "words": 3591,
+      "images": 6
+    },
+    {
+      "file": "chapters/13-the-muscular-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/13-the-muscular-system.md",
+      "title": "Chapter 13 — The Muscular System: How the Body Moves",
+      "words": 4397,
+      "images": 5
+    },
+    {
+      "file": "chapters/15-the-nervous-system-and-nervous-tissue.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/15-the-nervous-system-and-nervous-tissue.md",
+      "title": "Chapter 15 — Three Angles on Nervous Tissue: Wiring, Signaling, and Conversation",
+      "words": 4325,
+      "images": 5
+    },
+    {
+      "file": "chapters/16-anatomy-of-the-nervous-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/16-anatomy-of-the-nervous-system.md",
+      "title": "Chapter 16 — The Nervous System: Architecture from Embryonic Unfolding",
+      "words": 3950,
+      "images": 7
+    },
+    {
+      "file": "chapters/17-the-somatic-nervous-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/17-the-somatic-nervous-system.md",
+      "title": "Chapter 17 — The Somatic Nervous System",
+      "words": 5045,
+      "images": 6
+    },
+    {
+      "file": "chapters/18-the-autonomic-nervous-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/18-the-autonomic-nervous-system.md",
+      "title": "Chapter 18 — The Autonomic Nervous System: How Your Body Runs Without You Thinking",
+      "words": 4515,
+      "images": 3
+    },
+    {
+      "file": "chapters/19-the-neurological-exam.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/19-the-neurological-exam.md",
+      "title": "Chapter 19 — The Neurological Exam: Reading Damage by Its Function",
+      "words": 4052,
+      "images": 3
+    },
+    {
+      "file": "chapters/20-the-endocrine-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/20-the-endocrine-system.md",
+      "title": "Chapter 20 — The Endocrine System",
+      "words": 4128,
+      "images": 5
+    },
+    {
+      "file": "chapters/22-the-cardiovascular-system-blood.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/22-the-cardiovascular-system-blood.md",
+      "title": "Chapter 22 — The Cardiovascular System: Blood",
+      "words": 3971,
+      "images": 4
+    },
+    {
+      "file": "chapters/23-the-cardiovascular-system-the-heart.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/23-the-cardiovascular-system-the-heart.md",
+      "title": "Chapter 23 — The Heart: A Pump Built from Muscle",
+      "words": 5030,
+      "images": 6
+    },
+    {
+      "file": "chapters/24-the-cardiovascular-system-blood-vessels-and-circulation.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/24-the-cardiovascular-system-blood-vessels-and-circulation.md",
+      "title": "Chapter 24 — Blood Vessels and Circulation",
+      "words": 3449,
+      "images": 4
+    },
+    {
+      "file": "chapters/25-the-lymphatic-and-immune-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/25-the-lymphatic-and-immune-system.md",
+      "title": "Chapter 25 — The Lymphatic and Immune System",
+      "words": 3485,
+      "images": 4
+    },
+    {
+      "file": "chapters/27-the-respiratory-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/27-the-respiratory-system.md",
+      "title": "Chapter 27 — The Respiratory System: Design for Exchange",
+      "words": 4755,
+      "images": 5
+    },
+    {
+      "file": "chapters/28-the-digestive-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/28-the-digestive-system.md",
+      "title": "Chapter 28 — The Digestive System: A Factory That Works Without Your Attention",
+      "words": 4143,
+      "images": 3
+    },
+    {
+      "file": "chapters/29-metabolism-and-nutrition.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/29-metabolism-and-nutrition.md",
+      "title": "Chapter 29 — Metabolism and Nutrition",
+      "words": 3461,
+      "images": 0
+    },
+    {
+      "file": "chapters/30-the-urinary-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/30-the-urinary-system.md",
+      "title": "Chapter 30 — The Urinary System: Making Waste into Information",
+      "words": 4286,
+      "images": 4
+    },
+    {
+      "file": "chapters/31-fluid-electrolyte-and-acid-base-balance.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/31-fluid-electrolyte-and-acid-base-balance.md",
+      "title": "Chapter 31 — Fluid, Electrolyte, and Acid-Base Balance: The Margins of Survival",
+      "words": 4950,
+      "images": 2
+    },
+    {
+      "file": "chapters/33-the-reproductive-system.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/33-the-reproductive-system.md",
+      "title": "Reproduction: The Machinery of Making New Humans",
+      "words": 7377,
+      "images": 0
+    },
+    {
+      "file": "chapters/34-development-and-inheritance.md",
+      "path": "/Users/nik/Documents/Cowork/biology-anatomy-physiology-with-llms/chapters/34-development-and-inheritance.md",
+      "title": "Chapter 34 — Development and Inheritance",
+      "words": 4467,
+      "images": 4
+    }
+  ]
+}
